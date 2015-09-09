@@ -8,5 +8,4 @@ tags:
   - one
   - two
 ---
-sdfcgsdfgdf
-sdfgsdf
+sdfcgsdfgdf sdfgsdf
