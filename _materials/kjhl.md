@@ -1,7 +1,7 @@
 ---
 layout: null
-name: 
-title:
+name: one
+title: two
 material_name: Test Material
 catalog_number: "767"
 type: Metal
