@@ -758,7 +758,7 @@
 	    window.WebflowEditor = true;
 	    $win.off(hashchange, checkHash);
 	    $.ajax({
-	      url: cleanSlashes(("https://webflow.com") + '/api/editor/view'),
+	      url: cleanSlashes(("https://editor-api.webflow.com") + '/api/editor/view'),
 	      xhrFields: { withCredentials: true },
 	      dataType: 'json',
 	      crossDomain: true,
@@ -786,7 +786,7 @@
 	  }
 
 	  function prefix(url) {
-	    return (url.indexOf('//') >= 0) ? url : cleanSlashes(("https://webflow.com") + url);
+	    return (url.indexOf('//') >= 0) ? url : cleanSlashes(("https://editor-api.webflow.com") + url);
 	  }
 
 	  function cleanSlashes(url) {
@@ -3219,6 +3219,7 @@
 	    config.duration = duration != null ? +duration : 500;
 
 	    if (+data.el.attr('data-infinite')) config.infinite = true;
+	    if (+data.el.attr('data-disable-swipe')) config.disableSwipe = true;
 
 	    if (+data.el.attr('data-hide-arrows')) {
 	      config.hideArrows = true;
@@ -3294,6 +3295,7 @@
 	  function handler(data) {
 	    return function(evt, options) {
 	      options = options || {};
+	      var config = data.config;
 
 	      // Designer settings
 	      if (designer && evt.type === 'setting') {
@@ -3308,6 +3310,7 @@
 
 	      // Swipe event
 	      if (evt.type === 'swipe') {
+	        if (config.disableSwipe) return;
 	        if (Webflow.env('editor')) return;
 	        if (options.direction === 'left') return next(data)();
 	        if (options.direction === 'right') return previousFunction(data)();

@@ -147,7 +147,7 @@
   clear: none;
   font-family: Merriweather, serif;
   color: white;
-  font-size: 13px;
+  font-size: 12px;
   line-height: 40px;
   font-weight: 300;
 }
@@ -171,7 +171,7 @@
   -webkit-transition: all 200ms ease;
   transition: all 200ms ease;
   color: transparent;
-  font-size: 16px;
+  font-size: 17px;
   line-height: 40px;
   text-decoration: none;
 }
@@ -383,6 +383,47 @@
 .none-found {
   padding-bottom: 5px;
   opacity: 0.5;
+}
+.leftlogo {
+  position: relative;
+  width: 85px;
+  height: 40px;
+  float: left;
+  background-image: url('../images/dartmouth.png');
+  background-position: 0px 50%;
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-attachment: scroll;
+}
+.leftlogotext {
+  position: absolute;
+  left: 90px;
+  display: inline-block;
+  margin-top: 11px;
+  float: left;
+  clear: left;
+  color: white;
+  font-size: 14px;
+  font-weight: 400;
+  text-transform: uppercase;
+}
+.right-logo {
+  position: absolute;
+  top: 0px;
+  right: 0px;
+  display: inline-block;
+  height: 20px;
+  margin-top: 10px;
+  padding-left: 26px;
+  float: right;
+  background-image: url('../images/ThayerShield_White.png');
+  background-position: 0px 0px;
+  background-size: contain;
+  background-repeat: no-repeat;
+  font-family: Merriweather, serif;
+  color: white;
+  font-size: 12px;
+  line-height: 21px;
 }
 @media (max-width: 991px) {
   .nav-box {
