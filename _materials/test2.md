@@ -1,7 +1,7 @@
 ---
 material_name: Test
 catalog_number: "12345"
-catagories: Metals and Alloys
+catagory: Metals and Alloys
 tags:
   - one
   - two
