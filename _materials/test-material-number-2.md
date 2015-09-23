@@ -20,5 +20,3 @@ Avalable in Shop [ binary array ]
 link Product Database (one to many)
 
 Location in Collcetion
-
- 
