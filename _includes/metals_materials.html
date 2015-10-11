@@ -1,4 +1,4 @@
-{% assign materials = site.materials | where:"class", "Metals" | group_by:"subclass" | sort: "name" %}
+{% assign materials = site.materials | where:"class", "Metals" | group_by:"subclass" | sort: "name" | reverse %}
 {% for group in materials %}
     <h4 class="material-group-title">{{ group.name | remove: "Metals: " }}</h4>
     {% assign items = group.items | sort: "name" %}
