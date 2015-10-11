@@ -7,4 +7,13 @@ type: Metals and Alloys
 category: Metal Alloys
 tags:
     -
+kind:
+    metal:
+        - gold
+        - silver
+    hybrid:
+        - one
+        - two
+        - three
+    
 ---
