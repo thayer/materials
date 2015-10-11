@@ -1,10 +1,10 @@
 ---
 index_letter: C
 name: Carrot
-catalog_number: "12345"
+catalog_number: '12345'
 photo_path: /images/material.png
 type: Metals and Alloys
-category: Pure Metals
+category: Metal Alloys
 tags:
-    - 
+  - ''
 ---
