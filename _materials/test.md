@@ -9,9 +9,9 @@ photos:
         - additional_photo_path: /images/material.png
 links:
     - title: Apple
-    url: www.apple.com
+        url: www.apple.com
 files:
     - title: test
-    file_path: /about.html
+        file_path: /about.html
 ---
 
