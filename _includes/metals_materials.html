@@ -1,6 +1,6 @@
 {% assign materials = site.materials | where:"class", "Metals" | group_by:"subclass" | sort: "name" %}
 {% for group in materials %}
-    <h4 class="material-group-title">{{ group.name }}</h4>
+    <h4 class="material-group-title">{{ group.name | truncatewords: -1 }}</h4>
     {% assign items = group.items | sort: "name" %}
     {% for item in items %}
       <div class="material-block">
