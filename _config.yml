@@ -1,7 +1,8 @@
+baseurl: /matlib
 collections:
     materials:
         output: true
-        
+
 classes:
     - Metals
     - Ceramics
