@@ -4,10 +4,12 @@ name: Banana
 catalog_number: '12345'
 class: Metals
 subclass: 'Metals: Pure Metals'
+
 photos:
-        - primary_photo_path: /images/material.png
-        -
-            additional_photo_path: /images/material.png
+        - primary_photo_path:
+            - /images/material.png
+        - additional_photo_path:
+            - /images/material.png
         
 links:
     -
