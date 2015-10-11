@@ -5,8 +5,6 @@ types:
     - Metals and Alloys
     - Ceramics and Glass
     - Hybrids
-    
-categories: ['Pure Metals', 'Metal Alloys']
 
 index_letters:
     - A
