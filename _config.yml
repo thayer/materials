@@ -1,37 +1,37 @@
 collections:
     materials:
         output: true
-        types:
-            - Metals and Alloys
-            - Ceramics and Glass
-            - Hybrids
-            categories: 
-                        - Pure Metals
-                        - Metal Alloys
-        index_letters:
-                    - A
-                    - B
-                    - C
-                    - D
-                    - E
-                    - F
-                    - G
-                    - H
-                    - I
-                    - J
-                    - K
-                    - L
-                    - M
-                    - N
-                    - O
-                    - P
-                    - Q
-                    - R
-                    - S
-                    - T
-                    - U
-                    - V
-                    - W
-                    - X
-                    - Y
-                    - Z
+types:
+    - Metals and Alloys
+    - Ceramics and Glass
+    - Hybrids
+    categories: 
+                - Pure Metals
+                - Metal Alloys
+index_letters:
+            - A
+            - B
+            - C
+            - D
+            - E
+            - F
+            - G
+            - H
+            - I
+            - J
+            - K
+            - L
+            - M
+            - N
+            - O
+            - P
+            - Q
+            - R
+            - S
+            - T
+            - U
+            - V
+            - W
+            - X
+            - Y
+            - Z
