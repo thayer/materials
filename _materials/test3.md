@@ -4,6 +4,6 @@ name: Apple
 catalog_number: '12345'
 photo_path: /images/material.png
 class: Metals and Alloys
-subclass: 'Metals: Alloy'
+subclass: Pure Metals
 ---
 
