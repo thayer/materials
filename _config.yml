@@ -7,8 +7,11 @@ types:
     - Hybrids
 
 categories:
-    - 'Pure Metals'
-    - 'Metal Alloys'
+    - Pure Metals
+    - Metal Alloys
+    - Composites
+    - Foams
+    - Naturals
 
 index_letters:
     - A
