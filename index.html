@@ -77,21 +77,18 @@
             <div class="w-tab-pane tab-pane" data-w-tab="Metals">
               <h3 class="category-section-title">Metals and Alloys</h3>
               {% include metal_materials.html %}
-              <div></div>
             </div>
             <div class="w-tab-pane tab-pane" data-w-tab="Ceramics">
               <h3 class="category-section-title">Ceramics and Glasses</h3>
               {% include ceramic_materials.html %}
-              <div></div>
             </div>
             <div class="w-tab-pane tab-pane" data-w-tab="Polymers">
               <h3 class="category-section-title">Polymers and Elastomers</h3>
+              {% include polymer_materials.html %}
             </div>
             <div class="w-tab-pane tab-pane" data-w-tab="Hybrids">
               <h3 class="category-section-title">Hybrids</h3>
-              <h4 class="material-group-title">Composites</h4>
-              <h4 class="material-group-title">Foams</h4>
-              <h4 class="material-group-title">Naturals</h4>
+              {% include polymer_materials.html %}
             </div>
             <div class="w-tab-pane tab-pane" data-w-tab="Search">
               <h3 class="category-section-title search-title-overide">Materials Search</h3>
