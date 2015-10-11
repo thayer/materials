@@ -1,11 +1,11 @@
 collections:
     materials:
         output: true
-type:
+types:
             - Metals and Alloys
             - Ceramics and Glass
             - Hybrids
-A-Z_index:
+A-Z_indexs:
             - A
             - B
             - C
