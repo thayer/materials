@@ -8,10 +8,10 @@ primary_photo_path: /images/material.png
 additional_photos:
   - additional_photo_path: ''
 links:
-  - title: 
-    url: 
+  - link_title: 
+    link_address: 
 files:
-  - title: 
+  - file_name: 
     file_path: 
 ---
 
