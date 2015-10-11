@@ -6,13 +6,13 @@ class: Metals
 subclass: 'Metals: Pure Metals'
 photos:
     primary_photo_path: /images/material.png
-  - additional_photo_path: /images/material.png
-  - additional_photo_path: /images/material.png
+    - additional_photo_path: /images/material.png
+    - additional_photo_path: /images/material.png
 links:
-  - title: Apple
+    - title: Apple
     url: www.apple.com
 files:
-  - title: test
+    - title: test
     file_path: /about.html
 ---
 
