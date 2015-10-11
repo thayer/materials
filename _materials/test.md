@@ -2,7 +2,7 @@
 name: Banana
 photo_path: /images/material.png
 catalog_number: "12345"
-A-Z_index: B
+AZ_index: B
 type: Metals and Alloys
 category: Metal Alloys
 tags:
