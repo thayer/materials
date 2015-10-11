@@ -9,7 +9,7 @@ photos:
         primary_photo_path:
             /images/material.png
         additional_photos: 
-            - photo_path: /images/material.png
+            - additional_photo_path: /images/material.png
         
 links:
     -
