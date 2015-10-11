@@ -6,6 +6,6 @@ photo_path: /images/material.png
 class: Metals
 subclass: 'Metals: Pure Metals'
 additional_photos:
-    - additional_photos_path
+    - additional_photo_path: /images/material.png
 ---
 
