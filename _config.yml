@@ -1,4 +1,4 @@
-baseurl: /matlib
+baseurl: ./matlib
 
 collections:
     materials:
