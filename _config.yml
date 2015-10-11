@@ -6,6 +6,10 @@ types:
     - Ceramics and Glass
     - Hybrids
 
+subtypes:
+    - 'Metals: Pure'
+    - 'Metals: Alloy'
+
 index_letters:
     - A
     - B
