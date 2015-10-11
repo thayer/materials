@@ -1,12 +1,12 @@
 collections:
     materials:
         output: true
-types:
+catagories:
     - Metals and Alloys
     - Ceramics and Glass
     - Hybrids
 
-categories:
+subcatagories:
     - Pure Metals
     - Metal Alloys
     - Composites
