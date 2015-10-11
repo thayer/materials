@@ -1,3 +1,5 @@
+baseurl: /matlib
+
 collections:
     materials:
         output: true
