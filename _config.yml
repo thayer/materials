@@ -3,9 +3,6 @@ collections:
         output: true
 types:
       - Metals and Alloys
-                        catagories:
-                                    - Metal Alloys
-                                    - Pure Metals
       - Ceramics and Glass
       - Hybrids
 index_letters:
