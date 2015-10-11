@@ -3,18 +3,17 @@ collections:
         output: true
         
 classes:
-    - Metals and Alloys
-    - Ceramics and Glasses
-    - Polymers and Elastomers
+    - Metals
+    - Ceramics
+    - Polymers
     - Hybrids
 
 subclasses:
-    - None
-    - Pure Metals
-    - Metal Alloys
-    - Composites
-    - Foams
-    - Naturals
+    - 'Metals: Pure'
+    - 'Metals: Pure'
+    - 'Hybrids: Composites'
+    - 'Hybrids: Foams'
+    - 'Hybrids: Naturals'
 
 index_letters:
     - A
