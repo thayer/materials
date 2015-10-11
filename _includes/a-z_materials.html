@@ -4,7 +4,7 @@
     {% assign items = group.items | sort: "name" %}
     {% for item in items %}
       <div class="material-block">
-        <div class="material-block-inner"><img class="material-image" src="{{ site.baseurl }}{{ item.primary_photo_path }}"><a class="w-button material-button" href="{{ site.baseurl }}{{ item.url }}">{{ item.name }}</a>
+        <div class="material-block-inner"><img class="material-image" src=".{{ item.primary_photo_path }}"><a class="w-button material-button" href=".{{ item.url }}">{{ item.name }}</a>
         </div>
     </div>
     {% endfor %}
