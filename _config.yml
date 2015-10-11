@@ -2,12 +2,11 @@ collections:
     materials:
         output: true
 types:
-    Metals_and_Alloys:
-        categories: ['Pure Metals', 'Metal Alloys']
-    Ceramics_and_Glass:
-        categories: ['one', 'two']
-    Hybrids:
-        categories: ['one', 'two']
+    - Metals and Alloys
+    - Ceramics and Glass
+    - Hybrids
+    
+categories: ['Pure Metals', 'Metal Alloys']
 
 index_letters:
     - A
