@@ -1,7 +1,7 @@
-{% assign materials = site.materials | where:"class", "Metals" | group_by:"subclass" | sort: "name" | reverse %}
+{% assign materials = site.materials | where:"class", "Ceramics" | group_by:"subclass" | sort: "name" | reverse %}
 {% for group in materials %}
     <!-- Display the subclass selection from CloudCannon with the class prefix removed. -->
-    <h4 class="material-group-title">{{ group.name | remove: "Metals: " }}</h4>
+    <h4 class="material-group-title">{{ group.name | remove: "Ceramics: " }}</h4>
     {% assign items = group.items | sort: "name" %}
     {% for item in items %}
       <div class="material-block">
