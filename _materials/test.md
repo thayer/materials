@@ -9,6 +9,6 @@ tags:
     -
 kind:
     type:
-    catagory:
+    category:
     
 ---
