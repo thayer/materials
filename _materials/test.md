@@ -8,8 +8,7 @@ subclass: 'Metals: Pure Metals'
 photos:
         primary_photo_path:
             /images/material.png
-        additional_photo:
-            - photo_path: /images/material.png
+        - additional_photo: /images/material.png
         
 links:
     -
