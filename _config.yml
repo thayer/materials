@@ -9,8 +9,8 @@ classes:
     - Hybrids
 
 subclasses:
-    - 'Metals: Pure'
-    - 'Metals: Alloy'
+    - 'Metals: Pure Metals'
+    - 'Metals: Alloy Metals'
     - 'Hybrids: Composites'
     - 'Hybrids: Foams'
     - 'Hybrids: Naturals'
