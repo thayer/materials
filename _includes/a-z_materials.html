@@ -1,4 +1,4 @@
-{% assign materials = site.materials | group_by:"A-Z_index" | sort: "name" %}
+{% assign materials = site.materials | group_by:"index_letters" | sort: "name" %}
 {% for group in materials %}
     <h4 class="material-group-title">{{ group.name }}</h4>
     {% assign items = group.items | sort: "name" %}
