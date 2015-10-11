@@ -2,9 +2,12 @@ collections:
     materials:
         output: true
 types:
-            - Metals and Alloys
-            - Ceramics and Glass
-            - Hybrids
+      - Metals and Alloys
+                        catagories:
+                                    - Metal Alloys
+                                    - Pure Metals
+      - Ceramics and Glass
+      - Hybrids
 index_letters:
             - A
             - B
