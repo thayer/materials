@@ -10,7 +10,7 @@ classes:
 
 subclasses:
     - 'Metals: Pure'
-    - 'Metals: Pure'
+    - 'Metals: Alloy'
     - 'Hybrids: Composites'
     - 'Hybrids: Foams'
     - 'Hybrids: Naturals'
