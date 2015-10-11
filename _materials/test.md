@@ -6,8 +6,5 @@ photo_path: /images/material.png
 type: Ceramics and Glass
 category: Metal Alloys
 tags:
-  - ''
-kind:
-  type:
-    category: Pure Metals
+  - 
 ---
