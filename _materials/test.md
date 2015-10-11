@@ -5,9 +5,9 @@ catalog_number: '12345'
 class: Metals
 subclass: 'Metals: Pure Metals'
 photos:
-    photo_path: /images/material.png
-    - additional_photo_path: /images/material.png
-    - additional_photo_path: /images/material.png
+    oprimary_photo_path: /images/material.png
+        - additional_photo_path: /images/material.png
+        - additional_photo_path: /images/material.png
 links:
     - title: Apple
     url: www.apple.com
