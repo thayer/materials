@@ -2,13 +2,13 @@ collections:
     materials:
         output: true
         
-catagories:
+classes:
     - Metals and Alloys
     - Ceramics and Glasses
     - Polymers and Elastomers
     - Hybrids
 
-subcatagories:
+subclasses:
     - None
     - Pure Metals
     - Metal Alloys
