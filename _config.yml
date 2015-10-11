@@ -1,7 +1,34 @@
 collections:
     materials:
         output: true
-catagories:
-  - Metals and Alloys
-  - Ceramics and Glass
-  - Hybrids
+type:
+            - Metals and Alloys
+            - Ceramics and Glass
+            - Hybrids
+A-Z_index:
+            - A
+            - B
+            - C
+            - D
+            - E
+            - F
+            - G
+            - H
+            - I
+            - J
+            - K
+            - L
+            - M
+            - N
+            - O
+            - P
+            - Q
+            - R
+            - S
+            - T
+            - U
+            - V
+            - W
+            - X
+            - Y
+            - Z

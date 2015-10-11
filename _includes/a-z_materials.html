@@ -1,0 +1,11 @@
+{% assign materials = site.materials | group_by:"A-Z_index" | sort: "name" %}
+{% for group in materials %}
+    <h4 class="material-group-title">{{ group.name }}</h4>
+    {% assign items = group.items | sort: "name" %}
+    {% for item in items %}
+      <div class="material-block">
+        <div class="material-block-inner"><img class="material-image" src={{ item.photo_path}}><a class="w-button material-button" href={{ item.url }}>{{ item.name }}</a>
+      </div>
+    </div>
+    {% endfor %}
+{% endfor %}
