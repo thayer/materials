@@ -8,10 +8,10 @@ primary_photo_path: /images/material.png
 additional_photos:
   - additional_photo_path: ''
 links:
-  - title: Apple
-    url: www.apple.com
+  - title: 
+    url: 
 files:
-  - title: test
-    file_path: /about.html
+  - title: 
+    file_path: 
 ---
 
