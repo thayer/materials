@@ -16,3 +16,4 @@ files:
 ---
 
 Text Description
+{{ page.id }}
