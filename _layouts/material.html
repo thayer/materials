@@ -64,7 +64,7 @@
           <div class="labels">Material Subclass</div>
           {% assign subclass_split = page.subclass | split: ':' %}
           {% for word in subclass_split %}
-{{ word }}
+{{ word | trim }}
 {% endfor %}
           <div class="data">{{ page.subclass | remove: "Ceramics: " }}</div>
           <div class="labels">Description</div>
