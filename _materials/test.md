@@ -1,6 +1,7 @@
 ---
 index_letter: B
-name: '1001'
+name: 'name'
+title: title
 catalog_number: '12345'
 class: Hybrids
 subclass: 'Hybrids: Foams'
