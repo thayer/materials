@@ -1,46 +1,4 @@
-<!DOCTYPE html>
-<!-- This site was created in Webflow. http://www.webflow.com-->
-<!-- Last Published: Sun Sep 20 2015 14:42:35 GMT+0000 (UTC) -->
-<html data-wf-site="55dfb9faf18ac8315a017a83" data-wf-page="55e5e8b0e3aaa9c72f1b8800">
-<head>
-  <meta charset="utf-8">
-  <title>Material - 1234 | Materials Library | Thayer School of Engineering at Dartmouth College</title>
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <meta name="google-site-verification" content="0CaURh2oBUfdn2pSldnMShI-VPCZ8WK1vxqF5R9LFww">
-  <meta name="generator" content="Webflow">
-  <link rel="stylesheet" type="text/css" href="css/normalize.css">
-  <link rel="stylesheet" type="text/css" href="css/webflow.css">
-  <link rel="stylesheet" type="text/css" href="css/matlib.webflow.css">
-  <script src="https://ajax.googleapis.com/ajax/libs/webfont/1.4.7/webfont.js"></script>
-  <script>
-    WebFont.load({
-      google: {
-        families: ["Open Sans:300,300italic,400,400italic,600,600italic,700,700italic,800,800italic","Merriweather:300,400,700,900"]
-      }
-    });
-  </script>
-  <script type="text/javascript" src="js/modernizr.js"></script>
-  <link rel="shortcut icon" type="image/x-icon" href="images/matliblogo.png">
-  <link rel="apple-touch-icon" href="images/matliblogo.png">
-</head>
-<body class="body">
-  <div class="w-section brandbox">
-    <div class="w-container brandbox-container">
-      <a class="w-inline-block thayer" href="http://engineering.dartmouth.edu" target="_blank"><img class="thayer-logo" height="20" src="images/ThayerShield_White.png">
-        <div class="thayer-text">Thayer School of Engineering</div>
-      </a><a class="dartmouth" href="http://dartmouth.edu" target="_blank">Dartmouth</a>
-    </div>
-  </div>
-  <div class="w-nav navbar" id="top" data-collapse="medium" data-animation="default" data-duration="400" data-contain="1">
-    <div class="w-container navbar-container">
-      <a class="w-nav-brand logo" href="index.html"></a>
-      <nav class="w-nav-menu nav-box" role="navigation"><a class="w-nav-link navbar-item" href="index.html">Materials</a><a class="w-nav-link navbar-item" href="about.html">About</a><a class="w-nav-link navbar-item" href="contact.html">Contact</a>
-      </nav>
-      <div class="w-nav-button mobile-nav-button">
-        <div class="w-icon-nav-menu"></div>
-      </div>
-    </div>
-  </div>
+{% include header.html %}
   <div class="w-section content-section">
     <div class="w-container content">
       <div class="w-row">
@@ -116,7 +74,9 @@
           <div class="labels">Tags</div>
           <div class="data">tag list</div>
           <div class="labels">Description</div>
-          <div class="data">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse varius enim in eros elementum tristique. Duis cursus, mi quis viverra ornare, eros dolor interdum nulla, ut commodo diam libero vitae erat. Aenean faucibus nibh et justo cursus id rutrum lorem imperdiet. Nunc ut sem vitae risus tristique posuere.</div>
+          <div class="data">
+              {{ content }}
+          </div>
           <div class="labels">Attachments</div>
           <ul class="data">
             <li><a href="#">one</a>
@@ -130,22 +90,4 @@
       </div>
     </div>
   </div>
-  <div class="w-section footer">
-    <div class="w-container">
-      <div class="w-row">
-        <div class="w-col w-col-6 footer-left">
-          <a class="w-inline-block footer-logo" href="http://engineering.dartmouth.edu" target="_blank"></a>
-        </div>
-        <div class="w-col w-col-6">
-          <p class="footer-contact">14 Engineering Drive, Hanover, NH 03755
-            <br><a class="footer-link" href="#">thayer.receptionist@dartmouth.edu</a>
-            <br>(603) 646-2230</p>
-        </div>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
-  <script type="text/javascript" src="js/webflow.js"></script>
-  <!--[if lte IE 9]><script src="https://cdnjs.cloudflare.com/ajax/libs/placeholders/3.0.2/placeholders.min.js"></script><![endif]-->
-</body>
-</html>
+{% include footer.html %}
