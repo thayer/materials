@@ -69,8 +69,8 @@
           </div>
           <div class="labels">Attachments</div>
           {% for file in page.files %}
-                {{ page.file.file_name }}
-                {{ page.file.file_path }}
+                {{ file.file_name }}
+                {{ file.file_path }}
           {% endfor %}
           <ul class="data">
             <li><a href="#">one</a>
