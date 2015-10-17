@@ -77,10 +77,10 @@
                 </div>
             {% endif %}
             {% if page.links.size > 0 %}
-                <div class="labels">Files</div>
+                <div class="labels">Links</div>
                     <ul class="data">
-                        {% for file in page.files %}
-                            <li><a href="{{ file.file_path }}">{{ file.file_name }}</a></li>
+                        {% for link in page.links %}
+                            <li><a href="{{ link.link_url }}">{{ link.link_name }}</a></li>
                         {% endfor %}
                     </ul>
             {% endif %}
