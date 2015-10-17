@@ -62,8 +62,7 @@
           <div class="labels">Material Class</div>
           <div class="data">{{ page.class }} </div>
           <div class="labels">Material Subclass</div>
-{{ page.subclass | (split: ':') | last }}
-          <div class="data">{{ page.subclass | remove: "Ceramics: " }}</div>
+          <div class="data">{{ page.subclass | (split: ':') | last }}</div>
           <div class="labels">Description</div>
           <div class="data">
               {{ content }}
