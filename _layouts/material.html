@@ -67,7 +67,7 @@
           <div class="data">
               {{ content }}
           </div>
-           {% unless (page.files[0].file_name | strip_newlines) != blank %}
+           {% if (page.files[0].file_name | strip_newlines) == blank %}
                 <div class="labels">Files</div>
                     <ul class="data">
                         {% for file in page.files %}
@@ -75,15 +75,15 @@
                         {% endfor %}
                     </ul>
                 </div>
-            {% endunless %}
-            {% unless (page.links[0].link_name | strip_newlines) != blank %}
+            {% endif %}
+            {% if (page.links[0].link_name | strip_newlines) == blank %}
                 <div class="labels">Links</div>
                     <ul class="data">
                         {% for link in page.links %}
                             <li><a href="{{ link.link_url }}">{{ link.link_name }}</a></li>
                         {% endfor %}
                     </ul>
-            {% endunless %}
+            {% endif %}
         </div>
       </div>
     </div>
