@@ -72,10 +72,10 @@
                     <ul class="data">
                         {% for file in page.files %}
                             <li><a href="{{ file.file_path }}">{{ file.file_name }}</a></li>
-                        {% endunless %}
+                        {% endif %}
                     </ul>
                 </div>
-            {% endif %}
+            {% endunless %}
             {% unless page.links.size > 0 %}
                 <div class="labels">Links</div>
                     <ul class="data">
