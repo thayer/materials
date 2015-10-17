@@ -67,7 +67,8 @@
           <div class="data">
               {{ content }}
           </div>
-           {% unless page.files.size < 0 %}
+          {{ page.files.size }}
+           {% unless page.files.size != null %}
                 <div class="labels">Files</div>
                     <ul class="data">
                         {% for file in page.files %}
