@@ -76,14 +76,14 @@
                     </ul>
                 </div>
             {% endif %}
-            {% if page.links.size > 0 %}
+            {% unless page.links.size > 0 %}
                 <div class="labels">Links</div>
                     <ul class="data">
                         {% for link in page.links %}
                             <li><a href="{{ link.link_url }}">{{ link.link_name }}</a></li>
                         {% endfor %}
                     </ul>
-            {% endif %}
+            {% endunless %}
         </div>
       </div>
     </div>
