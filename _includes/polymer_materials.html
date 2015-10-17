@@ -1,4 +1,4 @@
-{% assign materials = site.materials | where:"class", "Polymers" | group_by:"subclass" | sort: "name" | reverse %}
+{% assign materials = site.materials | where:"class", "Polymers" | group_by:"subclass" | sort: "name" %}
 {% for group in materials %}
     <!-- Display the subclass selection from CloudCannon with the class prefix removed. -->
     <h4 class="material-group-title">{{ group.name | remove: "Polymers: " }}</h4>
