@@ -68,13 +68,13 @@
               {{ content }}
           </div>
            {% if page.files.size > 0 %}
-            <div class="labels">Files</div>
-                <ul class="data">
-                    {% for itme in page.files %}
-                        <li><a href="{{ item.file_path }}">{{ tiem.file_name }}</a><li>
-                    {% endfor %}
-                </ul>
-            </div>
+                <div class="labels">Files</div>
+                    <ul class="data">
+                        {% for itme in page.files %}
+                            <li><a href="{{ item.file_path }}">{{ item.file_name }}</a><li>
+                        {% endfor %}
+                    </ul>
+                </div>
             {% endif %}
       </div>
     </div>
