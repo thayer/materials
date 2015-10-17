@@ -67,7 +67,16 @@
           <div class="data">
               {{ content }}
           </div>
-           {% if page.files.size > 0 %}
+           {% if pages.files.size > 0 %}
+                <div class="labels">Files</div>
+                    <ul class="data">
+                        {% for file in page.files %}
+                            <li><a href="{{ file.file_path }}">{{ file.file_name }}</a></li>
+                        {% endfor %}
+                    </ul>
+                </div>
+            {% endif %}
+            {% if links.files.size > 0 %}
                 <div class="labels">Files</div>
                     <ul class="data">
                         {% for file in page.files %}
