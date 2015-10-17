@@ -3,10 +3,10 @@
   <meta charset="utf-8">
   <title>
       {% if page.collection == "materials" %}
-        Material# 
+        Material# {{ page.name }}
       {% endif %}
       {% if page.title == "home" %}
-        {{ page.name }} | 
+        {{ page.title }} | 
       {% endif %}
         {{ site.name }} | Dartmouth Engineering
   </title>
