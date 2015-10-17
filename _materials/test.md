@@ -1,6 +1,6 @@
 ---
 index_letter: B
-name: Banana
+name: '1001'
 catalog_number: '12345'
 class: Hybrids
 subclass: 'Hybrids: Foams'
