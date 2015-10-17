@@ -1,4 +1,6 @@
-baseurl: /matlib
+github_repo: https://github.com/thayer/matlib
+github_pages_url: http://thayer.github.io/matlib
+cloudcannon_dev_url: http://delightful-mushroom.cloudvent.net/
 
 collections:
     materials:
