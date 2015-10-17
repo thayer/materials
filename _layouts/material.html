@@ -3,8 +3,8 @@
     <div class="w-container content">
       <div class="w-row">
         <div class="w-col w-col-11 w-col-small-11 w-col-tiny-11 column">
-          <h1 class="material-name">Material Name</h1>
-          <div class="catalog-number">Catalog No. 12345</div>
+          <h1 class="material-name">{{ page.material_name }}</h1>
+          <div class="catalog-number">Catalog No. {{ page.url }}</div>
         </div>
         <div class="w-col w-col-1 w-col-small-1 w-col-tiny-1 w-clearfix column">
           <div class="w-embed qrcode"><img src="https://api.qrserver.com/v1/create-qr-code/?data=http%3A%2F%2Fmatlib.webflow.io%2F1234">
@@ -13,12 +13,12 @@
       </div>
       <div class="w-row">
         <div class="w-col w-col-4 w-col-small-4 material-column-left">
-          <a class="w-lightbox w-inline-block lightbox-link lightbox-primary" href="#"><img class="lightbox-image" src="images/material.png">
+          <a class="w-lightbox w-inline-block lightbox-link lightbox-primary" href="#"><img class="lightbox-image" src="{{ page.primary_photo }}">
             <script type="application/json" class="w-json">
               { "group": "material images", "items": [{
-                "url": "images/material.png",
-                "fileName": "55ef3bfd4812941c66a3087f_material.png",
-                "origFileName": "material.png",
+                "url": "{{ page.primary_photo }}",
+                "fileName": "{{ page.primary_photo }}",
+                "origFileName": "{{ page.primary_photo }}",
                 "width": 2400,
                 "height": 2400,
                 "size": 235932,
@@ -67,12 +67,10 @@
           </a>
         </div>
         <div class="w-col w-col-8 w-col-small-8">
-          <div class="labels">Type</div>
-          <div class="data">type name</div>
-          <div class="labels">Categories</div>
-          <div class="data">category list</div>
-          <div class="labels">Tags</div>
-          <div class="data">tag list</div>
+          <div class="labels">Catagory</div>
+          <div class="data">{{ page.catagory }} </div>
+          <div class="labels">Subcategories</div>
+          <div class="data">{{ page.subcatagory }}</div>
           <div class="labels">Description</div>
           <div class="data">
               {{ content }}
