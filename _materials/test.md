@@ -1,6 +1,5 @@
 ---
 index_letter: B
-title: Apple
 name: '1001'
 catalog_number: '12345'
 class: Hybrids
