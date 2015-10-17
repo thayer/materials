@@ -75,7 +75,7 @@
                         {% endif %}
                     </ul>
                 </div>
-            {% endunless %}
+            {% endif %}
             {{ page.links[0].link_name }}
             {% if page.links[0].link_name != '' %}
                 <div class="labels">Links</div>
@@ -84,7 +84,7 @@
                             <li><a href="{{ link.link_url }}">{{ link.link_name }}</a></li>
                         {% endif %}
                     </ul>
-            {% endunless %}
+            {% endif %}
         </div>
       </div>
     </div>
