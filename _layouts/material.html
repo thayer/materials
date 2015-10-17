@@ -67,9 +67,7 @@
           <div class="data">
               {{ content }}
           </div>
-          
-          {{ page.files[0].file_name }}
-           {% unless page.files[0] == '' %}
+           {% unless page.files[0].file_name == '' %}
                 <div class="labels">Files</div>
                     <ul class="data">
                         {% for file in page.files %}
@@ -78,7 +76,7 @@
                     </ul>
                 </div>
             {% endunless %}
-            {% unless page.links[0] == '' %}
+            {% unless page.links[0].link_name == '' %}
                 <div class="labels">Links</div>
                     <ul class="data">
                         {% for link in page.links %}
