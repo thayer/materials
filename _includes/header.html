@@ -6,10 +6,10 @@
     {% if page.collection == "materials" %}
         {{ page.material_name }}
     {% endif %}
-    {% if page.title != "Home" %}
+    {% if page.path != "index.html" %}
         {{ page.title }} | 
     {% endif %}
-        {{ site.name }} | Dartmouth Engineering    {{ page.path }}
+        {{ site.name }} | Dartmouth Engineering
     </title>
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="google-site-verification" content="v_oUsSkSqjvO60j9avOjq0LjvP79F8BZYHZxWJunITE" />
