@@ -72,11 +72,7 @@
                 <div class="labels">Links</div>
                     <ul class="data">
                         {% for link in page.links %}
-                            {% if (link.link_address | downcase | truncate: 7 | remove: '...') == 'http' %}
                             <li><a href="{{ link.link_address }}">{{ link.link_title }}</a></li>
-                            {% else %}
-                            <li><a href="{{ link.link_address | prepend: 'http://' }}">{{ link.link_title }}</a></li>
-                            {% endif %}
                         {% endfor %}
                     </ul>
             {% endunless %}
