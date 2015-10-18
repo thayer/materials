@@ -6,8 +6,8 @@
     {% for item in items %}
       <div class="material-block">
         <div class="material-block-inner"><img class="material-image" src="{{ site.baseurl }}{{ item.primary_photo_path }}">
-        <a class="w-button material-button" href="{{ site.baseurl }}{{ item.url }}">{{ item.material_name | truncate: 14 }}</a>
-      </div>
+        <a class="w-button material-button" href="{{ site.baseurl }}{{ item.url }}">{{ item.material_name | truncate: site.name_length }}</a>
+        </div>
     </div>
     {% endfor %}
 {% endfor %}
