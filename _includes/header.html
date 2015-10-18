@@ -9,7 +9,7 @@
     {% if page.title != "Home" %}
         {{ page.title }} | 
     {% endif %}
-        {{ site.name }} | Dartmouth Engineering
+        {{ site.name }} | Dartmouth Engineering    {{ page.path }}
     </title>
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="google-site-verification" content="v_oUsSkSqjvO60j9avOjq0LjvP79F8BZYHZxWJunITE" />
@@ -46,4 +46,3 @@
         </div>
       </div>
       </div><a class="w-button back-to-top" href="#top"></a>
-      {{ page.path }}
