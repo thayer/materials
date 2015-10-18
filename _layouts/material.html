@@ -73,7 +73,7 @@
                     <ul class="data">
                         {% for link in page.links %}
                             {% assign look_for_http = link.link_address %}
-                            {{ look_for_http | truncate: 7 | remove: '...' }}
+                            {{ link.link_address | downcase | truncate: 7 | remove: '...' }}
                             <li><a href="{{ link.link_address }}">{{ link.link_title }}</a></li>
                         {% endfor %}
                     </ul>
