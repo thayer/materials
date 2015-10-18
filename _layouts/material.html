@@ -72,7 +72,7 @@
                 <div class="labels">Links</div>
                     <ul class="data">
                         {% for link in page.links %}
-                            <li><a href="{{ link.link_http }}">{{ link.link_title }}</a></li>
+                            <li><a href="{{ link.link_address }}">{{ link.link_title }}</a></li>
                         {% endfor %}
                     </ul>
             {% endunless %}
