@@ -13,10 +13,10 @@
       </div>
       <div class="w-row">
         <div class="w-col w-col-4 w-col-small-4 material-column-left">
-          <a class="w-lightbox w-inline-block lightbox-link lightbox-primary" href="#"><img class="lightbox-image" src="{{page.primary_photo_path}}">
+          <a class="w-lightbox w-inline-block lightbox-link lightbox-primary" href="#"><img class="lightbox-image" src="{{ site.baseurl }}{{page.primary_photo_path}}">
             <script type="application/json" class="w-json">
               { "group": "material images", "items": [{
-                "url": "{{page.primary_photo_path}}",
+                "url": "{{ site.baseurl }}{{page.primary_photo_path}}",
                 "width": 2400,
                 "height": 2400,
                 "size": 235932,
@@ -72,7 +72,7 @@
                 <div class="labels">Links</div>
                     <ul class="data">
                         {% for link in page.links %}
-                            <li><a href="http://test">{{ link.link_title }}</a></li>
+                            <li><a href="{{link.link_address">{{ link.link_title }}</a></li>
                         {% endfor %}
                     </ul>
             {% endunless %}
@@ -81,7 +81,7 @@
                 <div class="labels">Files</div>
                     <ul class="data">
                         {% for file in page.files %}
-                            <li><a href="{{ file.file_path }}">{{ file.file_name }}</a></li>
+                            <li><a href="{{ site.baseurl }}{{ file.file_path }}">{{ file.file_name }}</a></li>
                         {% endfor %}
                     </ul>
                 </div>
