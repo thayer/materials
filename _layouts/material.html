@@ -24,39 +24,21 @@
               }] }
             </script>
           </a>
-          <!--<a class="w-lightbox w-inline-block lightbox-link lightbox-link-secondary" href="#"><img class="lightbox-image lightbox-image-secondary" src="/images/material.png">-->
-          <!--  <script type="application/json" class="w-json">-->
-          <!--    { "group": "material images", "items": [{-->
-          <!--      "url": "/images/material.png",-->
-          <!--      "width": 2400,-->
-          <!--      "height": 2400,-->
-          <!--      "size": 235932,-->
-          <!--      "type": "image"-->
-          <!--    }] }-->
-          <!--  </script>-->
-          <!--</a>-->
-          <!--<a class="w-lightbox w-inline-block lightbox-link lightbox-link-secondary" href="#"><img class="lightbox-image lightbox-image-secondary" src="/images/material.png">-->
-          <!--  <script type="application/json" class="w-json">-->
-          <!--    { "group": "material images", "items": [{-->
-          <!--      "url": "/images/material.png",-->
-          <!--      "width": 2400,-->
-          <!--      "height": 2400,-->
-          <!--      "size": 235932,-->
-          <!--      "type": "image"-->
-          <!--    }] }-->
-          <!--  </script>-->
-          <!--</a>-->
-          <!--<a class="w-lightbox w-inline-block lightbox-link lightbox-link-secondary" href="#"><img class="lightbox-image lightbox-image-secondary" src="/images/material.png">-->
-          <!--  <script type="application/json" class="w-json">-->
-          <!--    { "group": "material images", "items": [{-->
-          <!--      "url": "/images/material.png",-->
-          <!--      "width": 2400,-->
-          <!--      "height": 2400,-->
-          <!--      "size": 235932,-->
-          <!--      "type": "image"-->
-          <!--    }] }-->
-          <!--  </script>-->
-          <!--</a>-->
+          {% for photo in page.additional_photos %}
+           {{ photo.photo_path }}
+           {% endfor %}
+          <a class="w-lightbox w-inline-block lightbox-link lightbox-link-secondary" href="#"><img class="lightbox-image lightbox-image-secondary" src="/images/material.png">
+            <script type="application/json" class="w-json">
+              { "group": "material images", "items": [{
+                "url": "/images/material.png",
+                "width": 2400,
+                "height": 2400,
+                "size": 235932,
+                "type": "image"
+              }] }
+            </script>
+          </a>
+
         </div>
         <div class="w-col w-col-8 w-col-small-8">
           <div class="labels">Class</div>
