@@ -25,6 +25,7 @@
             </script>
           </a>
           {% for photo in page.additional_photos %}
+            {% unless photo.additional_photo_path == '' %}
               <a class="w-lightbox w-inline-block lightbox-link lightbox-link-secondary" href="#"><img class="lightbox-image lightbox-image-secondary" src="{{ site.baseurl }}{{ photo.additional_photo_path }}">
                 <script type="application/json" class="w-json">
                   { "group": "material images", "items": [{
@@ -36,6 +37,7 @@
                   }] }
                 </script>
               </a>
+              {% endunless %}
            {% endfor %}
 
         </div>
