@@ -7,7 +7,7 @@
           <div class="catalog-number">Catalog No. {{  page.url | (remove: "/materials/") | (remove: ".html" }}</div>
         </div>
         <div class="w-col w-col-1 w-col-small-1 w-col-tiny-1 w-clearfix column">
-          <div class="w-embed qrcode"><img src="https://api.qrserver.com/v1/create-qr-code/?data={{ 'http://tiny.cc/matlib' | url_escape }}{{ page.url | remove: '/materials' | url_escape }}">{{ page.name }}
+          <div class="w-embed qrcode"><img src="https://api.qrserver.com/v1/create-qr-code/?data={{ 'http://tiny.cc/matlib' | url_escape }}{{ page.url | remove: '/materials' | url_escape }}">{{ page.path }}
           </div>
         </div>
       </div>
