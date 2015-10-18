@@ -7,13 +7,13 @@
           <div class="catalog-number">Catalog No. {{  page.url | (remove: "/materials/") | (remove: ".html" }}</div>
         </div>
         <div class="w-col w-col-1 w-col-small-1 w-col-tiny-1 w-clearfix column">
-          <div class="w-embed qrcode"><img src="https://api.qrserver.com/v1/create-qr-code/?data={{ 'http://tiny.cc/matlib' | url_escape }}{{ page.url | remove: '/materials' | url_escape }}">
+          <div class="w-embed qrcode"><img src="https://api.qrserver.com/v1/create-qr-code/?data={{ 'http://tiny.cc/matlib' | url_escape }}{{ page.url | remove: '/materials' | url_escape }}" />
           </div>
         </div>
       </div>
       <div class="w-row">
         <div class="w-col w-col-4 w-col-small-4 material-column-left">
-          <a class="w-lightbox w-inline-block lightbox-link lightbox-primary" href="#"><img class="lightbox-image" src="{{ site.baseurl }}{{page.primary_photo_path}}">
+          <a class="w-lightbox w-inline-block lightbox-link lightbox-primary" href="#"><img class="lightbox-image" src="{{ site.baseurl }}{{page.primary_photo_path}}" />
             <script type="application/json" class="w-json">
               { "group": "material images", "items": [{
                 "url": "{{ site.baseurl }}{{page.primary_photo_path}}",
@@ -64,9 +64,7 @@
           <div class="labels">Subclass</div>
           <div class="data">{{ page.subclass | (split: ':') | last }}</div>
           <div class="labels">Description</div>
-          <div class="data editable">
-              {{ content }}
-          </div>
+          <div class="data editable"><p>Additional material text and content goes here.</p><p>Test</p></div>
             {% assign first_link_title = (page.links[0].link_title | strip) %}
             {% unless first_link_title == '' %}
                 <div class="labels">Links</div>
@@ -89,5 +87,5 @@
         </div>
       </div>
     </div>
-  </div>
+  
 {% include footer.html %}
