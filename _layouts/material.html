@@ -72,8 +72,7 @@
                 <div class="labels">Links</div>
                     <ul class="data">
                         {% for link in page.links %}
-                            <li><a href="{{ "www.apple.com" | strip }}">{{ link.link_title }}</a></li>
-                            {{ link.link_title | link_to: link.link_address }}
+                            <li><a href="{{ link.link_address }}">{{ link.link_title }}</a></li>
                         {% endfor %}
                     </ul>
             {% endunless %}
