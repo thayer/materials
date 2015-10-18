@@ -72,7 +72,7 @@
                 <div class="labels">Links</div>
                     <ul class="data">
                         {% for link in page.links %}
-                            {% assign look_for_http = (link.link_address | slice: 0, 4) %}
+                            {% assign look_for_http = (link.link_address | slice: 0) %}
                             {{ look_for_http }}
                             <li><a href="{{ link.link_address }}">{{ link.link_title }}</a></li>
                         {% endfor %}
