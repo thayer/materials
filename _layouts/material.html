@@ -64,7 +64,9 @@
           <div class="labels">Subclass</div>
           <div class="data">{{ page.subclass | (split: ':') | last }}</div>
           <div class="labels">Description</div>
-          <div class="data editable"><p>Additional materdsand content goes here.</p><p>Test</p></div>
+          <div class="data">
+          {{ content }}
+          </div>
             {% assign first_link_title = (page.links[0].link_title | strip) %}
             {% unless first_link_title == '' %}
                 <div class="labels">Links</div>
