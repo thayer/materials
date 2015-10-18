@@ -76,6 +76,7 @@
                     </ul>
                 </div>
             {% endif %}
+            {{ page.links[0].link_name }}
             {% if (page.links[0].link_name | strip) == blank %}
                 <div class="labels">Links</div>
                     <ul class="data">
