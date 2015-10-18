@@ -68,7 +68,7 @@
               {{ content }}
           </div>
           {{ page.files[0].file_name | strip }}
-           {% unless (page.files[0].file_name | strip) != '' %}
+           {% if (page.files[0].file_name | strip) != blank %}
                 <div class="labels">Files</div>
                     <ul class="data">
                         {% for file in page.files %}
@@ -76,16 +76,16 @@
                         {% endfor %}
                     </ul>
                 </div>
-            {% endunless %}
+            {% endif %}
             {{ page.links[0].link_title | strip }}
-            {% unless (page.links[0].link_title | strip) != '' %}
+            {% if (page.links[0].link_title | strip) != blank %}
                 <div class="labels">Links</div>
                     <ul class="data">
                         {% for link in page.links %}
                             <li><a href="{{ link.link_url }}">{{ link.link_title }}</a></li>
                         {% endfor %}
                     </ul>
-            {% endunless %}
+            {% endif %}
         </div>
       </div>
     </div>
