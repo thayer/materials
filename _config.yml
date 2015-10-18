@@ -6,6 +6,7 @@ baseurl: /matlib
 name_length: 20
 
 defaults:
+  -
     layout: "default"
   -
     scope:
