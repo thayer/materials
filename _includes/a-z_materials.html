@@ -6,7 +6,7 @@
       <div class="material-block">
         <div class="material-block-inner"><img class="material-image" src="{{ site.baseurl }}{{ item.primary_photo_path }}">
         {% assign short_name = item.material_name %}
-        <a class="w-button material-button" href="{{ site.baseurl }}{{ item.url }}">{{ short_name | strip | truncate: 10 }}</a>
+        <a class="w-button material-button" href="{{ site.baseurl }}{{ item.url }}">{{ short_name | truncate: 10 }}</a>
         </div>
     </div>
     {% endfor %}
