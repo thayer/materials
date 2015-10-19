@@ -1,75 +1,74 @@
 {% include header.html %}
-  <div class="w-section content-section">
-    <div class="w-container content">
-      <div class="w-row">
-        <div class="w-col w-col-11 w-col-small-11 w-col-tiny-11 column">
-          <h1 class="material-name">{{ page.material_name }}</h1>
-          <div class="catalog-number">Catalog No. {{  page.url | (remove: "/materials/") | (remove: ".html" }}</div>
-        </div>
-        <div class="w-col w-col-1 w-col-small-1 w-col-tiny-1 w-clearfix column">
-          <div class="w-embed qrcode"><img src="https://api.qrserver.com/v1/create-qr-code/?data={{ 'http://tiny.cc/matlib' | url_escape }}{{ page.url | remove: '/materials' | url_escape }}" />
-          </div>
-        </div>
+<div class="w-section content-section">
+  <div class="w-container content">
+    <div class="w-row">
+      <div class="w-col w-col-11 w-col-small-11 w-col-tiny-11 column">
+        <h1 class="material-name">{{ page.material_name }}</h1>
+        <div class="catalog-number">Catalog No. {{  page.url | (remove: "/materials/") | (remove: ".html" }}</div>
       </div>
-      <div class="w-row">
-        <div class="w-col w-col-4 w-col-small-4 material-column-left">
-          <a class="w-lightbox w-inline-block lightbox-link lightbox-primary" href="#"><img class="lightbox-image" src="{{ site.baseurl }}{{page.primary_photo_path}}" />
-            <script type="application/json" class="w-json">
-              { "group": "material images", "items": [{
-                "url": "{{ site.baseurl }}{{page.primary_photo_path}}",
-                "width": 2400,
-                "height": 2400,
-                "size": 235932,
-                "type": "image"
-              }] }
-            </script>
-          </a>
-          {% for photo in page.additional_photos %}
-            {% unless photo.additional_photo_path == '' %}
-              <a class="w-lightbox w-inline-block lightbox-link lightbox-link-secondary" href="#"><img class="lightbox-image lightbox-image-secondary" src="{{ site.baseurl }}{{ photo.additional_photo_path }}">
-                <script type="application/json" class="w-json">
-                  { "group": "material images", "items": [{
-                    "url": "{{ site.baseurl }}{{ photo.additional_photo_path }}",
-                    "width": 2400,
-                    "height": 2400,
-                    "size": 235932,
-                    "type": "image"
-                  }] }
-                </script>
-              </a>
-              {% endunless %}
-           {% endfor %}
-        </div>
-        <div class="w-col w-col-8 w-col-small-8">
-          <div class="labels">Class</div>
-          <div class="data">{{ page.class }} </div>
-          <div class="labels">Subclass</div>
-          <div class="data">{{ page.subclass | (split: ':') | last }}</div>
-          <div class="labels">Description</div>
-          <div class="data">
-          {{ content }}
-          </div>
-            {% assign first_link_title = (page.links[0].link_title | strip) %}
-            {% unless first_link_title == '' %}
-                <div class="labels">Links</div>
-                    <ul class="data">
-                        {% for link in page.links %}
-                            <li><a href="{{ link.link_address }}">{{ link.link_title }}</a></li>
-                        {% endfor %}
-                    </ul>
-            {% endunless %}
-            {% assign first_file_name = (page.files[0].file_name | strip) %}
-            {% unless first_file_name == '' %}
-                <div class="labels">Files</div>
-                    <ul class="data">
-                        {% for file in page.files %}
-                            <li><a href="{{ site.baseurl }}{{ file.file_path }}">{{ file.file_name }}</a></li>
-                        {% endfor %}
-                    </ul>
-                </div>
-            {% endunless %}
+      <div class="w-col w-col-1 w-col-small-1 w-col-tiny-1 w-clearfix column">
+        <div class="w-embed qrcode"><img src="https://api.qrserver.com/v1/create-qr-code/?data={{ 'http://tiny.cc/matlib' | url_escape }}{{ page.url | remove: '/materials' | url_escape }}" />
         </div>
       </div>
     </div>
-  
+    <div class="w-row">
+      <div class="w-col w-col-4 w-col-small-4 material-column-left">
+        <a class="w-lightbox w-inline-block lightbox-link lightbox-primary" href="#"><img class="lightbox-image" src="{{ site.baseurl }}{{page.primary_photo_path}}" />
+          <script type="application/json" class="w-json">
+          { "group": "material images", "items": [{
+          "url": "{{ site.baseurl }}{{page.primary_photo_path}}",
+          "width": 2400,
+          "height": 2400,
+          "size": 235932,
+          "type": "image"
+          }] }
+          </script>
+        </a>
+        {% for photo in page.additional_photos %}
+          {% unless photo.additional_photo_path == '' %}
+          <a class="w-lightbox w-inline-block lightbox-link lightbox-link-secondary" href="#"><img class="lightbox-image lightbox-image-secondary" src="{{ site.baseurl }}{{ photo.additional_photo_path }}">
+            <script type="application/json" class="w-json">
+            { "group": "material images", "items": [{
+            "url": "{{ site.baseurl }}{{ photo.additional_photo_path }}",
+            "width": 2400,
+            "height": 2400,
+            "size": 235932,
+            "type": "image"
+            }] }
+            </script>
+          </a>
+        {% endunless %}
+      {% endfor %}
+    </div>
+    <div class="w-col w-col-8 w-col-small-8">
+      <div class="labels">Class</div>
+      <div class="data">{{ page.class }} </div>
+      <div class="labels">Subclass</div>
+      <div class="data">{{ page.subclass | (split: ':') | last }}</div>
+      <div class="labels">Description</div>
+      <div class="data">
+        {{ content }}
+      </div>
+      {% assign first_link_title = (page.links[0].link_title | strip) %}
+      {% unless first_link_title == '' %}
+      <div class="labels">Links</div>
+      <ul class="data">
+        {% for link in page.links %}
+          <li><a href="{{ link.link_address }}">{{ link.link_title }}</a></li>
+        {% endfor %}
+      </ul>
+    {% endunless %}
+    {% assign first_file_name = (page.files[0].file_name | strip) %}
+    {% unless first_file_name == '' %}
+    <div class="labels">Files</div>
+    <ul class="data">
+      {% for file in page.files %}
+        <li><a href="{{ site.baseurl }}{{ file.file_path }}">{{ file.file_name }}</a></li>
+      {% endfor %}
+    </ul>
+  {% endunless %}
+</div>
+</div>
+</div>
+</div>
 {% include footer.html %}
