@@ -34,6 +34,14 @@ classes:
 subclasses:
     - 'Metals: Pure Metals'
     - 'Metals: Alloy Metals'
+    - 'Ceramics: Technical Ceramics'
+    - 'Ceramics: Glasses'
+    - 'Ceramics: Cement and Concrete'
+    - 'Ceramics: Fired Clays'
+    - 'Ceramics: Minerals and Stone'
+    - 'Polymers: Elastomers'
+    - 'Polymers: Thermoplastics"
+    - 'Polymers: Thermosets'
     - 'Hybrids: Composites'
     - 'Hybrids: Foams'
     - 'Hybrids: Naturals'
