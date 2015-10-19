@@ -1,0 +1,16 @@
+---
+material_name: Cherry
+index_letter: A
+class: Hybrids
+subclass: 'Hybrids: Naturals'
+primary_photo_path: ''
+additional_photos:
+  - additional_photo_path: ''
+  - additional_photo_path: ''
+links:
+  - link_title: Wikipedia - Aluminum
+    link_address: 'https://en.wikipedia.org/wiki/Aluminium'
+files:
+  - file_name: ''
+    file_path: /photos/34.jpg
+---
