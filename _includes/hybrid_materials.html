@@ -4,16 +4,16 @@
     <h4 class="material-group-title">{{ group.name | remove: "Hybrids: " }}</h4>
     {% assign items = group.items | sort: "name" %}
     {% for item in items %}
-      <div class="material-block">
-        <div class="material-block-inner">
-            <a href="{{ site.baseurl }}{{ item.url }}">
-                <img class="material-image" src="{{ site.baseurl }}{{ item.primary_photo_path}}">
-            </a>
-            <a class="w-button material-button" href="{{ site.baseurl }}{{ item.url }}">
-                {{ item.material_name | truncate: site.grid_view_name_length }}
-            </a>
+        <div class="material-block">
+            <div class="material-block-inner">
+                <a href="{{ site.baseurl }}{{ item.url }}">
+                    <img class="material-image" src="{{ site.baseurl }}{{ item.primary_photo_path}}">
+                </a>
+                <a class="w-button material-button" href="{{ site.baseurl }}{{ item.url }}">
+                    {{ item.material_name | truncate: site.grid_view_name_length }}
+                </a>
+            </div>
         </div>
-    </div>
     {% endfor %}
 {% endfor %}
 <h4 class="material-group-title"> </h4>
