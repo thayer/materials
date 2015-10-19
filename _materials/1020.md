@@ -1,9 +1,9 @@
 ---
-material_name: Cherry
+material_name: 1045 Carbon Steel
 index_letter: A
-class: Hybrids
-subclass: 'Hybrids: Naturals'
-primary_photo_path: ''
+class: Metals
+subclass: 'Metals: Alloy Metals'
+primary_photo_path: /photos/20.jpg
 additional_photos:
   - additional_photo_path: ''
   - additional_photo_path: ''
@@ -14,3 +14,4 @@ files:
   - file_name: ''
     file_path: /photos/34.jpg
 ---
+
