@@ -5,14 +5,14 @@
     {% for item in items %}
         <div class="material-block">
             <div class="material-block-inner">
-                <a href="{{ site.baseurl }}{{ item.url }}">
+                <a href="{{ item.url | prepend: site.baseurl }}">
                     {% if item.primary_photo_path == '' %}
                     <img class="material-image" src="{{ '/images/no-photo.png' | prepend: site.baseurl }}">
                     {% else %}
                     <img class="material-image" src="{{ item.primary_photo_path | prepend: site.baseurl }}">
                     {% endif %}
                 </a>
-                <a class="w-button material-button" href="{{ site.baseurl }}{{ item.url }}">
+                <a class="w-button material-button" href="{{ item.url | prepend: site.baseurl }}">
                     {{ item.material_name | truncate: site.grid_view_name_length }}
                 </a>
             </div>
