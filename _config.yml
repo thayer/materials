@@ -3,10 +3,11 @@ name: Materials Library
 github_repo: https://github.com/thayer/matlib
 github_pages_url: http://thayer.github.io/matlib
 cloudcannon_dev_url: http://delightful-mushroom.cloudvent.net
-
 thayer_proxy_url: http://engineering.dartmouth.edu/matlib
 
 baseurl: /matlib
+
+update: http://engineering.dartmouth.edu/matlib/update
 
 grid_view_name_length: 20
 
