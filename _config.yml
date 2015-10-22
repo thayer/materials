@@ -27,6 +27,7 @@ defaults:
 collections:
     materials:
         output: true
+        permalink: /matlib/
 
 classes:
     - Metals
