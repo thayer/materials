@@ -1,0 +1,71 @@
+---
+
+---
+      <div class="w-section categories">
+        <div class="w-container category-container">
+          <div class="w-tabs tabs" data-duration-in="300" data-duration-out="100">
+            <div class="w-tab-menu w-clearfix tab-bar" id="search">
+              <a class="w-tab-link w--current w-inline-block tab-link index-tab" id="index" data-w-tab="Index">
+                <div class="tab-text tab-text-icon">&nbsp;</div>
+                <div class="tab-text">Index</div>
+              </a>
+              <a class="w-tab-link w-inline-block tab-link" data-w-tab="Metals">
+                <div class="tab-text">Metals</div>
+              </a>
+              <a class="w-tab-link w-inline-block tab-link" data-w-tab="Ceramics">
+                <div class="tab-text">Ceramics</div>
+              </a>
+              <a class="w-tab-link w-inline-block tab-link" data-w-tab="Polymers">
+                <div class="tab-text">Polymers</div>
+              </a>
+              <a class="w-tab-link w-inline-block tab-link" data-w-tab="Hybrids">
+                <div class="tab-text">Hybrids</div>
+              </a>
+              <a class="w-tab-link w-inline-block tab-link search-tab" data-w-tab="Search">
+                <div class="tab-text tab-text-icon"></div>
+                <div class="tab-text">Search</div>
+              </a>
+            </div>
+            <div class="w-tab-content tab-container">
+              <div class="w-tab-pane w--tab-active w-clearfix tab-pane" data-w-tab="Index">
+                <h3 class="category-section-title">Index</h3>
+                {% include a-z_materials.html %}
+            </div>
+            <div class="w-tab-pane tab-pane" data-w-tab="Metals">
+              <h3 class="category-section-title">Metals and Alloys</h3>
+              {% include metal_materials.html %}
+            </div>
+            <div class="w-tab-pane tab-pane" data-w-tab="Ceramics">
+              <h3 class="category-section-title">Ceramics and Glasses</h3>
+              {% include ceramic_materials.html %}
+            </div>
+            <div class="w-tab-pane tab-pane" data-w-tab="Polymers">
+              <h3 class="category-section-title">Polymers and Elastomers</h3>
+              {% include polymer_materials.html %}
+            </div>
+            <div class="w-tab-pane tab-pane" data-w-tab="Hybrids">
+              <h3 class="category-section-title">Hybrids</h3>
+              {% include hybrid_materials.html %}
+            </div>
+            <div class="w-tab-pane tab-pane" data-w-tab="Search">
+              <h3 class="category-section-title search-title-overide">Materials Search</h3>
+              <div class="w-embed w-script search">
+                <script>
+                (function() {
+                var cx = '007553578424327919395:wnjw2tul-l0';
+                var gcse = document.createElement('script');
+                gcse.type = 'text/javascript';
+                gcse.async = true;
+                gcse.src = (document.location.protocol == 'https:' ? 'https:' : 'http:') +
+                '//cse.google.com/cse.js?cx=' + cx;
+                var s = document.getElementsByTagName('script')[0];
+                s.parentNode.insertBefore(gcse, s);
+                })();
+                </script>
+              <gcse:search></gcse:search>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
