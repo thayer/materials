@@ -7,7 +7,7 @@ thayer_proxy_url: http://engineering.dartmouth.edu/matlib
 
 baseurl: 
 
-update: http://delightful-mushroom.cloudvent.net/update
+update: http://engineering.dartmouth.edu/matlib/update
 
 grid_view_name_length: 20
 
