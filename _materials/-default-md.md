@@ -1,5 +1,5 @@
 ---
-material_name: 
+material_name: ''
 index_letter: ''
 class: ''
 subclass: ''
