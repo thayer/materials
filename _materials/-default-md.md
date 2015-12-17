@@ -1,10 +1,10 @@
 ---
-material_name: Cherry
-index_letter: C
-class: Hybrids
-subclass: 'Hybrids: Naturals'
-primary_photo_path: /photos/processedwithnames/cherry.jpeg
-additional_photos:
+material_name: Common Name
+index_letter: ''
+class: ''
+subclass: ''
+primary_photo_path: ''
+additional_photos: ''
   - additional_photo_path: ''
   - additional_photo_path: ''
 links:
