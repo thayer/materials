@@ -10,6 +10,6 @@ links:
     - link_title: 
       link_address: 
 files:
-    - file_name: Datasheet
-      file_path: /datasheets/ceramics and glasses/glasses/soda-lime glass.pdf
+    - file_name: 
+      file_path: 
 ---
