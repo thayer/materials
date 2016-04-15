@@ -104,7 +104,6 @@
   color: #fff;
   font-size: 13px;
   line-height: 13px;
-  font-weight: 600;
   text-align: center;
   text-transform: none;
 }
@@ -132,6 +131,7 @@
   margin-right: auto;
   margin-left: auto;
   opacity: 1;
+  font-weight: 700;
 }
 
 .tab-link.index-tab.process-index {
@@ -157,6 +157,7 @@
 
 .tab-link.last-tab.hybrids.w--current {
   opacity: 1;
+  font-weight: 700;
 }
 
 .tab-link.last-tab.hybrids.process-surface {
@@ -177,6 +178,7 @@
 
 .tab-link.metals.w--current {
   opacity: 1;
+  font-weight: 700;
 }
 
 .tab-link.metals.process-join {
@@ -193,6 +195,7 @@
 
 .tab-link.ceramics.w--current {
   opacity: 1;
+  font-weight: 700;
 }
 
 .tab-link.ceramics.process-shape {
@@ -209,6 +212,7 @@
 
 .tab-link.polymers.w--current {
   opacity: 1;
+  font-weight: 700;
 }
 
 .tab-pane {
@@ -378,8 +382,11 @@
 
 .category-section-title {
   display: block;
-  margin-top: 5px;
+  margin-top: -10px;
   margin-bottom: 0px;
+  margin-left: -20px;
+  padding: 15px 20px;
+  background-color: hsla(0, 6%, 93%, .4);
 }
 
 .category-section-title.search-title-overide {
@@ -839,6 +846,14 @@
   .material-block-inner {
     display: block;
     width: 100%;
+  }
+  .category-section-title {
+    font-size: 20px;
+    line-height: 20px;
+  }
+  .material-group-title {
+    font-size: 16px;
+    line-height: 22px;
   }
   .tab-text.lable {
     display: inline-block;
