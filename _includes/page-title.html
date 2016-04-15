@@ -1,0 +1,9 @@
+<title>
+{% if page.collection == "materials" %}
+  {{ page.material_name }}
+{% endif %}
+{% if page.path != "index.html" %}
+  {{ page.title }} |
+{% endif %}
+{{ site.name }} | Dartmouth Engineering
+</title>

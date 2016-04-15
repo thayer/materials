@@ -9,7 +9,7 @@ baseurl: /materials
 
 update: http://glamorous-beech.cloudvent.net/update
 
-grid_view_name_length: 20
+grid_view_name_length: 22
 
 defaults:
   -
