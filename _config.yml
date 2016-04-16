@@ -1,7 +1,6 @@
 name: Materials Library
 
 github_repo: https://github.com/thayer/materials
-github_pages_url: http://thayer.github.io/materials
 cloudcannon_dev_url: http://glamorous-beech.cloudvent.net
 thayer_proxy_url: http://engineering.dartmouth.edu/materials-library
 
