@@ -27,6 +27,10 @@ defaults:
 collections:
     materials:
         output: true
+    processes:
+        output: true
+    products:
+        output: true
 
 classes:
     - Metals
