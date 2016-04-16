@@ -22,6 +22,18 @@ defaults:
       type: "materials"
     values:
       layout: "material"
+  -
+    scope:
+      path: ""
+      type: "processes"
+    values:
+      layout: "process"
+  -
+    scope:
+      path: ""
+      type: "products"
+    values:
+      layout: "product"
 
 collections:
     materials:
