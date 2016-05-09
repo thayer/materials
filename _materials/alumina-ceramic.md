@@ -1,9 +1,9 @@
 ---
-material_name:
-index_letter:
-class:
-subclass:
-primary_photo_path:
+material_name: Alumina ceramic
+index_letter: A
+class: Ceramics
+subclass: 'Ceramics: Technical Ceramics'
+primary_photo_path: /photos/newphotos/171-alumina ceramic.jpg
 additional_photos:
   - additional_photo_path:
 links:
@@ -13,3 +13,5 @@ files:
   - file_name:
     file_path:
 ---
+
+
