@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?><XnView_script version="1.0" name="Material Images - XnConvert Settings">
+    <Set_DPI x="72" y="72" keep="false"/>
+    <Resize mode="4" width="280" height="280" unit="0" ratio="true" orientation="false" enlarge="0" resample="7" gamma_correct="false"/>
+    <Canvas_resize width="280" height="280" unit="0" relative="false" ratio="false" orientation="false" color="#ffffff" alpha="255" position="4"/>
+    <Clean_metadata flags="63"/>
+    <Output folder="/Users/ethan/Desktop/untitled folder" filename="{Filename}" case="0" format="JPEG">
+        <Options overwrite="0" orgDate="false" keepMeta="false" keepICC="false" keepFolder="false" keepParentFolder="true" delOrg="false" multipage="false" allPages="false" openExplorer="false" openBrowser="false" clearItems="false"/>
+        <JPEG quality="100" progressive="false" optimizeHuffman="false" rebuildThumb="false" orgQuality="false" DCTMethod="2" subSampling="0" smoothFactor="0"/>
+    </Output>
+</XnView_script>
