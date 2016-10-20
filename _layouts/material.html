@@ -77,7 +77,7 @@
                </a>
                {% endif %}
                {% for photo in page.additional_photos %}
-                 {% unless photo.additional_photo_path == '' %}
+                 {% unless photo.additional_photo_path == nil %}
                  <a class="w-lightbox w-inline-block lightbox-link lightbox-link-secondary" href="#"><img class="lightbox-image lightbox-image-secondary" src="{{ photo.additional_photo_path | prepend: site.baseurl }}">
                    <script type="application/json" class="w-json">
                    { "group": "material images", "items": [{
@@ -97,7 +97,7 @@
             <div class="data">{{ page.class }} </div>
             <div class="labels">Subclass</div>
             <div class="data">{{ page.subclass | split: ':' | last }}</div>
-            <div class="labels">Data Sheet</div>
+            <div class="labels">DataSheet</div>
             <div class="data">
               <a href="{{ site.baseurl }}/datasheets/{{  page.url | remove: "/materials/" | remove: ".html" }}.pdf">{{  page.url | remove: "/materials/" | remove: ".html" }}.pdf</a>
             </div>
