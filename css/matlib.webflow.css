@@ -1,3 +1,6 @@
+---
+---
+
 .brandbox {
   position: relative;
   height: 40px;
@@ -16,7 +19,7 @@
   margin-top: -20px;
   padding-top: 60px;
   float: left;
-  background-image: url('../images/matlib.gif');
+  background-image: url('{{ site.baseurl }}/images/matlib.gif');
   background-position: 0px 50%;
   background-size: contain;
   background-repeat: no-repeat;
@@ -280,7 +283,7 @@
 .dartmouth {
   display: inline-block;
   float: right;
-  background-image: url('../images/dartmouth.png');
+  background-image: url('{{ site.baseurl }}/images/dartmouth.png');
   background-position: 0px 45%;
   background-size: contain;
   background-repeat: no-repeat;
@@ -538,7 +541,7 @@
   height: 57px;
   margin-top: 20px;
   margin-bottom: 20px;
-  background-image: url('../images/Thayer-School-of-Engineering-at-Dartmouth-logo-white@2x.png');
+  background-image: url('{{ site.baseurl }}/images/Thayer-School-of-Engineering-at-Dartmouth-logo-white@2x.png');
   background-position: 0px 0px;
   background-size: 250px 57px;
   background-repeat: no-repeat;
@@ -579,7 +582,7 @@
   width: 85px;
   height: 40px;
   float: left;
-  background-image: url('../images/dartmouth.png');
+  background-image: url('{{ site.baseurl }}/images/dartmouth.png');
   background-position: 0px 50%;
   background-size: contain;
   background-repeat: no-repeat;
@@ -608,7 +611,7 @@
   margin-top: 10px;
   padding-left: 26px;
   float: right;
-  background-image: url('../images/ThayerShield_White.png');
+  background-image: url('{{ site.baseurl }}/images/ThayerShield_White.png');
   background-position: 0px 0px;
   background-size: contain;
   background-repeat: no-repeat;
