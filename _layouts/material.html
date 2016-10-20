@@ -97,6 +97,14 @@
             <div class="data">{{ page.class }} </div>
             <div class="labels">Subclass</div>
             <div class="data">{{ page.subclass | split: ':' | last }}</div>
+            <div class="labels">Data Sheet</div>
+            <div class="data">
+              {{ site.baseurl }}/datasheets/{{  page.url | remove: "/materials/" | remove: ".html" }}.pdf
+            </div>
+            <div class="labels">McMaster-Carr</div>
+            <div class="data">
+              <a href="http://www.mcmaster.com/#{{ page.material_name }}">{{ page.material_name }}</a>
+            </div>
             <div class="labels">Description</div>
             <div class="data">
               {{ content }}
