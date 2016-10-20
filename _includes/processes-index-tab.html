@@ -1,0 +1,34 @@
+<div data-w-tab="Index" class="w-tab-pane w--tab-active w-clearfix tab-pane">
+  <h3 class="category-section-title">Processes Index</h3>
+{% assign processes = site.processes | group_by:"index_letter" | sort: "name" %}
+{% for group in processes %}
+  <h4 class="material-group-title">{{ group.name }}</h4>
+  {% assign items = group.items | sort: "process_name" %}
+  {% for item in items %}
+  <div class="material-block">
+    <a href="{{ item.url | prepend: site.baseurl }}" class="w-inline-block material-block-inner">
+    {% if item.primary_photo_path == nil %}
+    <img src="{{ site.baseurl }}/images/no-photo.png" class="material-image">
+    {% else %}
+    <img src="{{ item.primary_photo_path | prepend: site.baseurl }}" class="material-image">
+    {% endif %}
+    {% assign class = item.class %}
+    {% case class %}
+      {% when 'Joining' %}
+         <div class="material-tag join">Joining</div>
+         <div class="material-button metal-tag">{{ item.process_name | truncate: site.grid_view_name_length }}</div>
+      {% when 'Shaping' %}
+         <div class="material-tag shape">Shaping</div>
+         <div class="material-button ceramic-tag">{{ item.process_name | truncate: site.grid_view_name_length }}</div>
+      {% when 'Surface Treatment' %}
+         <div class="material-tag polymer">Surface Treatment</div>
+         <div class="material-button polymer-tag">{{ item.process_name | truncate: site.grid_view_name_length }}</div>
+      {% else %}
+         <div class="material-tag">{{ item.class }}</div>
+         <div class="material-button">{{ item.process_name | truncate: site.grid_view_name_length }}</div>
+    {% endcase %}
+    </a>
+  </div>
+  {% endfor %}
+{% endfor %}
+</div>
