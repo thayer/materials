@@ -66,10 +66,10 @@
                  </script>
                </a>
                  {% else %}
-               <a class="w-lightbox w-inline-block lightbox-link lightbox-primary" href="#"><img class="lightbox-image" src="{{page.primary_photo_path}}" />
+               <a class="w-lightbox w-inline-block lightbox-link lightbox-primary" href="#"><img class="lightbox-image" src="{{page.primary_photo_path | prepend: site.baseurl }}" />
                  <script type="application/json" class="w-json">
                  { "group": "material images", "items": [{
-                 "url": "{{page.primary_photo_path}}",
+                 "url": "{{page.primary_photo_path | prepend: site.baseurl }}",
                  "width": 2400,
                  "height": 2400,
                  "size": 235932,
@@ -80,10 +80,10 @@
                {% endif %}
                {% for photo in page.additional_photos %}
                  {% unless photo.additional_photo_path == '' %}
-                 <a class="w-lightbox w-inline-block lightbox-link lightbox-link-secondary" href="#"><img class="lightbox-image lightbox-image-secondary" src="{{ photo.additional_photo_path }}">
+                 <a class="w-lightbox w-inline-block lightbox-link lightbox-link-secondary" href="#"><img class="lightbox-image lightbox-image-secondary" src="{{ photo.additional_photo_path | prepend: site.baseurl }}">
                    <script type="application/json" class="w-json">
                    { "group": "material images", "items": [{
-                   "url": "{{ photo.additional_photo_path }}",
+                   "url": "{{ photo.additional_photo_path | prepend: site.baseurl }}",
                    "width": 2400,
                    "height": 2400,
                    "size": 235932,

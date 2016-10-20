@@ -6,7 +6,7 @@
     {% assign items = group.items | sort: "material_name" %}
     {% for item in items %}
     <div class="material-block">
-      <a href="{{ item.url }}" class="w-inline-block material-block-inner">
+      <a href="{{ item.url | prepend: site.baseurl }}" class="w-inline-block material-block-inner">
       {% if item.primary_photo_path == nil %}
       <img src="{{ site.baseurl }}/images/no-photo.png" class="material-image">
       {% else %}
