@@ -99,11 +99,11 @@
             <div class="data">{{ page.subclass | split: ':' | last }}</div>
             <div class="labels">DataSheet</div>
             <div class="data">
-              <a href="{{ site.baseurl }}/datasheets/{{  page.url | remove: "/materials/" | remove: ".html" }}.pdf">{{  page.url | remove: "/materials/" | remove: ".html" }}.pdf</a>
+              <a href="{{ site.baseurl }}/datasheets/{{  page.url | remove: "/materials/" | remove: ".html" }}.pdf" target="_blank">{{  page.url | remove: "/materials/" | remove: ".html" }}.pdf</a>
             </div>
             <div class="labels">McMaster-Carr</div>
             <div class="data">
-              <a href="http://www.mcmaster.com/#{{ page.material_name }}">{{ page.material_name }}</a>
+              <a href="http://www.mcmaster.com/#{{ page.material_name }}" target="_blank">{{ page.material_name }}</a>
             </div>
             <div class="labels">Description</div>
             <div class="data">
