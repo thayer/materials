@@ -4,7 +4,7 @@ github_repo: https://github.com/thayer/materials
 cloudcannon_dev_url: http://glamorous-beech.cloudvent.net
 thayer_proxy_url: http://engineering.dartmouth.edu/materials-library
 
-baseurl: "/mshop"
+baseurl: "/materials-library"
 
 update: http://glamorous-beech.cloudvent.net/update
 
