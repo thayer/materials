@@ -1,118 +1,57 @@
 ---
-
+layout: default
 ---
-
-<!DOCTYPE html>
-<head>
-  <meta charset="utf-8">
-  <title>Products | Materials Library | Thayer School of Engineering at Dartmouth</title>
-  <meta property="og:title" content="Products">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <meta name="google-site-verification" content="0CaURh2oBUfdn2pSldnMShI-VPCZ8WK1vxqF5R9LFww">
-  <meta name="generator" content="Webflow">
-  <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/css/normalize.css">
-  <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/css/webflow.css">
-  <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/css/matlib.webflow.css">
-  <script src="https://ajax.googleapis.com/ajax/libs/webfont/1.4.7/webfont.js"></script>
-  <script>
-    WebFont.load({
-      google: {
-        families: ["Open Sans:300,300italic,400,400italic,600,600italic,700,700italic,800,800italic","Merriweather:300,400,700,900"]
-      }
-    });
-  </script>
-  <script type="text/javascript" src="{{ site.baseurl }}/js/modernizr.js"></script>
-  <link rel="shortcut icon" type="image/x-icon" href="{{ site.baseurl }}/images/matliblogo.png">
-  <link rel="apple-touch-icon" href="{{ site.baseurl }}/images/matliblogo.png">
-</head>
-<body class="body">
-  <div class="w-section brandbox">
-    <div class="w-container brandbox-container">
-      <a href="http://engineering.dartmouth.edu" target="_blank" class="w-inline-block thayer">
-        <div class="thayer-text">Thayer School of Engineering</div>
-      </a><a href="http://dartmouth.edu" target="_blank" class="dartmouth">Dartmouth</a>
-    </div>
+<div class="w-section categories">
+  <div class="w-container">
+    <h1 class="page-title">Products Collection</h1>
   </div>
-  <div id="top" data-collapse="medium" data-animation="default" data-duration="400" data-contain="1" class="w-nav navbar">
-    <div class="w-container navbar-container">
-      <nav role="navigation" class="w-nav-menu nav-box"><a href="{{ site.baseurl }}" class="w-nav-link navbar-item">Materials</a><a href="processes.html" class="w-nav-link navbar-item">Processes</a><a href="{{ site.baseurl }}/products.html" class="w-nav-link navbar-item">Products</a>
-      </nav><a href="http://engineering.dartmouth.edu/materials-library" class="sitetitle">Materials Discovery Lab</a>
-      <div class="w-nav-button mobile-nav-button">
-        <div class="w-icon-nav-menu"></div>
+  <div class="w-container category-container">
+    <div data-duration-in="300" data-duration-out="100" class="w-tabs tabs">
+      <div id="search" class="w-tab-menu w-clearfix tab-bar">
+        <a id="index" data-w-tab="Index" class="w-tab-link w--current w-inline-block tab-link index-tab products-index">
+          <div class="tab-text tab-text-icon">&nbsp;</div>
+          <div class="tab-text lable">Index</div>
+        </a>
       </div>
-    </div>
-  </div><a href="#top" class="w-button back-to-top"></a>
-  <div class="w-section categories">
-    <div class="w-container">
-      <h1 class="page-title">Products Collection</h1>
-    </div>
-    <div class="w-container category-container">
-      <div data-duration-in="300" data-duration-out="100" class="w-tabs tabs">
-        <div id="search" class="w-tab-menu w-clearfix tab-bar">
-          <a id="index" data-w-tab="Index" class="w-tab-link w--current w-inline-block tab-link index-tab products-index">
-            <div class="tab-text tab-text-icon">&nbsp;</div>
-            <div class="tab-text lable">Index</div>
-          </a>
-        </div>
-        <div class="w-tab-content tab-container">
-          <div data-w-tab="Index" class="w-tab-pane w--tab-active w-clearfix tab-pane">
-            <h3 class="category-section-title">Products Index</h3>
-            <h4 class="material-group-title">A</h4>
-            <div class="material-block">
-              <a href="material-12345.html" class="w-inline-block material-block-inner"><img src="images/material.png" class="material-image">
-                <div class="material-tag product-none">none</div>
-                <div class="material-button">Product Name</div>
-              </a>
-            </div>
-            <h4 class="material-group-title">B</h4>
-            <div class="none-found">No materials matching this attribute.</div>
-            <h4 class="material-group-title">C</h4>
-            <h4 class="material-group-title">D</h4>
-            <h4 class="material-group-title">E</h4>
-            <h4 class="material-group-title">F</h4>
-            <h4 class="material-group-title">G</h4>
-            <h4 class="material-group-title">H</h4>
-            <h4 class="material-group-title">I</h4>
-            <h4 class="material-group-title">J</h4>
-            <h4 class="material-group-title">K</h4>
-            <h4 class="material-group-title">L</h4>
-            <h4 class="material-group-title">M</h4>
-            <h4 class="material-group-title">N</h4>
-            <h4 class="material-group-title">O</h4>
-            <h4 class="material-group-title">P</h4>
-            <h4 class="material-group-title">Q</h4>
-            <h4 class="material-group-title">R</h4>
-            <h4 class="material-group-title">S</h4>
-            <h4 class="material-group-title">T</h4>
-            <h4 class="material-group-title">U</h4>
-            <h4 class="material-group-title">V</h4>
-            <h4 class="material-group-title">W</h4>
-            <h4 class="material-group-title">X</h4>
-            <h4 class="material-group-title">Y</h4>
-            <h4 class="material-group-title">Z</h4>
+      <div class="w-tab-content tab-container">
+        <div data-w-tab="Index" class="w-tab-pane w--tab-active w-clearfix tab-pane">
+          <h3 class="category-section-title">Products Index</h3>
+          <h4 class="material-group-title">A</h4>
+          <div class="material-block">
+            <a href="material-12345.html" class="w-inline-block material-block-inner"><img src="images/material.png" class="material-image">
+              <div class="material-tag product-none">none</div>
+              <div class="material-button">Product Name</div>
+            </a>
           </div>
+          <h4 class="material-group-title">B</h4>
+          <div class="none-found">No materials matching this attribute.</div>
+          <h4 class="material-group-title">C</h4>
+          <h4 class="material-group-title">D</h4>
+          <h4 class="material-group-title">E</h4>
+          <h4 class="material-group-title">F</h4>
+          <h4 class="material-group-title">G</h4>
+          <h4 class="material-group-title">H</h4>
+          <h4 class="material-group-title">I</h4>
+          <h4 class="material-group-title">J</h4>
+          <h4 class="material-group-title">K</h4>
+          <h4 class="material-group-title">L</h4>
+          <h4 class="material-group-title">M</h4>
+          <h4 class="material-group-title">N</h4>
+          <h4 class="material-group-title">O</h4>
+          <h4 class="material-group-title">P</h4>
+          <h4 class="material-group-title">Q</h4>
+          <h4 class="material-group-title">R</h4>
+          <h4 class="material-group-title">S</h4>
+          <h4 class="material-group-title">T</h4>
+          <h4 class="material-group-title">U</h4>
+          <h4 class="material-group-title">V</h4>
+          <h4 class="material-group-title">W</h4>
+          <h4 class="material-group-title">X</h4>
+          <h4 class="material-group-title">Y</h4>
+          <h4 class="material-group-title">Z</h4>
         </div>
       </div>
     </div>
   </div>
-  <div class="w-section footer">
-    <div class="w-container">
-      <div class="w-row">
-        <div class="w-col w-col-6 footer-left">
-          <a href="http://engineering.dartmouth.edu" target="_blank" class="w-inline-block footer-logo"></a>
-        </div>
-        <div class="w-col w-col-6">
-          <p class="footer-contact">14 Engineering Drive, Hanover, NH 03755
-            <br><a class="footer-link" href="#">thayer.receptionist@dartmouth.edu</a>
-            <br>(603) 646-2230
-            <br>
-            <br><a class="footer-link" href="{{ site.update }}" target="_blank">Login</a> | <a class="footer-link" href="credits.html">Credit</a>s</p>
-        </div>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.0/jquery.min.js"></script>
-  <script type="text/javascript" src="{{ site.baseurl }}/js/webflow.js"></script>
-  <!--[if lte IE 9]><script src="https://cdnjs.cloudflare.com/ajax/libs/placeholders/3.0.2/placeholders.min.js"></script><![endif]-->
-</body>
-</html>
+</div>
+

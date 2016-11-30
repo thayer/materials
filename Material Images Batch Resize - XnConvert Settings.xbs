@@ -1,4 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><XnView_script version="1.0" name="Material Images - XnConvert Settings">
+<?xml version="1.0" encoding="UTF-8"?>
+<XnView_script version="1.0" name="Material Images - XnConvert Settings">
     <Set_DPI x="72" y="72" keep="false"/>
     <Resize mode="4" width="280" height="280" unit="0" ratio="true" orientation="false" enlarge="0" resample="7" gamma_correct="false"/>
     <Canvas_resize width="280" height="280" unit="0" relative="false" ratio="false" orientation="false" color="#ffffff" alpha="255" position="4"/>
