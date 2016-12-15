@@ -1,0 +1,38 @@
+---
+layout: default
+---
+<div class="w-section categories">
+    <div class="w-container">
+        <h1 class="page-title">Materials Collection</h1>
+    </div>
+    <div class="w-container category-container">
+        <div data-duration-in="300" data-duration-out="100" class="w-tabs tabs">
+            <div id="search" class="w-tab-menu w-clearfix tab-bar">
+                <a id="index" data-w-tab="Index" class="w-tab-link w--current w-inline-block tab-link index-tab">
+                    <div class="tab-text tab-text-icon">&nbsp;</div>
+                    <div class="tab-text lable">Index</div>
+                </a>
+                <a data-w-tab="Metals" class="w-tab-link w-inline-block tab-link metals">
+                    <div class="tab-text">Metals</div>
+                </a>
+                <a data-w-tab="Ceramics" class="w-tab-link w-inline-block tab-link ceramics">
+                    <div class="tab-text">Ceramics</div>
+                </a>
+                <a data-w-tab="Polymers" class="w-tab-link w-inline-block tab-link polymers">
+                    <div class="tab-text">Polymers</div>
+                </a>
+                <a data-w-tab="Hybrids" class="w-tab-link w-inline-block tab-link last-tab hybrids">
+                    <div class="tab-text">Hybrids</div>
+                </a>
+            </div>
+            <div class="w-tab-content tab-container">
+                {% include materials-index-tab.html %}
+                {% include materials-metals-tab.html %}
+                {% include materials-ceramics-tab.html %}
+                {% include materials-polymers-tab.html %}
+                {% include materials-hybrids-tab.html %}
+            </div>
+        </div>
+    </div>
+</div>
+

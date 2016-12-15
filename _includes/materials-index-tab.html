@@ -12,7 +12,7 @@
     {% else %}
     <img src="{{ item.primary_photo_path | prepend: site.baseurl }}" class="material-image">
     {% endif %}
-    {% assign class = item.class %}
+    {% assign class = item.material_class %}
     {% case class %}
       {% when 'Metals' %}
          <div class="material-tag metal">Metal</div>

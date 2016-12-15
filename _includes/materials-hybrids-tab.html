@@ -1,6 +1,6 @@
 <div data-w-tab="Hybrids" class="w-tab-pane tab-pane">
   <h3 class="category-section-title">Polymers and Elastomers</h3>
-  {% assign materials = site.materials | where:"class", "Hybrids" | group_by:"subclass" | sort: "name" | reverse %}
+  {% assign materials = site.materials | where:"material_class", "Hybrids" | group_by:"material_subclass" | sort: "name" | reverse %}
   {% for group in materials %}
     <h4 class="material-group-title">{{ group.name | remove: "Hybrids: " }}</h4>
     {% assign items = group.items | sort: "material_name" %}

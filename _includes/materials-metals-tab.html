@@ -1,6 +1,6 @@
 <div data-w-tab="Metals" class="w-tab-pane tab-pane">
   <h3 class="category-section-title">Metals and Alloys</h3>
-  {% assign materials = site.materials | where:"class", "Metals" | group_by:"subclass" | sort: "name" | reverse %}
+  {% assign materials = site.materials | where:"material_class", "Metals" | group_by:"material_subclass" | sort: "name" | reverse %}
   {% for group in materials %}
     <h4 class="material-group-title">{{ group.name | remove: "Metals: " }}</h4>
     {% assign items = group.items | sort: "material_name" %}

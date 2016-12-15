@@ -1,8 +1,8 @@
 ---
 material_name:
 index_letter:
-class:
-subclass:
+material_class:
+material_subclass:
 primary_photo_path:
 additional_photos:
     - additional_photo_path:

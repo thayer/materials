@@ -58,9 +58,9 @@ layout: default
       </div>
       <div class="w-col w-col-8 w-col-medium-8 w-col-small-8">
           <div class="labels">Class</div>
-          <div class="data">{{ page.class }} </div>
+          <div class="data">{{ page.material_class }} </div>
           <div class="labels">Subclass</div>
-          <div class="data">{{ page.subclass | split: ':' | last }}</div>
+          <div class="data">{{ page.material_subclass | split: ':' | last }}</div>
           <div class="labels">DataSheet</div>
           <div class="data">
             <a href="{{ site.baseurl }}/datasheets/{{  page.url | remove: "/materials/" | remove: ".html" }}.pdf" target="_blank">{{  page.url | remove: "/materials/" | remove: ".html" }}.pdf</a>

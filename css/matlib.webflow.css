@@ -375,12 +375,43 @@
   background-color: #acac00;
 }
 
-.material-button.joining-tag {
-  background-color: #46a762;
+.material-button.join-tag {
+  background-color: #357e49;
 }
 
 .material-button.shape-tag {
-  background-color: #e04b3f;
+  background-color: #9a2219;
+}
+
+.material-button.surface-tag {
+  background-color: #245f8f;
+}
+
+.landing-link-box {
+  display: block;
+  height: 300px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  padding: 30px;
+  border: 1px solid #fff;
+  border-radius: 5px;
+  background-color: #ddd;
+  text-decoration: none;
+}
+
+.landing-link-title {
+  overflow: visible;
+  margin-top: 0px;
+  border: 1px none #000;
+  color: #1b2429;
+  font-size: 40px;
+  line-height: 230px;
+  font-style: normal;
+  font-weight: 700;
+  text-align: center;
+  text-decoration: none;
+  text-transform: uppercase;
+  cursor: pointer;
 }
 
 .category-section-title {
@@ -670,6 +701,10 @@
 
 .material-tag.shape {
   background-color: rgba(224, 75, 63, .6);
+}
+
+.material-tag.surface {
+  background-color: rgba(50, 132, 199, .6);
 }
 
 .material-tag.product-none {

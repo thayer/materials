@@ -43,13 +43,13 @@ collections:
     products:
         output: true
 
-classes:
+material_classes:
     - Metals
     - Ceramics
     - Polymers
     - Hybrids
 
-subclasses:
+material_subclasses:
     - 'Metals: Pure Metals'
     - 'Metals: Alloy Metals'
     - 'Ceramics: Technical Ceramics'
@@ -63,6 +63,54 @@ subclasses:
     - 'Hybrids: Composites'
     - 'Hybrids: Foams'
     - 'Hybrids: Naturals'
+
+process_classes:
+    - 'Joining'
+    - 'Shaping'
+    - 'Surface Treatment'
+
+process_subclasses:
+    - 'Joining: Adhesives'
+    - 'Joining: Fasteners'
+    - 'Joining: Mechanical Welding'
+    - 'Joining: Thermal Welding'
+    - 'Shaping: Additive Manufacturing'
+    - 'Shaping: Casting'
+    - 'Shaping: Composite Forming'
+    - 'Shaping: Deformation'
+    - 'Shaping: Machining'
+    - 'Shaping: Molding'
+    - 'Shaping: Powder Metods'
+    - 'Surface Treatment: Heat Treatment'
+    - 'Surface Treatment: Painting and Printing'
+    - 'Surface Treatment: Polishing_Etching_Working_Texturing'
+    - 'Surface Treatment: Surface Coating'
+
+process_sub_subclasses:
+    - 'Joining: Thermal Welding: Ceramics'
+    - 'Joining: Thermal Welding: Metals'
+    - 'Joining: Thermal Welding: Polymers'
+    - 'Shaping: Additive Manufacturing: 3D Printing'
+    - 'Shaping: Additive Manufacturing: Deposition Methods'
+    - 'Shaping: Additive Manufacturing: Photopolymerization'
+    - 'Shaping: Additive Manufacturing: Powder Bed Fusion'
+    - 'Shaping: Additive Manufacturing: Sheet Lamination'
+    - 'Shaping: Casting: Die Casting'
+    - 'Shaping: Casting: Investment Casting'
+    - 'Shaping: Casting: Sand Casting'
+    - 'Shaping: Composite Forming: Advanced Composite Forming'
+    - 'Shaping: Composite Forming: Conventional Composite Forming'
+    - 'Shaping: Deformation: Bulk Deformation'
+    - 'Shaping: Deformation: Sheet Deformation'
+    - 'Shaping: Machining: Conventional Machining'
+    - 'Shaping: Machining: Non-Conventional Machining'
+    - 'Shaping: Molding: Thermoplastic Molding'
+    - 'Shaping: Molding: Thermoset Molding'
+    - 'Shaping: Powder Metods: Powder Molding'
+    - 'Shaping: Powder Metods: Powder Pressing'
+
+
+
 
 index_letters:
     - A
