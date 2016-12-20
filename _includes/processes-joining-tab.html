@@ -1,9 +1,9 @@
-<div data-w-tab="Hybrids" class="w-tab-pane tab-pane">
-  <h3 class="category-section-title">Hybrids</h3>
-  {% assign materials = site.materials | where:"material_class", "Hybrids" | group_by:"material_subclass" | sort: "name" | reverse %}
-  {% for group in materials %}
-    <h4 class="material-group-title">{{ group.name | remove: "Hybrids: " }}</h4>
-    {% assign items = group.items | sort: "material_name" %}
+<div data-w-tab="Joining" class="w-tab-pane tab-pane">
+  <h3 class="category-section-title">Joining Processes</h3>
+  {% assign processes = site.processes | where: "process_class", "Joining" | group_by: "process_subclass" | sort: "name" %}
+  {% for group in processes %}
+  	<h4 class="material-group-title">{{ group.name | remove: "Joining: "}}</h4>
+  	{% assign items = group.items | sort: "process_name" %}
     {% for item in items %}
     <div class="material-block">
       <a href="{{ item.url | prepend: site.baseurl }}" class="w-inline-block material-block-inner">
@@ -12,12 +12,12 @@
       {% else %}
       <img src="{{ item.primary_photo_path | prepend: site.baseurl }}" class="material-image">
       {% endif %}
-       <div class="material-tag hybrid">Hybrid</div>
-       <div class="material-button hybrid-tag">{{ item.material_name | truncate: site.grid_view_name_length }}</div>
+       <div class="material-tag join">{{ item.process_class }}</div>
+       <div class="material-button join-tag">{{ item.process_name | truncate: site.grid_view_name_length }}</div>
       </a>
     </div>
     {% endfor %}
   {% endfor %}
   <!-- The following Empty H4 is a hack required to prevent tab well from collapsing on last group of items. -->
   <h4 class="material-group-title"> </h4>
-  </div>
+</div>

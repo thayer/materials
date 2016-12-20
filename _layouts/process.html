@@ -8,10 +8,6 @@ layout: default
         <h1 class="material-name">{{ page.process_name }}</h1>
         <div class="catalog-number">Catalog No. {{  page.url | remove: "/processes/" | remove: ".html" }}</div>
       </div>
-      <div class="w-col w-col-1 w-col-medium-1 w-col-small-1 w-col-tiny-1 w-clearfix column">
-      <div class="w-embed qrcode"><img src="https://api.qrserver.com/v1/create-qr-code/?data={{ 'http://tiny.cc/matlib' | url_escape }}{{ page.url | remove: '/materials' | url_escape }}" />
-      </div>
-      </div>
     </div>
     <div class="w-row">
       <div class="w-col w-col-4 w-col-medium-4 w-col-small-4 material-column-left">
@@ -65,6 +61,7 @@ layout: default
             <div class="labels">Sub-Subclass</div>
             <div class="data">{{ page.process_sub_subclass | split: ':' | last }}</div>
           {% endunless %}
+          <div class="labels">DataSheet</div>
           <div class="data">
             <a href="{{ site.baseurl }}/datasheets/{{  page.url | remove: "/processes/" | remove: ".html" }}.pdf" target="_blank">{{  page.url | remove: "/processes/" | remove: ".html" }}.pdf</a>
           </div>
