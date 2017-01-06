@@ -23,21 +23,10 @@ layout: default
         </a>
       </div>
       <div class="w-tab-content tab-container">
-
         {% include processes-index-tab.html %}
         {% include processes-joining-tab.html %}
         {% include processes-shaping-tab.html %}
-
-
-        <div data-w-tab="Surface Treatments" class="w-tab-pane tab-pane">
-          <h3 class="category-section-title">Surface Treatments</h3>
-          <h4 class="material-group-title">Heat Treatments</h4>
-          <h4 class="material-group-title">Painting and Printing</h4>
-          <h4 class="material-group-title">Polishing / Etching / Working / Texturing</h4>
-          <h4 class="material-group-title">Surface Coating</h4>
-        </div>
-
-
+        {% include processes_surface_treatment_tab.html %}
       </div>
     </div>
   </div>
