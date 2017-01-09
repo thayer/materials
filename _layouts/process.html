@@ -63,7 +63,10 @@ layout: default
           {% endunless %}
           <div class="labels">DataSheet</div>
           <div class="data">
-            <a href="{{ site.baseurl }}/datasheets/{{  page.url | remove: "/processes/" | remove: ".html" }}.pdf" target="_blank">{{  page.url | remove: "/processes/" | remove: ".html" }}.pdf</a>
+            <a href="{{ site.baseurl }}/datasheets/{{  page.url | remove: "/processes/" | remove: ".html" }}.pdf" target="_blank">Datasheet (Imperial)</a>
+          </div>
+          <div class="data">
+            <a href="{{ site.baseurl }}/datasheets/{{  page.url | remove: "/processes/" | remove: ".html" }}_2.pdf" target="_blank">Datasheet (Metric)</a>
           </div>
           <div class="labels">Description</div>
           <div class="data">
