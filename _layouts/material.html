@@ -65,6 +65,9 @@ layout: default
           <div class="data">
             <a href="{{ site.baseurl }}/datasheets/{{  page.url | remove: "/materials/" | remove: ".html" }}.pdf" target="_blank">{{  page.url | remove: "/materials/" | remove: ".html" }}.pdf</a>
           </div>
+
+          {% include relations.html %}
+          
           <div class="labels">McMaster-Carr</div>
           <div class="data">
             <a href="http://www.mcmaster.com/#{{ page.material_name }}" target="_blank">{{ page.material_name }}</a>

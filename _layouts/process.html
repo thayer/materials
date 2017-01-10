@@ -61,6 +61,7 @@ layout: default
             <div class="labels">Sub-Subclass</div>
             <div class="data">{{ page.process_sub_subclass | split: ':' | last }}</div>
           {% endunless %}
+          
           <div class="labels">DataSheet</div>
           <div class="data">
             <a href="{{ site.baseurl }}/datasheets/{{  page.url | remove: "/processes/" | remove: ".html" }}.pdf" target="_blank">Datasheet (Imperial)</a>
@@ -68,6 +69,9 @@ layout: default
           <div class="data">
             <a href="{{ site.baseurl }}/datasheets/{{  page.url | remove: "/processes/" | remove: ".html" }}_2.pdf" target="_blank">Datasheet (Metric)</a>
           </div>
+          
+          {% include relations.html %}
+
           <div class="labels">Description</div>
           <div class="data">
             {{ content }}

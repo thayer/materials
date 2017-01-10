@@ -5,7 +5,7 @@ layout: default
   <div class="w-container content">
     <div class="w-row">
       <div class="w-col w-col-11 w-col-medium-11 w-col-small-11 w-col-tiny-11 column">
-        <h1 class="material-name">{{ page.material_name }}</h1>
+        <h1 class="material-name">{{ page.product_name }}</h1>
         <div class="catalog-number">Catalog No. {{  page.url | remove: "/materials/" | remove: ".html" }}</div>
       </div>
       <div class="w-col w-col-1 w-col-medium-1 w-col-small-1 w-col-tiny-1 w-clearfix column">
@@ -61,6 +61,9 @@ layout: default
           <div class="data">{{ page.class }} </div>
           <div class="labels">Subclass</div>
           <div class="data">{{ page.subclass | split: ':' | last }}</div>
+
+          {% include relations.html %}
+
           <div class="labels">Description</div>
           <div class="data">
             {{ content }}
