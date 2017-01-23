@@ -35,7 +35,7 @@ def main():
 	
 	materials_lineToWrite = "relations:\n  - materials:\n  - processes:\n  - products:\n" #for processes
 	processes_lineToWrite = "  - materials:\n  - processes:\n  - products:\n" #for processes
-	products_lineToWrite = ""
+	products_lineToWrite = "" #for products
 
 	injection_strings = [materials_lineToWrite, processes_lineToWrite, products_lineToWrite]
 
