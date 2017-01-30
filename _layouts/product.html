@@ -97,7 +97,7 @@ layout: default
               {% assign array = c[1][1].materials[0] | split: "(" %}
               {% assign mat_num = array.last | remove: ")" %}
               {% if mat_num != "N/A" %}
-                <a href="{{ mat_num | prepend: '/materials/' | prepend: site.baseurl}}">{{ array.first }}</a>
+                <a href="{{ site.baseurl }}{{ mat_num | prepend: '/materials/'}}">{{ array.first }}</a>
               {% else %}
                 {{ array.first }}
               {% endif %}
@@ -108,7 +108,7 @@ layout: default
                   {% assign array = proc | split: "(" %}
                   {% assign proc_num = array.last | remove: ")" %}
                   {% if proc_num != "N/A" %}
-                    <li><a href="{{ proc_num | prepend: '/processes/' | prepend: site.baseurl}}">{{ array.first }}</a></li>
+                    <li><a href="{{ site.baseurl }}{{ proc_num | prepend: '/processes/'}}">{{ array.first }}</a></li>
                   {% else %}
                     <li>{{ array.first }}</li>
                   {% endif %}
