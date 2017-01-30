@@ -8,14 +8,14 @@ layout: default
         <h1 class="material-name">{{ page.product_name }}</h1>
         <div class="catalog-number">Catalog No. {{  page.url | remove: "/materials/" | remove: ".html" }}</div>
       </div>
-      <div class="w-col w-col-1 w-col-medium-1 w-col-small-1 w-col-tiny-1 w-clearfix column">
+     <!--  <div class="w-col w-col-1 w-col-medium-1 w-col-small-1 w-col-tiny-1 w-clearfix column">
       <div class="w-embed qrcode"><img src="https://api.qrserver.com/v1/create-qr-code/?data={{ 'http://tiny.cc/matlib' | url_escape }}{{ page.url | remove: '/materials' | url_escape }}" />
       </div>
-      </div>
+      </div> -->
     </div>
     <div class="w-row">
       <div class="w-col w-col-4 w-col-medium-4 w-col-small-4 material-column-left">
-      {% if page.primary_photo_path == '' %}
+      {% if page.primary_photo_path == "" %}
               <a class="w-lightbox w-inline-block lightbox-link lightbox-primary" href="#"><img class="lightbox-image" src="{{ site.baseurl }}/images/no-photo.png" />
                <script type="application/json" class="w-json">
                { "group": "material images", "items": [{
@@ -40,8 +40,8 @@ layout: default
                </script>
              </a>
              {% endif %}
-             {% for photo in page.additional_photos %}
-               {% unless photo.additional_photo_path == '' %}
+              {% for photo in page.additional_photos %}
+               {% unless photo.additional_photo_path == "" %}
                <a class="w-lightbox w-inline-block lightbox-link lightbox-link-secondary" href="#"><img class="lightbox-image lightbox-image-secondary" src="{{ photo.additional_photo_path | prepend: site.baseurl }}">
                  <script type="application/json" class="w-json">
                  { "group": "material images", "items": [{
@@ -53,39 +53,73 @@ layout: default
                  }] }
                  </script>
                </a>
-             {% endunless %}
-           {% endfor %}
+              {% endunless %}
+            {% endfor %}
       </div>
       <div class="w-col w-col-8 w-col-medium-8 w-col-small-8">
-          <div class="labels">Class</div>
-          <div class="data">{{ page.class }} </div>
-          <div class="labels">Subclass</div>
-          <div class="data">{{ page.subclass | split: ':' | last }}</div>
+        <div class="labels">Product Class</div>
+        <div class="data">{{ page.class }}</div>
 
-          {% include relations.html %}
+        <div class="labels">Product Subclass</div>
+        <div class="data">{{ page.subclass }}</div>
 
-          <div class="labels">Description</div>
-          <div class="data">
-            {{ content }}
-          </div>
-          {% assign first_link_title = (page.links[0].link_title | strip) %}
-          {% unless first_link_title == '' %}
-          <div class="labels">Links</div>
-          <ul class="data">
-            {% for link in page.links %}
-              <li><a href="{{ link.link_address }}">{{ link.link_title }}</a></li>
-            {% endfor %}
-          </ul>
-        {% endunless %}
-        {% assign first_file_name = (page.files[0].file_name | strip) %}
-        {% unless first_file_name == '' %}
-        <div class="labels">Files</div>
-        <ul class="data">
-          {% for file in page.files %}
-            <li><a href="{{ file.file_path }}">{{ file.file_name }}</a></li>
+        <div class="labels">Manufacturer</div>
+        <div class="data"><a href="{{ page.link_to_manufacturer_website }}">{{ page.manufacturer }}</a></div>
+
+        <div class="labels">Place of Purchase</div>
+        <div class="data">{{ page.POP }}</div>
+
+        <div class="labels">Date of Purchase</div>
+        <div class="data">{{ page.DOP }}</div>
+
+        <div class="labels">Cost ($USD)</div>
+        <div class="data">{{ page.cost }}</div>
+
+        <div class="labels">Product Description</div>
+        <div class="data">{{ page.product_description }}</div>    
+
+        {% include relations.html %}
+
+        <div class="labels">Componenets</div>
+        <table style="width:100%">
+          <tr>
+            <th>Componenets</th>
+            <th>Mass</th>
+            <th>Materials</th>
+            <th>Processes</th>
+          </tr>
+          {% for comp in page.components %}
+            <tr>
+              {% for c in comp %}
+              <td>{{ c[0] }}</td> 
+              <td>{{ c[1][0].mass }}</td>
+              <td>
+              {% assign array = c[1][1].materials[0] | split: "(" %}
+              {% assign mat_num = array.last | remove: ")" %}
+              {% if mat_num != "N/A" %}
+                <a href="{{ mat_num | prepend: '/materials/' | prepend: site.baseurl}}">{{ array.first }}</a>
+              {% else %}
+                {{ array.first }}
+              {% endif %}
+              </td>
+              <td>
+                <ul>
+                {% for proc in c[1][2].processes %}
+                  {% assign array = proc | split: "(" %}
+                  {% assign proc_num = array.last | remove: ")" %}
+                  {% if proc_num != "N/A" %}
+                    <li><a href="{{ proc_num | prepend: '/processes/' | prepend: site.baseurl}}">{{ array.first }}</a></li>
+                  {% else %}
+                    <li>{{ array.first }}</li>
+                  {% endif %}
+                {% endfor %}
+                </ul>
+              </td>
+              {% endfor %}
+            </tr>
           {% endfor %}
-        </ul>
-      {% endunless %}
+        </table>
+        
       </div>
     </div>
   </div>
