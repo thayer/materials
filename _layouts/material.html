@@ -63,7 +63,10 @@ layout: default
           <div class="data">{{ page.material_subclass | split: ':' | last }}</div>
           <div class="labels">DataSheet</div>
           <div class="data">
-            <a href="{{ site.baseurl }}/datasheets/{{  page.url | remove: "/materials/" | remove: ".html" }}.pdf" target="_blank">{{  page.url | remove: "/materials/" | remove: ".html" }}.pdf</a>
+            <a href="{{ site.baseurl }}/datasheets/{{  page.url | remove: "/materials/" | remove: ".html" }}.pdf" target="_blank">Datasheet (Imperial)</a>
+          </div>
+          <div class="data">
+            <a href="{{ site.baseurl }}/datasheets/{{  page.url | remove: "/materials/" | remove: ".html" }}_2.pdf" target="_blank">Datasheet (Metric)</a>
           </div>
 
           {% include relations.html %}
@@ -72,9 +75,13 @@ layout: default
           <div class="data">
             <a href="http://www.mcmaster.com/#{{ page.material_name }}" target="_blank">{{ page.material_name }}</a>
           </div>
+          <div class="labels">General Applications</div>
+          <div class="data">
+            {{ page.general_applications }}
+          </div>
           <div class="labels">Description</div>
           <div class="data">
-            {{ content }}
+            {{ page.description }}
           </div>
           {% assign first_link_title = (page.links[0].link_title | strip) %}
           {% unless first_link_title == '' %}

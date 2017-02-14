@@ -50,19 +50,16 @@ material_classes:
     - Hybrids
 
 material_subclasses:
-    - 'Metals: Pure Metals'
-    - 'Metals: Alloy Metals'
+    - 'Metals: Ferrous'
+    - 'Metals: Non-Ferrous'
     - 'Ceramics: Technical Ceramics'
+    - 'Ceramics: Non-Technical Ceramics'
     - 'Ceramics: Glasses'
-    - 'Ceramics: Cement and Concrete'
-    - 'Ceramics: Fired Clays'
-    - 'Ceramics: Minerals and Stone'
     - 'Polymers: Elastomers'
-    - 'Polymers: Thermoplastics'
-    - 'Polymers: Thermosets'
+    - 'Polymers: Polymers' 
     - 'Hybrids: Composites'
     - 'Hybrids: Foams'
-    - 'Hybrids: Naturals'
+    - 'Hybrids: Natural Materials'
 
 process_classes:
     - 'Joining'
