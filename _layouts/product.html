@@ -76,9 +76,16 @@ layout: default
         <div class="data">{{ page.cost }}</div>
 
         <div class="labels">Product Description</div>
-        <div class="data">{{ page.product_description }}</div>    
+        <div class="data">{{ page.product_description }}</div>
 
-        {% include relations.html %}
+        <div class="labels">Materials and Processes Description</div>
+        <div class="data">{{ page.materials_and_processes_description }}</div>      
+
+        <div class="labels">How It Is Made videos:</div>
+        {% assign videos = page.HIMvideos %}
+        {% for video in videos %}
+          <div class="data"><a href="{{ video }}">{{ video }}</a></div>        
+        {% endfor %}
 
         <div class="labels">Components</div>
         <table style="width:100%">
