@@ -8,10 +8,10 @@ layout: default
         <h1 class="material-name">{{ page.product_name }}</h1>
         <div class="catalog-number">Catalog No. {{  page.url | remove: "/materials/" | remove: ".html" }}</div>
       </div>
-     <!--  <div class="w-col w-col-1 w-col-medium-1 w-col-small-1 w-col-tiny-1 w-clearfix column">
-      <div class="w-embed qrcode"><img src="https://api.qrserver.com/v1/create-qr-code/?data={{ 'http://tiny.cc/matlib' | url_escape }}{{ page.url | remove: '/materials' | url_escape }}" />
+       <div class="w-col w-col-1 w-col-medium-1 w-col-small-1 w-col-tiny-1 w-clearfix column">
+        <div class="w-embed qrcode"><img src="https://api.qrserver.com/v1/create-qr-code/?data={{ 'http://engineering.dartmouth.edu'| url_escape }}{{ site.baseurl }}{{ page.url | url_escape }}" />
+        </div>
       </div>
-      </div> -->
     </div>
     <div class="w-row">
       <div class="w-col w-col-4 w-col-medium-4 w-col-small-4 material-column-left">
