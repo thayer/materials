@@ -1,15 +1,404 @@
 Picture #,Product Class,Product Subclass,Name,Image Credit,Components,Materials,Processes,Mass,Manufacturer,Cost,Place of Purchase,Date of Purchase,Product Description,Materials and Processes Description,Packaging Picture #,Packaging Labels (including warnings and advertisements),"Links to Materials, Processes, and Manufacturer/Product Website",How It's Made Video,Additional Photos
-,Consumer,Kitchen,"Peeler (Ceramic Blade, Kyocera)",Advanced Ceramics Ceramic Peeler © Mackenzie Carlson,"-Handle
+3001,Consumer,Kitchen,"Measuring Cups (Silicone, Robinson Home Products)",Squish 4pc Measuring Cups © Mackenzie Carlson,"-1/4 cup
+-1/3 cup
+-1/2 cup
+-1 cup
+-Hanging Ring",,,"-1_18.9g
+-2_21.4g
+-3_28.8g
+-4_43.2g
+-5_7.3g",Robinson Home Products Inc.,,,,"Goodbye cluttered cupboards. Squish collapsible products transform bulky food prep tools into neatly tamed items that behave within confined spaces. Crafted using an exclusive design technique that marries flexibility with rigidity, Squish brings as much joy in use as it does stored away. Playful, vibrant and versatile, the sturdy construction does not sacrifice performance for collapsibility. Each Squish product independently maintains its shape when in use and thoughtfully-designed features anticipate the needs of the most exacting home chefs. Each graduated layer of a Squish item 'snaps' into place to perform its desired function with confidence whether storing flat or expanding for use. Clever features like gently curved rims, thoughtfully-placed pour spouts, smooth sides and non-slip grips for bases and handles make the Squish collection a valuable ally for any home chef. Each product performs as well as its non-collapsible counterpart, yet stores efficiently in a fraction of the space. FDA-approved materials are safe for food items and dishwasher friendly. With an assortment of essential items that set free an entire kitchen cupboard, Squish makes today's storage challenges disappear in one second flat. Expands to 23.5in to offer a 6 quart capacity.",,N/A,"FOOD SAFE
+DISHWASHER SAFE",http://www.robinsonus.com,,N/A
+3002,Sports and Leisure,Racing,Skis (Vokl racing),Volkl P60 SC racing skis © Mackenzie Carlson,,,,,Volkl,,,,,,N/A,N/A,https://www.volkl.com,*http://www.sciencechannel.com/videos/alpine-skis,N/A
+3003,Sports and Leisure,Racing,Bicycle Tire,Bicycle tire © Mackenzie Carlson,,,,,,,,,,,N/A,N/A,,*https://www.youtube.com/watch?v=gm3JJW9wjA0,N/A
+3004,Consumer,Kitchen,"Measuring Cup (4-cup, Mainstays)",4-cup capacity Measuring Cup © Mackenzie Carlson,-Measuring Cup,-1_Borosilicate Glass (1001),,-1_162.7g,Mainstays,,Walmart,,,,N/A,"MAINSTAYS™
+Measuring Cup
+4-cup capacity
+Microwave safe
+Marketed by Wal-Mart Stores, Inc. Bentonville, AR 72716
+MADE IN CHINA",www.walmart.com,*https://www.youtube.com/watch?v=8yMWBCCTVu0,N/A
+3005,Sports and Leisure,Racing,Inner Tube (Bicycle),Inner Tube © Mackenzie Carlson,,,,,,,,,,,N/A,N/A,,*http://www.sciencechannel.com/videos/inner-tubes,N/A
+3006,Consumer,Tools,Tape (Joe's Sticky Stuff),An Aggressive Pressure-Sensitive Adhesive Tape,"-Tape
+-Wax paper
+-Tin",,,"-1_68.2g
+-2_11.4g
+-3_51.2g","JoeProps, LLC",,,,"Joe's Sticky Stuff™ is a clean, easy to use, extremely aggressive double-sided adhesive tape. This roll of tape is non-hardening and permanently flexible. Try it on signs, posters, plaques, and trim. It can be used to secure items on shelves, countertops and tables. Use Joe's Sticky Stuff™ anywhere you would use a double-sided tape. Use it for arts and crafts, hobby projects, quick fixes or anywhere an aggressive double-sided adhesive tape is desired. Keep Joe's Sticky Stuff™ in our handy tin to prevent it from unspooling.",,,"EASY TO APPLY • EASY TO REMOVE
+Secure Signs, Panels, Kickplates, Rugs, Tiles, Trim, Household Items, and More!
+JOE'S STICKY STUFF™
+EST. 2002
+1/2 in x 20 ft/6.1 m
+AN AGGRESSIVE PRESSURE-SENSITIVE ADHESIVE TAPE™
+APPLICATION AND REMOVAL
+LIMITATION OF LIABILITY AND WARRANTY: JoeProps,LLC shall not be liable for any loss or damage of any nature or description arising from the use of this Product. JoeProps,LLC. does not expressly or impliedly, warrant this product or its use, including, but not limited to, whether this product is fit for its intended use, purpose or merchantability.
+MADE IN ENGLAND
+JOEPROPS.COM",http://www.joeprops.com,,N/A
+3007,Consumer,Cleaning,Broom Head,Broom Head © Mackenzie Carlson,,,,,,,,,,,N/A,N/A,,*https://www.youtube.com/watch?v=H97lDjL6H4Y,N/A
+3008,Consumer,Cleaning,"Broom Head (Palmyra wisk, Elite Mops and Brooms)",EM3 Broom Head © Mackenzie Carlson,"-Whisk
+-Rope
+-Wiring and Head","-1_Palmyra (N/A)
+-2_Nylon 6 (1083)
+-3_Stainless Steel (1050)",,-1_123.6g,"Elite Mops and Brooms, Inc.",,,,,,N/A,"PROFESSIONAL CLEANING PRODUCTS
+www.elitemopsandbrooms.com
+Made in Mexico
+100% Palmyra Wisk Broom
+FOR INDOOR & OUTDOOR USE",http://www.elitemopsandbrooms.com,*https://www.youtube.com/watch?v=H97lDjL6H4Y,N/A
+3009,Consumer,Kitchen,Basket,Basket © Mackenzie Carlson,,,,,,,,,,,,,,,N/A
+3010,,,"Tile (Yellow, Brown, White, Black, and Green)","Yellow, Brown, White, Black, Green Tile © Mackenzie Carlson",,,,,,,,,,,N/A,N/A,N/A,*https://www.youtube.com/watch?v=Ng6EqEWmDmw,N/A
+3011,,,Tile (Black and White),Black and White Tile © Mackenzie Carlson,,,,,,,,,,,N/A,N/A,N/A,*https://www.youtube.com/watch?v=Ng6EqEWmDmw,N/A
+3012,,,"Tile (Black, Red, White, and Gray)","Black, Red, White, Gray Tile © Mackenzie Carlson",,,,,,,,,,,N/A,N/A,N/A,*https://www.youtube.com/watch?v=Ng6EqEWmDmw,N/A
+3013/ 3081,Consumer,Kitchen,"Scrubber Sponge (Cellulose, Scotch Brite)",Heavy Duty Scrub Sponge © Xiaoran Zhu,"-Sponge
+-Packaging","-1_Cellulose (1081)
+-2_Low Density Polyethylene (N/A)","-1_Soaking (N/A)
+-1_Polyurethane gluing (N/A)
+-1_Cold shape rolling (2057)
+-2_Cropping/guillotine (2064)
+-2_Extrusion blow molding (2077)
+-2_Printing (N/A)","-1_26.9g
+-2_.1g",Scotch Brite,$1.39,Co-op,1/8/2017,"Reach for the Scotch-Brite Heavy Duty Scrub Sponge because sometimes the mess is just too tough for a regular scrub sponge. From grunge on the grill, to pots and pans that sat overnight, get it done right! Look for heavy scrubbing power also available in a large size for your toughest messes.","Cellulose: Derived from wood pulp, sodium sulphate, and hemp fiber
+Low Density Polyethylene: Very cheap, good chemical and hydrolysis resistance, high impact strength at low temperatures, excellent electrical properties, transparent in thin films, good processability 
+
+Soaking: Done in a vat of chemicals to soften the cellulose and rid of impurities
+Polyurethane gluing: To glue the scouring pad on 
+Cold shape rolling: Passing the material through a series of shaped rolls to press the sheets together
+Cropping/guillotine: To cut the shapes of the sponge and wrapper
+Extrusion blow molding: Melted plastic blown into a long, thin tube for molding
+Printing: Used to apply product labels, instructions, warning, and advertisements",4081,"Lasts 50% Longer than leading value brand heavy duty scrub sponge.
+Scotch-Brite®
+Heavy Duty
+1 PACK
+1 SCRUB SPONGE
+3M
+Removes Tough Baked-on Messes 50% Faster than Competitive Scrub Sponges
+Also try our other scrub sponges: Delicate Care: Extra Gentle Cleaning; Non-Scratch: For Premium Cookware & Stovetops
+3M and Scotch-Brite are trademarks of 3M.
+3M Home Care Division
+Questions?: 1-800-846-8887
+Made in Canada for 3M with globally sourced materials.",http://www.scotch-brite.com/3M/en_US/scotch-brite/?WT.mc_id=www.scotch-brite.com/,,N/A
+3014,,,"Twine (Hemp, Marchen-Art Co.)",Hemp Twine © Mackenzie Carlson,"-Twine
+-Plastic wrap
+-Tube
+-Packaging","-1_Hemp (N/A)
+-2_Low Density Polyethylene (1086)
+-3_Paper and cardboard (1040)
+-4_Paper and cardboard (1040)",,"-1_12.0g
+-2_<0.1g
+-3_2.5g
+-4_0.9g",Marchen-Art Co.,,,,Spool of hemp twine ,,N/A,"MÄRCHEN ART
+HEMP TWINE 100% NATURAL WHOLLY HEMP
+http://www.marchen-art.co.jp
+HEMP",http://www.marchen-art.co.jp,,N/A
+3015,Consumer,Entertainment,Recorder (Toysmith),Recorder,"-Recorder
+-Cleaning rod
+-Information sheet
+-Packaging",,,"-1_87.1g
+-2_6.9g
+-3_2.0g
+-4_11.4g",Toysmith,$5.99,,,"Each 13 inch recorder is packaged in a snap-shut vinyl bag. Includes cleaning rod. Assorted Colors. Toysmith's mission is to supply quality toys and gifts while delivering superior customer service to retailers. We offer products in many key categories including: active play, science & discovery, arts & crafts, impulse & novelty toys, and nostalgic retro classics!",,,"3+ YEARS
+RECORDER
+Toysmith®
+FINGER PLACEMENT FOR PLAYING YOUR RECORDER
+Retain this information for future reference.
+CE
+Made in Taiwan",https://www.toysmith.com,,N/A
+3016,Consumer,Kitchen,"Oven Thermometer (Stainless Steel, AcuRite)",AcuRite Stainless Steel Oven Thermometer,-Thermometer,-1_Stainless Steel (1050),,-1_44.7g,AcuRite,,,,"Within an oven, temperatures often vary from shelf to shelf. Place the AcuRite Stainless Steel Oven Thermometer near food while it's cooking to monitor the temperature and ensure perfect results. The durable, easy-clean stainless steel construction and protective glass lens make it perfect for use in conventional or convection ovens. Measures from 150ºF to 600ºF, and indicators highlight the optimal temperature ranges for warming, baking / roasting, and broiling. Includes an integrated hanger for mounting, or stands upright on base. One-year limited warranty. It's more than accurate, it's AcuRite.",,,"WARM
+BAKE/ROAST
+BROIL
+NSF®
+MINGLE 
+T708A
+DO NOT PUT IN WATER
+OVEN THERMOMETER",https://www.acurite.com/stainless-steel-oven-thermometer-00620.html,*https://www.youtube.com/watch?v=OZ_1zwMyLH8,N/A
+3017,Consumer,Kitchen,"Scrubber Sponge (Wool, Baudelaire)",Small Wool Sponge,"-Sponge
+-Packaging","-1_Natural Sponge (N/A)
+-2_Paper and cardboard (1040)",,"-1_8.6g
+-2_27.8g","Baudelaire, Inc.",,,,"Natural sea sponges are far superior to synthetic sponges in their durability and absorbency, In fact, natural sponges are still used for purposes other than bathing, ranging from car washing to rug cleaning because of their incredible durability. Natural sea sponges are easy to care for. Just wqueeze out the water and keep in a dry place in your bathroom. Sponge will air dry completely and is naturally resistant to bacterial growth. If, for some reason, your sponge needs freshening, you can soak for 24 hours in a very mild bleach solution (1 tsp. per gallon). Natural sea sponges have been used for bathing since the days of the Roman Empire. Our natural sea sponges are harvested by hand in the shallow waters of the Culf of Mexico. Sponges are cut from the ocean floor and grow back in 5-7 years.",,,"HARVESTED BY HAND
+Approximately 4.5 inches
+www.baudelairesoaps.com
+100% recycled & recyclable package.",http://baudelairesoaps.com,,N/A
+3018,Consumer,Kitchen,Spatula (Wooden),Wooden Spatula © Mackenzie Carlson,,,,,,,,,,,N/A,N/A,,,N/A
+3019,Consumer,Kitchen,Rolling Pin,Rolling Pin © Mackenzie Carlson,,,,,,,,,,,N/A,N/A,,,N/A
+3020,Consumer,Tools,"Hammer (Hickory Handle, Workforce)",10 oz. Hickory Handle Rip Hammer © Mackenzie Carlson,"-Hammer
+-Handle","-1_Stainless Steel (1050)
+-2_Hickory (N/A)","-1_Induction furnace (2092)
+-1_Forging (2056)
+-1_Punch cutting (2070)
+-1_Grinding and mechanical polishing (2107)
+-2_Circular sawing (2063)
+-2_Grinding and mechanical polishing (2107)
+-2_Rigid adhesives (2002)","-1_283.5g
+-2_61.3g",Workforce,$4.98,Home Depot,,10 oz. hammer head: light and good strength. Good design for DIY at home. Very good price with good quality.,"Stainless Steel: Also known as inox steel or inox from French inoxydable, is a steel alloy with a minimum of 10.5% chromium content by mass
+Hickory: Among the hardest and strongest of woods native to the United States. On average, Hickory is denser, stiffer, and harder than either White Oak or Hard Maple. The wood is commonly used where strength or shock-resistance is important
+
+Induction furnace: To soften the steel for forging and harden it once forged
+Forging: Steel pounded into mold to attain desired shape
+Punch cutting: Used to remove excess metal after forging
+Grinding and mechanical polishing: To finish the metal and wood pieces
+Circular sawing: To cut the wood into the desired shape and dimensions
+Rigid adhesives: To join the two parts of the hammer",N/A,"WORKFORCE
+DROP FORGED
+10oz HICKORY HANDLE RIP HAMMER
+GENUINE HICKORY
+WARNING
+WEAR SAFETY GOGGLES
+USER AND BYSTANDER
+CHINA
+WARNING - Wear Safety Goggles. Use this hammer to drive and pull common nails only. Never strike this tool with or against another striking tool, hardened nail, or other hard object as chipping can occur, possibly resulting in eye or other injury.
+MADE IN CHINA",https://www.buycott.com/upc/047486769236/workforce-10-oz-hickory-handle-rip-hammer,*http://www.sciencechannel.com/videos/hammer-time,N/A
+3021,Consumer,Entertainment,Modeling Dough (Play-doh),Play-doh © Mackenzie Carlson,"-Dough
+-Container
+-Lid","-1_Flour (N/A)
+-1_Water (N/A)
+-1_Salt (N/A)
+-1_Boric Acid  (N/A)
+-1_Mineral Oil (N/A)
+-2_Polyproplyene (1021)
+-3_Low Density Polyethylene (1086)","-1_Hot mixing (N/A)
+-2_Injection molding (2080)
+-3_Injection molding (2080)","-1_62.1g
+-2_8.1g
+-3_4.2g",Hasbro,,,,Modelling dough that kids love,"Flour: For the dough texture
+Water: To soften the dough
+Salt: Texture
+Boric Acid: Texture
+Mineral Oil: Texture
+Polypropylene: A thermoplastic polymer. It is strong, tough, has a high resistance to heat and acts as a barrier to moisture.
+Low Density Polyethylene: Very cheap, good chemical and hydrolysis resistance, high impact strength at low temperatures, excellent electrical properties, transparent in thin films, good processability 
+
+Hot mixing: To mix the ingredients together to create the dough
+Injection molding: Shaping the plastic container and lid",4021,"MODELING COMPOUND
+NOTICE TO PARENTS: CONTAINS WHEAT",http://www.hasbro.com/en-us/,*https://www.youtube.com/watch?v=owQVpNUyc44&t=7s,N/A
+3022,Interior,Lighting,Candle,Candle © Mackenzie Carlson,,,,,,,,,,,N/A,N/A,,*https://www.youtube.com/watch?v=Rpu5mH5me1Y,N/A
+3023,,,King Arthur Flour,King Arthur Flour © Mackenzie Carlson,,,,,,,,,,,N/A,N/A,,,N/A
+3024,Consumer,Office,Rubber Band,Rubber Band © Mackenzie Carlson,,,,,,,,,,,N/A,N/A,N/A,*https://www.youtube.com/watch?v=6TIXDbxtzMY,N/A
+3025,Consumer,Office,Eraser,Eraser © Mackenzie Carlson,,,,,,,,,,,N/A,N/A,N/A,*https://www.youtube.com/watch?v=v8osKTyQjac,N/A
+3026,Consumer,Tools,Spring,Spring © Mackenzie Carlson,,,,,,,,,,,N/A,N/A,N/A,*https://www.youtube.com/watch?v=omLKbKakDoY,N/A
+3027,Consumer,Tools,Spring,Spring © Mackenzie Carlson,,,,-1_14.6g,,,,,,,N/A,N/A,N/A,*https://www.youtube.com/watch?v=omLKbKakDoY,N/A
+3028,Consumer,Tools,Spring,Spring © Mackenzie Carlson,,,,,,,,,,,N/A,N/A,N/A,*https://www.youtube.com/watch?v=omLKbKakDoY,N/A
+3029,Consumer,Tools,Spring,Spring © Mackenzie Carlson,,,,-1_47.4g,,,,,,,N/A,N/A,N/A,*https://www.youtube.com/watch?v=omLKbKakDoY,N/A
+3030,Consumer,Tools,Spring,Spring © Mackenzie Carlson,,,,-1_84.1g,,,,,,,N/A,N/A,N/A,*https://www.youtube.com/watch?v=omLKbKakDoY,N/A
+3031,Consumer,Tools,Spring (With hooks),Spring with Hooks On Either Side © Mackenzie Carlson,,,,-1_53.1g,,,,,,,N/A,N/A,N/A,*https://www.youtube.com/watch?v=omLKbKakDoY,N/A
+3032,Consumer,Entertainment,Balloon,Balloon © Mackenzie Carlson,,,,,,,,,,,,,,"*https://www.youtube.com/watch?v=e7pYoA9gEqc&t=7s
+*https://www.youtube.com/watch?v=8CfL5xl2N1Q&t=230s",N/A
+3033,Consumer,Grocery,Soda Can (Coca-Cola),12 fl. oz. can Coca-Cola © Mackenzie Carlson,,,,,Coca-Cola,,,,,,N/A,N/A,http://www.coca-colacompany.com,*https://www.youtube.com/watch?v=JyumWUg_MXM,N/A
+3034,Consumer,Entertainment,iPhone Case,iPhone Case © Mackenzie Carlson,,,,,,,,,,,N/A,N/A,,,N/A
+3035,Consumer,Tools,Spring,Small Spring © Mackenzie Carlson,,,,,,,,,,,N/A,N/A,N/A,*https://www.youtube.com/watch?v=omLKbKakDoY,N/A
+3036,Consumer,Grocery,Wine Bottle (HandCraft Petite Sirah 2012),HandCraft Petite Sirah 2012 © Mackenzie Carlson,"-Wine
+-Bottle
+-Cork","-1_Wine (N/A)
+-2_Soda lime Glass (1004)
+-3_Cork (1036)","-1_Wine making process (fermenting...etc.) (N/A)
+-2_Glass blow molding (2077)
+-3_Boiling (N/A)
+-3_Circular sawing (2063)
+-3_Punch cutting (2070)","-1_780.0g
+-2_493.7g
+-3_1.1g",HandCraft Winery,$17.99,Co-op,,"The HandCraft Petite Sirah is all about jammy fruit from beginning to end. It starts with aromas of cherry, plum and cocoa followed by flavors of blueberry, coffee and spice. This full-bodied wine has a bold tannin structure and balanced acidity that lead to a long finish. This big wine is anything but 'petite.'","Wine: An alcoholic beverage made from fermented grapes
+Soda-lime Glass: Soda lime glass is also known as soda-lime-silica glass is the most common type of glass
+Cork: An impermeable, and buoyant material that is harvested for commercial use primarily from the Cork Oak
+
+Wine-making process (fermenting...etc.): To produce the wine from grapes and other natural ingredients 
+Glass blow molding: Blowing molten glass into a mold to form the hollowed bottle
+Boiling: The cork wood must be boiled to soften and then airated outdoors for half a year
+Circular sawing: To cut the layers of cork into the right dimensions
+Punch cutting: To cut the cork shapes out from the layers",N/A,"HANDCRAFT
+ARTISAN COLLECTION
+PETITE SIRAH
+CALIFORNIA
+VINTAGE DATED 2012
+PROPRIETOR
+ALC 14.5% BY VOL
+CRAFTED BY TRADITION.
+Inspired by Life.
+facebook
+HandCraftWines.com
+VINTED AND BOTTLED BY HANDCRAFT ARTISAN COLLECTION, MANTECA, CA
+750 ML. CONTAINS SULFITES
+GOVERNMENT WARNING: (1) ACCORDING TO THE SURGEON GENERAL, WOMEN SHOULD NOT DRINK ALCOHOLIC BEVERAGES DURING PRAGNANCY BECAUSE OF THE RISK OF BIRTH DEFECTS. (2) CONSUMPTION OF ALCOHOLIC BEVERAGES IMPAIRS YOUR ABILITY TO DRIVE A CAR OR OPERATE MACHINERY, AND MAY CAUSE HEALTH PROBLEMS.",http://www.handcraftwines.com,"*http://www.sciencechannel.com/videos/wine
+*https://www.youtube.com/watch?v=LUF_5zrFG9c
+*https://www.youtube.com/watch?v=iRGVt6ujZgc
+*https://www.youtube.com/watch?v=X1CgXyBd2nY",N/A
+3037,Consumer,Kitchen,Wooden Plate,Wooden Plate © Mackenzie Carlson,,,,,,,,,,,,,,,N/A
+3038,Consumer,Kitchen,Bamboo,Bamboo © Mackenzie Carlson,,,,,,,,,,,,,,,N/A
+3039,Consumer,"Arts, Crafts, and Sewing","Knitting Needles (circular, bamboo, Clover)",24in Takumi Bamboo Premium Circular Knittting Needles © Mackenzie Carlson,"-Needles
+-Cord
+-Info Sheet
+-Packaging","-1_Bamboo (1035)
+-2_Nylon 6 (1083)
+-3_Paper and cardboard (1040)
+-4_Low Density Polyethylene (1086)","-1_Circular sawing (2063)
+-1_Grinding and mechanical polishing (2107)
+-1_Autoclave curing (N/A)
+-1_Hot stamping (2097)
+-2_
+-2_Rigid adhesives (2002)
+-3_Pulping and drying (N/A)
+-3_Cropping/guillotine (2064)
+-3_Printing (N/A)
+-4_Injection molding (2084)","-1_10.0g
+-2_1.6g
+-3_5.6g
+-4_2.2g","Clover MFG. CO., LTD.",,,,,,4039,"CIRCULAR KNITTING NEEDLES
+Clover
+24in (61cm) No. 15 (10.0mm)
+BAMBOO PREMIUM
+JAPAN 
+<FEATURES>
+Circular Knitting can be done easily.
+Knitting seamless garments for perfect creations.
+Easy and convenient to carry.
+Only the hard and resilient bamboo is used.
+Using only the part just under the skin of the Bamboo offers the correct thickness, hardness and toughness.
+Precise standards promise the uniform knitting gauge and a beautiful finish. Clover's unique technology offers the even thickness.
+Smoother touch, smoother yarn feed.
+A smooth tapered needle-point never split yarn.
+Needles: Bamboo
+Cord: Nylon
+Distributed in U.S.A. by CLOVER NEEDLECRAFT, INC.
+www.clover-usa.com
+MADE IN JAPAN",http://www.clover-usa.com/en/50-takumi-needles-,*https://www.youtube.com/watch?v=-AnamT-7Aiw,N/A
+3040,Consumer,Kitchen,"Sandwich Bag (Wax Paper, Bee's Wrap)",Wax Paper Bag © Mackenzie Carlson,,,,,Bee's Wrap,,,,,,N/A,N/A,http://www.beeswrap.com,,N/A
+3041,Interior,Housing Parts,Door Handle,Door Handle,"-Handle
+-Screws
+-Packaging",,,"-1_48.9g
+-2_1.3g
+-3_<0.1g",,$7.95,,,Traditional metal door handle,,,N/A,N/A,*https://www.youtube.com/watch?v=wcGhCdEmeUM,N/A
+3042,Consumer,Kitchen,Spatula (Wooden),Wooden Spatula © Mackenzie Carlson,,,,,,,,,,,N/A,N/A,,,N/A
+3043,Consumer,Kitchen,Spoon (Wooden),Wooden Spoon © Mackenzie Carlson,,,,,,,,,,,N/A,N/A,,,N/A
+3044,Consumer,Kitchen,Skewer Sticks,Skewer Sticks © Mackenzie Carlson,,,,,,,,,,,,,,,N/A
+3045/ 3085,Consumer,Kitchen,"Disposable Cutlery (PP, Preserve)","Apple Green Cutlery (8 forks, 8 spoons, 8 knives) © Xiaoran Zhu","-Cutlery
+-Packaging","-1_Polypropylene (1092)
+-2_Polyethylene Terephthalate (1087) 
+-2_Linear Low Density Polyethylene (1086) ","-1_Injection molding (2084)
+-2_Extrusion blow molding (2077)
+-2_Printing (N/A)","-1_136.5g
+-2_4.8g
+-2_4.8g",Preserve,$5.79,Co-op,1/8/2017,"The team at Preserve designed a new line of plastic tableware that is not only beautiful, but sturdy. The next time you throw a party or plan a picnic, use Preserve's Lightweight Cutlery. Made in the USA from 100% recycled #5 plastic, this cutlery is BPA and melamine-free.","Polypropylene: A thermoplastic polymer. It is strong, tough, has a high resistance to heat and acts as a barrier to moisture.
+Polyethylene Terephthalate (PET): A plastic resin and a form of polyester
+Linear Low Density Polyethylene: Compared to LDPE: higher tensile strength, higher impact strength and puncture resistance, lower thickness films can be blown; highest environmental stress cracking resistance of the PEs
+
+Injection molding: Molten plastic is injected into a steel molding where it is cooled
+Extrusion blow molding: Melted plastic blown into a long, thin tube for molding
+Printing: Used to apply product labels, instructions, warning, and advertisements",4085,"CELEBRATE REUSE
+8 SETS
+preserve®
+LIGHT ENOUGH FOR A PARTY, DURABLE ENOUGH FOR EVERY DAY
+Made in USA from 100% recycled plastic including take-out containers
+Made in USA
+BPA FREE
+Dishwasher Safe
+Certified B Corporation®
+bcorporation.net
+preserve® cutlery
+MADE WITH LOVE & RECYCLED PLASTIC: Preserve cutlery is made from 100% recycled plastic, is BPA free, dishwasher safe and can handle years of use.
+Learn more at preserveproducts.com
+PLEASE REUSE THIS BAG made from PET and LLDPE
+888-354-7296",https://www.preserveproducts.com,"*https://www.youtube.com/watch?v=oxN70ktR0jg
+*https://www.youtube.com/watch?v=aQ4O8MMDuH8",N/A
+3046,Consumer,Tools,Spring,Spring © Mackenzie Carlson,,,,,,,,,,,,,,,N/A
+3047,Consumer,Tools,Spring,Spring © Mackenzie Carlson,,,,,,,,,,,N/A,N/A,N/A,*https://www.youtube.com/watch?v=omLKbKakDoY,N/A
+3048,Consumer,Tools,Spring,Spring © Mackenzie Carlson,,,,-1_85.2g,,,,,,,N/A,N/A,N/A,*https://www.youtube.com/watch?v=omLKbKakDoY,N/A
+3049,Consumer,Kitchen,Spoon (Ingeo Plastic),Ingeo Plastic Compostable Spoon © Mackenzie Carlson,,,,,,,,,,,,,,*https://www.youtube.com/watch?v=oxN70ktR0jg&t=1s,N/A
+3050/ 3099,Consumer,Kitchen,"Disposable Cutlery (PP, Shurfine)","Combo Pack Heavy Duty Plastic (Shatter Resistant) (8 forks, 8 spoons, 8 knives) © Xiaoran Zhu","-Cutlery
+-Packaging","-1_Polypropylene (1092)
+-2_Paper and cardboard (1040)","-1_Injection molding (2084)
+-2_Pulping and drying (N/A)
+-2_Cropping/guillotine (2064)
+-2_Printing (N/A)","-1_83.5g
+-2_21.5g",Shurfine,$0.79,Co-op,1/8/2017,Heavy duty plastic cutlery,"Polypropylene: Translucent, good chemical, heat and fatigue resistance, tough, integral hinge property
+Paper and cardboard: A thick paper-based material
+
+Injection molding: Molten plastic is injected into a steel molding where it is cooled
+Pulping and drying: Processes to make thin sheets of Paper and cardboard
+Cropping/guillotine: The upper blade is forced past a lower one to shear sheet material along a straight line
+Printing: Used to apply product labels, instructions, warning, and advertisements",4099,"Shurfine®
+Combo Pack
+Heavy Duty Plastic
+SHATTER RESISTANT
+8 Forks
+8 Spoons 
+8 Knives
+MADE IN U.S.A.
+Quality GUARANTEED SATISFACTION",http://shurfinebrand.com,"*https://www.youtube.com/watch?v=oxN70ktR0jg
+*https://www.youtube.com/watch?v=-AnamT-7Aiw",N/A
+3051,Consumer,Kitchen,Fork (plastic),Clear Plastic Fork © Mackenzie Carlson,,,,,,,,,,,,,,*https://www.youtube.com/watch?v=oxN70ktR0jg&t=1s,N/A
+3052,Consumer,Kitchen,Silverware (plastic),Plastic Silverware © Mackenzie Carlson,,,,,,,,,,,,,,*https://www.youtube.com/watch?v=oxN70ktR0jg&t=1s,N/A
+3053,Sports and Leisure,Racing,"Cycling helmet (red, Schwinn)",Red Merge Helmet © Mackenzie Carlson,,,,,Schwinn,,,,,,,,http://www.schwinnbikes.com/usa/,*https://www.youtube.com/watch?v=MeZa-LsqEW4,N/A
+3054,Consumer,Kitchen,"Spatula (Silicone, OXO)",Silicone Cookie Spatula © Mackenzie Carlson,"-Spatula Head and Handle
+-Metal Piece","-1_Silicone Rubber (1078)
+-2_Stainless Steel (1050)",,-1_65.7g,OXO,,,,,,N/A,HEAT RESISTANT TO 600ºF/315ºC,https://www.oxo.com,,N/A
+3055,Consumer,Kitchen,"Head Turner (Stainless Steel and Nylon, Onieda)",Stainless Steel Nylon Head Turner © Mackenzie Carlson,"-Head Turner Head
+-Metal Handle","-1_Nylon 6 (1083)
+-2_Stainless Steel (1050)",,-1_107.3g,Oneida,,,,,,N/A,N/A,http://www.oneida.com,,N/A
+3056,Consumer,Kitchen,Spatula (metal),Metal Spatula © Mackenzie Carlson,,,,,,,,,,,N/A,N/A,,,N/A
+3057,Consumer,Kitchen,Cooking Pot,Cooking Pot © Mackenzie Carlson,,,,,,,,,,,N/A,N/A,,,N/A
+3058,Consumer,Kitchen,Frying Pan (T-fal),Professional Total Nonstick Oven Safe Thermo-Spot Heat Indicator Fry Pan © Mackenzie Carlson,"-Pan
+-Handle (metal part)
+-Handle (silicone part)",,,-1_421.4g,T-fal,,,,,,N/A,N/A,http://www.t-falusa.com,*http://www.sciencechannel.com/videos/frying-pans,N/A
+3059,Consumer,Kitchen,Frying Pan (Green+Life),Green+Life Soft Grip Black Frypan © Mackenzie Carlson,"-Pan
+-Handle (metal part)
+-Handle (silicone part)",,,-1_413.3g,The Cookware Company,,,,,,N/A,N/A,https://www.greenlife-cookware.com,*http://www.sciencechannel.com/videos/frying-pans,N/A
+3060,Consumer,Kitchen,"Frying Pan (Cast Iron Skillet, Lodge)",Cast Iron Skillet © Mackenzie Carlson,-Skillet,-1_Cast Iron (1045),"-1_Furnace mixing (N/A)
+-1_Sand casting (2045)
+-1_Abrasive jet blasting (2072)
+-1_Grinding and mechanical polishing (2107)
+-1_Washing and drying (N/A)
+-1_Oil electro static spray seasoning (2114)",-1_1480.0g,Lodge,,,,,,N/A,N/A,http://www.lodgemfg.com,*http://www.sciencechannel.com/videos/cast-iron-cook-ware,N/A
+3061,Consumer,Kitchen,Marble Sheet,Marble Sheet © Mackenzie Carlson,,,,,,,,,,,N/A,N/A,,,N/A
+3062,Consumer,Kitchen,Paring Knife (Wusthof),Wüsthof SILVERPOINT 8cm Paring Knife © Mackenzie Carlson,"-Blade
+-Handle",,,-1_22.8g,Wüsthof,,,,,,N/A,N/A,http://www.wusthof.com,*https://www.youtube.com/watch?v=lL-8FodwfNo,N/A
+3063,Consumer,Kitchen,Peeler (Rosenhaus Swiss),SwissPro Vegetable Peeler © Mackenzie Carlson,,,,,Rosenhaus Swiss,,,,,,N/A,N/A,http://swissprousa.com,*https://www.youtube.com/watch?v=uSTL2hvo48k,N/A
+3064,Consumer,Kitchen,Peeler (Kuhn Rikon),Original Swiss Peeler - White © Mackenzie Carlson,,,,,Kuhn Rikon,,,,,,N/A,N/A,http://www.kuhnrikonshop.com,*https://www.youtube.com/watch?v=uSTL2hvo48k,N/A
+3065,Consumer,Tools,Arrowhead,Arrowhead © Mackenzie Carlson,,,,,,,,,,,N/A,N/A,,,N/A
+3066,,,Stone Tile,Stone Tile © Mackenzie Carlson,,,,,,,,,,,N/A,N/A,N/A,*http://www.sciencechannel.com/stone-flooring,N/A
+3067,Consumer,Kitchen,"Paring Cutlery Set (3-piece, ceramic, Hampton Forge)",3-Piece Ceramic Coated Paring Cutlery Set © Xiaoran Zhu,"-3.5in Paring Knife (Red)
+-3in Bird's Beak Knife (Blue)
+-3.5in Paring Knife (Green)",,,"-1_48.8g
+-2_45.7g
+-3_49.9g
+-4_28.7g
+-5_9.0g",Hampton Forge Tomodachi Cutlery,,,,"Literally meaning 'friend', Tomodachi represents a lively, helpful presence in the kitchen. Splashes of color, useful features and lasing quality make Tomodachi welcome friends inside kitchens everywhere. Like a good friend, Tomodachi makes life easier and playfully adds some fun. Accessible and affordable without compromising the promise of quality. This Tomodachi features a splash of color and an equally friendly ergonomic design. With a contoured handle and oversized blade, cutting action is fast and comfortable. Resin-coated fine-edge blades provide superior sharpness.",,4067,"HAMPTON FORGE®
+3.5in Paring Knife
+3in Bird's Beak Knife
+Super sharp ceramic coated blades
+Stain & Rust proof
+Ergonomic for precision and comfort
+Hand wash only
+Made in China
+3pc. Paring
+See more at www.hamptonforge.com
+CERAMIC COATED BLADES
+LIMITED 25 YEAR WARRANTY",www.hamptonforge.com,*https://www.youtube.com/watch?v=vrBffC4F3-I,N/A
+3068,Consumer,Kitchen,"Paring Knife (ceramic, Kyocera)",3in Advanced Ceramics Paring Knife © Xiaoran Zhu,"-Knife
+-Packaging
+-Info Sheets",,,"-1_43.3g
+-2_35.7g
+-3_14.5g",Kyocera,$19.99,Board & Basket,,"Kyocera's bests selling 3-inch advanced ceramic paring knife is just the right size for detailed tasks like trimming, peeling, mincing and creating garnishes. Perfect for the home cook, this knife will be used daily, quickly becoming a favorite in the kitchen. Ideal for fruits, vegetables and boneless meats. Packaged in an acetate box, a great tool for any chef.",,4068,"Paring Knife
+STOP! To protect your knife from damage, please read care & use instructions!
+Ceramic blade for sharp, clean cutting. Dishwasher safe.
+THE CERAMIC ADVANTAGE!
+KYOCERA ADVANCED CERAMICS
+UNRELENTING SHARPNESS
+UNPARALLELED PURITY
+ULTRA LIGHTWEIGHT
+CAUTION: Keep away from children.; Avoid extreme heat or shock.; Not intended for cutting hard foods, carving, prying, flexing, scaping or boning because of hardness of blade.; Follow Care & Use instructions enclosed before using knife.
+Kyocera is not responsible for damage resulting from improper use. 
+Made in China
+Blade manufactured in Japan
+Recycle
+KYOCERA CORPORATION
+800-537-0294
+www.KyoceraAdvancedCeramics.com",www.kyoceraadvancedceramics.com,*https://www.youtube.com/watch?v=vrBffC4F3-I,N/A
+3069,Consumer,Kitchen,"Peeler (Ceramic Blade, Kyocera)",Advanced Ceramics Ceramic Peeler © Mackenzie Carlson,"-Handle
 -Blade
 -Packaging","-1_Polycarbonate (1084)
 -2_Zirconia (1021)
 -3_Paper and cardboard (1040)",,,Kyocera,$9.99,Board & Basket,9/1/2014,Kyocera’s horizontal Y peeler features two eye corers to remove imperfections and a comfortable ergonomic handle that complements the Revolution Series cutlery line.,"Polycarbonate: Hard plastic that's light and waterproof
-Zirconia: Used to create ceramic products; low thermal conductivity; dense; can maintain sharp edges longer than othertypes of ceramic materials",4069,"KYOCERA
+Zirconia: Used to create ceramic products; low thermal conductivity; dense; can maintain sharp edges longer than othertypes of ceramic materials",N/A,"KYOCERA
 Sharp
 Pure
 Lightweight",http://kyoceraadvancedceramics.com,"*https://www.youtube.com/watch?v=uSTL2hvo48k
 *https://www.youtube.com/watch?v=-AnamT-7Aiw",N/A
-3070,Consumer,Kitchen,"Disposable Cutlery (PP, Creative Convention)","Sensations Plastic Cutlery (16 forks, 8 spoons, 8 knives) ©Xiaoran Zhu","-Cutlery
+3070,Consumer,Kitchen,"Disposable Cutlery (PP, Creative Convention)","Sensations Plastic Cutlery (16 forks, 8 spoons, 8 knives) © Xiaoran Zhu","-Cutlery
 -Packaging","-1_Polypropylene (1092)
 -2_Paper and cardboard (1040)","-1_Injection molding (2084)
 -2_Pulping and drying (N/A)
@@ -226,28 +615,6 @@ RECYCLED Paper and cardboard
 RECYCLABLE
 MADE IN THE USA",http://melitta.com,"*https://www.youtube.com/watch?v=JjDvIm0uX7Y&t=20s
 *https://www.youtube.com/watch?v=-AnamT-7Aiw",N/A
-3050/ 3099,Consumer,Kitchen,"Disposable Cutlery (PP, Shurfine)","Combo Pack Heavy Duty Plastic (Shatter Resistant) (8 forks, 8 spoons, 8 knives) © Xiaoran Zhu","-Cutlery
--Packaging","-1_Polypropylene (1092)
--2_Paper and cardboard (1040)","-1_Injection molding (2084)
--2_Pulping and drying (N/A)
--2_Cropping/guillotine (2064)
--2_Printing (N/A)","-1_83.5g
--2_21.5g",Shurfine,$0.79,Co-op,1/8/2017,Heavy duty plastic cutlery,"Polypropylene: Translucent, good chemical, heat and fatigue resistance, tough, integral hinge property
-Paper and cardboard: A thick paper-based material
-
-Injection molding: Molten plastic is injected into a steel molding where it is cooled
-Pulping and drying: Processes to make thin sheets of Paper and cardboard
-Cropping/guillotine: The upper blade is forced past a lower one to shear sheet material along a straight line
-Printing: Used to apply product labels, instructions, warning, and advertisements",4099,"Shurfine®
-Combo Pack
-Heavy Duty Plastic
-SHATTER RESISTANT
-8 Forks
-8 Spoons 
-8 Knives
-MADE IN U.S.A.
-Quality GUARANTEED SATISFACTION",http://shurfinebrand.com,"*https://www.youtube.com/watch?v=oxN70ktR0jg
-*https://www.youtube.com/watch?v=-AnamT-7Aiw",N/A
 3076,Consumer,Kitchen,Reusable Coffee Filter System (JavaJig),JavaJig Reusable Coffee Filter System (2 Reusable Cups and 30 Coffee Filters) © Xiaoran Zhu,"-Cups
 -Filters
 -Packaging","-1_Polypropylene (1092)
@@ -359,7 +726,7 @@ RECYCLED Paper and cardboard
 Add More Flavor to Your Life™
 www.melitta.com • 1.888.MELITTA • Facebook.com/MelittaUSA
 MADE IN GERMANY",http://melitta.com,*https://www.youtube.com/watch?v=-AnamT-7Aiw,N/A
-3079,Consumer,Cleaning,"Scrubber Sponge (Cellulose, Natural Value)",Kitchen Scrubber Sponge © Xiaoran Zhu,"-Sponge
+3079,Consumer,Kitchen,"Scrubber Sponge (Cellulose, Natural Value)",Kitchen Scrubber Sponge © Xiaoran Zhu,"-Sponge
 -Packaging","-1_Cellulose (1081)
 -2_Low Density Polyethylene (N/A)","-1_Soaking (N/A)
 -1_Polyurethane gluing (N/A)
@@ -411,34 +778,17 @@ Easy
 Economical
 Environmental",http://melitta.com,"*https://www.youtube.com/watch?v=JjDvIm0uX7Y&t=20s
 *https://www.youtube.com/watch?v=-AnamT-7Aiw",N/A
-3013/ 3081,Consumer,Cleaning,"Scrubber Sponge (Cellulose, Scotch Brite)",Heavy Duty Scrub Sponge © Xiaoran Zhu,"-Sponge
--Packaging","-1_Cellulose (1081)
--2_Low Density Polyethylene (N/A)","-1_Soaking (N/A)
--1_Polyurethane gluing (N/A)
--1_Cold shape rolling (2057)
--2_Cropping/guillotine (2064)
--2_Extrusion blow molding (2077)
--2_Printing (N/A)","-1_26.9g
--2_.1g",Scotch Brite,$1.39,Co-op,1/8/2017,"Reach for the Scotch-Brite Heavy Duty Scrub Sponge because sometimes the mess is just too tough for a regular scrub sponge. From grunge on the grill, to pots and pans that sat overnight, get it done right! Look for heavy scrubbing power also available in a large size for your toughest messes.","Cellulose: Derived from wood pulp, sodium sulphate, and hemp fiber
-Low Density Polyethylene: Very cheap, good chemical and hydrolysis resistance, high impact strength at low temperatures, excellent electrical properties, transparent in thin films, good processability 
-
-Soaking: Done in a vat of chemicals to soften the cellulose and rid of impurities
-Polyurethane gluing: To glue the scouring pad on 
-Cold shape rolling: Passing the material through a series of shaped rolls to press the sheets together
-Cropping/guillotine: To cut the shapes of the sponge and wrapper
-Extrusion blow molding: Melted plastic blown into a long, thin tube for molding
-Printing: Used to apply product labels, instructions, warning, and advertisements",4081,"Lasts 50% Longer than leading value brand heavy duty scrub sponge.
-Scotch-Brite®
-Heavy Duty
-1 PACK
-1 SCRUB SPONGE
-3M
-Removes Tough Baked-on Messes 50% Faster than Competitive Scrub Sponges
-Also try our other scrub sponges: Delicate Care: Extra Gentle Cleaning; Non-Scratch: For Premium Cookware & Stovetops
-3M and Scotch-Brite are trademarks of 3M.
-3M Home Care Division
-Questions?: 1-800-846-8887
-Made in Canada for 3M with globally sourced materials.",http://www.scotch-brite.com/3M/en_US/scotch-brite/?WT.mc_id=www.scotch-brite.com/,,N/A
+3081,Interior,Housing Parts,Single Switch Plate,Single Switch Plate,"-Switch plate
+-Screws
+Packaging","-1_Brass (1054)
+-2_Brass (1054)
+-3_Polyethylene (1086)
+-3_Paper and cardboard (1040)",,"-1_42.4g
+-2_1.4g
+-3_4.0g
+-4_12.9g",UPPER DECK Ltd.,$2.25,,,Traditional metal switch plate for a single wall switch,,,"SOLID BRASS SWITCH PLATE LACQUERED
+UPPER DECK Ltd. 
+MADE IN TAIWAN",http://store.upperdeckltd.com/index.php?route=information/information&information_id=10,,N/A
 3082,Consumer,Kitchen,"Mug Cozie (Recycled, Klean Kanteen)",ReFleece Pint Cozie © Xiaoran Zhu,"-Cozie Interior
 -Cozie Exterior
 -Packaging","-1_Polyethylene Terephthalate (1087)
@@ -475,7 +825,7 @@ MADE IN U.S.A.
 FSC CERTIFIED / 50% PCW CONTENT 
 PAT. PENDING",http://kleankanteen.com,"*http://www.sciencechannel.com/videos/fleece
 *https://www.youtube.com/watch?v=-AnamT-7Aiw",N/A
-3083,Consumer,Cleaning,"Scrubber Sponge Loofah, Sponge Technology)",2 Twist loofah sponges © Xiaoran Zhu,"-Sponge
+3083,Consumer,Kitchen,"Scrubber Sponge Loofah, Sponge Technology)",2 Twist loofah sponges © Xiaoran Zhu,"-Sponge
 -Packaging","-1_Luffa Gourd (N/A)
 -2_Low Density Polyethylene (1086) ","-1_Soaking (N/A)
 -1_Polyurethane gluing (N/A)
@@ -506,7 +856,7 @@ www.cleanerhomeliving.com
 www.facebook.com/twistclean
 USE & CARE: Does not disinfect surfaces. Rince thoroughly before and after use. Not for aquarium use. Please test first with light pressure to determine whether surfaces may scratch. May be sterilized by boiling water. Top-rack diswasher safe.
 Made in Mexico",https://thrivemarket.com/twist-loofah-sponge,,N/A
-3084,Consumer,Cleaning,"Scrubber Sponge (Cellulose, Western Family)",Heavy Duty Scrubber Sponge © Xiaoran Zhu,"-Sponge
+3084,Consumer,Kitchen,"Scrubber Sponge (Cellulose, Western Family)",Heavy Duty Scrubber Sponge © Xiaoran Zhu,"-Sponge
 -Packaging","-1_Cellulose (1081)
 -2_Low Density Polyethylene (1086)","-1_Soaking (N/A)
 -1_Polyurethane gluing (N/A)
@@ -529,64 +879,18 @@ Economical - Outlasts rolls and rolls of paper towels
 www.westernfamily.com
 QUALITY SATISFACTION GUARANTEED
 MADE IN THE USA",http://www.westernfamily.com,,N/A
-3097,Consumer,Kitchen,"Cutting Board (Wood Fiber, Epicurean)",Wood Fiber Cutting Board,"-Cutting Board
--Sticker","-1_Paper Pulp (N/A)
--1_Phenolic resin (1099)
--2_Paper Pulp (N/A)","-1_Pulping and drying (N/A)
--1_Cold shape rolling (2057)
--1_Hot pressing (2090)
--1_Cropping/guillotine (2064)
--2_Pulping and drying (N/A)
--2_Cropping/guillotine (2064)
--2_Printing (N/A)
--2_Rigid adhesives (2002)","-1_309.4g
--1_166.6g
--2_<.1g",Epicurean,$16.99,Co-op,1/8/2017,"This dishwasher-safe cutting board is made in the USA of Richlite, an exceptionally durable wood-fiber composite that has been used in commercial kitchens for over 40 years.","Paper pulp: Pulped from virgin wood and recycled paper
-Phenolic resin: Synthetic polymers obtained by the reaction of phenol or substituted phenol with formaldehyde
-
-Pulping and drying: Processes to make thin sheets of pulp
-Cold shape rolling: Passing the material through a series of rolls
-Hot pressing: Stacks are pressed under even heat and pressure, which bonds the layers of paper together and cures the resin
-Cropping/guillotine: The upper blade is forced past a lower one to shear sheet material along a straight line
-Printing: Used to apply product labels, instructions, warning, and advertisements
-Adhesion: To glue the sticker",N/A,"USA: MADE IN AMERICA
-epicurean: HEART OF THE KITCHEN
-DISHWASHER SAFE
-HEAT RESISTANT TO 350ºF/176ºC
-KNIFE FRIENDLY
-NON-POROUS WOOD FIBER
-LIMITED LIFETIME WARRANTY
-epicureanusa.com
-richlite",http://www.williams-sonoma.com/products/8564973/?catalogId=5&sku=8564973&cm_ven=Google_PLA&cm_cat=Shopping&cm_pla=default&cm_ite=default&kwid=productads-adid%5E45527542063-device%5Ec-plaid%5E63149791980-sku%5E8564973-adType%5EPLA&gclid=Cj0KEQiA-_HDBRD2lomhoufc1JkBEiQA0TVMmth3_IKSRGO7jcpz9bQQxtBnPmNo33uQ3hWWy2M6QBwaAnj48P8HAQ,*https://www.youtube.com/watch?v=ow60EjEeqdg,N/A
-3045/ 3085,Consumer,Kitchen,"Disposable Cutlery (PP, Preserve)","Apple Green Cutlery (8 forks, 8 spoons, 8 knives) © Xiaoran Zhu","-Cutlery
--Packaging","-1_Polypropylene (1092)
--2_Polyethylene Terephthalate (1087) 
--2_Linear Low Density Polyethylene (1086) ","-1_Injection molding (2084)
--2_Extrusion blow molding (2077)
--2_Printing (N/A)","-1_136.5g
--2_4.8g
--2_4.8g",Preserve,$5.79,Co-op,1/8/2017,"The team at Preserve designed a new line of plastic tableware that is not only beautiful, but sturdy. The next time you throw a party or plan a picnic, use Preserve's Lightweight Cutlery. Made in the USA from 100% recycled #5 plastic, this cutlery is BPA and melamine-free.","Polypropylene: A thermoplastic polymer. It is strong, tough, has a high resistance to heat and acts as a barrier to moisture.
-Polyethylene Terephthalate (PET): A plastic resin and a form of polyester
-Linear Low Density Polyethylene: Compared to LDPE: higher tensile strength, higher impact strength and puncture resistance, lower thickness films can be blown; highest environmental stress cracking resistance of the PEs
-
-Injection molding: Molten plastic is injected into a steel molding where it is cooled
-Extrusion blow molding: Melted plastic blown into a long, thin tube for molding
-Printing: Used to apply product labels, instructions, warning, and advertisements",4085,"CELEBRATE REUSE
-8 SETS
-preserve®
-LIGHT ENOUGH FOR A PARTY, DURABLE ENOUGH FOR EVERY DAY
-Made in USA from 100% recycled plastic including take-out containers
-Made in USA
-BPA FREE
-Dishwasher Safe
-Certified B Corporation®
-bcorporation.net
-preserve® cutlery
-MADE WITH LOVE & RECYCLED PLASTIC: Preserve cutlery is made from 100% recycled plastic, is BPA free, dishwasher safe and can handle years of use.
-Learn more at preserveproducts.com
-PLEASE REUSE THIS BAG made from PET and LLDPE
-888-354-7296",https://www.preserveproducts.com,"*https://www.youtube.com/watch?v=oxN70ktR0jg
-*https://www.youtube.com/watch?v=aQ4O8MMDuH8",N/A
+3085,Interior,Housing Parts,Gate Valve,Gate Valve,"-Valve
+-Tag","-1_Content
+-2_Paper and cardboard (1040)",,"-1_273.2g
+-2_<0.1g",MUELLER GLOBAL,$11.99,,,,,,"UPC®
+ProLine SERIES™
+MUELLER GLOBAL®
+Gate Valve
+Heavy Duty-Solder
+CA 'LEAD-FREE' COMPLIANT
+1/2in
+Use with water, oil or air. Use in fully open or closed positions only. Use thread seal tape or compound when installing this valve. 
+MADE IN CHINA",http://www.muellerindustries.com,,N/A
 3086,Consumer,Kitchen,"Aluminum Foil Wrap (50 sq. ft., heavy duty, Reynolds)",50 sq. ft. Heavy Duty Aluminum Foil Wrap,"-Foil Wrap
 -Packaging","-1_1000 series non age hardening wrought Al alloys (1053)
 -2_Paper and cardboard (1040)","-1_Smelting (N/A)
@@ -898,273 +1202,68 @@ Heat resistant up to 500ºF
 Care and Use: Wash in warm water before use. Dishwasher safe in top rack. Avoid abrasive containers. Do not use over open flame.
 www.CoreKitchen.com
 Made in China for Core Home",http://www.corehome.com,*https://www.youtube.com/watch?v=-AnamT-7Aiw,N/A
-3001,Consumer,Kitchen,"Measuring Cups (Silicone, Robinson Home Products)",Squish 4pc Measuring Cups © Mackenzie Carlson,"-1/4 cup
--1/3 cup
--1/2 cup
--1 cup
--Hanging Ring",,,"-1_18.9g
--2_21.4g
--3_28.8g
--4_43.2g
--5_7.3g",Robinson Home Products Inc.,,,,"Goodbye cluttered cupboards. Squish collapsible products transform bulky food prep tools into neatly tamed items that behave within confined spaces. Crafted using an exclusive design technique that marries flexibility with rigidity, Squish brings as much joy in use as it does stored away. Playful, vibrant and versatile, the sturdy construction does not sacrifice performance for collapsibility. Each Squish product independently maintains its shape when in use and thoughtfully-designed features anticipate the needs of the most exacting home chefs. Each graduated layer of a Squish item 'snaps' into place to perform its desired function with confidence whether storing flat or expanding for use. Clever features like gently curved rims, thoughtfully-placed pour spouts, smooth sides and non-slip grips for bases and handles make the Squish collection a valuable ally for any home chef. Each product performs as well as its non-collapsible counterpart, yet stores efficiently in a fraction of the space. FDA-approved materials are safe for food items and dishwasher friendly. With an assortment of essential items that set free an entire kitchen cupboard, Squish makes today's storage challenges disappear in one second flat. Expands to 23.5in to offer a 6 quart capacity.",,N/A,"FOOD SAFE
-DISHWASHER SAFE",http://www.robinsonus.com,,N/A
-3002,Sports and Leisure,Racing,Skis (Vokl racing),Volkl P60 SC racing skis © Mackenzie Carlson,,,,,Volkl,,,,,,N/A,N/A,https://www.volkl.com,*http://www.sciencechannel.com/videos/alpine-skis,N/A
-3003,Sports and Leisure,Racing,Bicycle Tire,Bicycle tire © Mackenzie Carlson,,,,,,,,,,,N/A,N/A,,*https://www.youtube.com/watch?v=gm3JJW9wjA0,N/A
-3004,Consumer,Kitchen,"Measuring Cup (4-cup, Mainstays)",4-cup capacity Measuring Cup © Mackenzie Carlson,-Measuring Cup,-1_Borosilicate Glass (1001),,-1_162.7g,Mainstays,,Walmart,,,,N/A,"MAINSTAYS™
-Measuring Cup
-4-cup capacity
-Microwave safe
-Marketed by Wal-Mart Stores, Inc. Bentonville, AR 72716
-MADE IN CHINA",www.walmart.com,*https://www.youtube.com/watch?v=8yMWBCCTVu0,N/A
-3005,Sports and Leisure,Racing,Inner Tube (Bicycle),Inner Tube © Mackenzie Carlson,,,,,,,,,,,N/A,N/A,,*http://www.sciencechannel.com/videos/inner-tubes,N/A
-3007,Consumer,Cleaning,Broom Head,Broom Head © Mackenzie Carlson,,,,,,,,,,,N/A,N/A,,*https://www.youtube.com/watch?v=H97lDjL6H4Y,N/A
-3008,Consumer,Cleaning,"Broom Head (Palmyra wisk, Elite Mops and Brooms)",EM3 Broom Head © Mackenzie Carlson,"-Whisk
--Rope
--Wiring and Head","-1_Palmyra (N/A)
--2_Nylon 6 (1083)
--3_Stainless Steel (1050)",,-1_123.6g,"Elite Mops and Brooms, Inc.",,,,,,N/A,"PROFESSIONAL CLEANING PRODUCTS
-www.elitemopsandbrooms.com
-Made in Mexico
-100% Palmyra Wisk Broom
-FOR INDOOR & OUTDOOR USE",http://www.elitemopsandbrooms.com,*https://www.youtube.com/watch?v=H97lDjL6H4Y,N/A
-3009,Consumer,Kitchen,Basket,Basket © Mackenzie Carlson,,,,,,,,,,,,,,,N/A
-3010,,,"Tile (Yellow, Brown, White, Black, and Green)","Yellow, Brown, White, Black, Green Tile © Mackenzie Carlson",,,,,,,,,,,N/A,N/A,N/A,*https://www.youtube.com/watch?v=Ng6EqEWmDmw,N/A
-3011,,,Tile (Black and White),Black and White Tile © Mackenzie Carlson,,,,,,,,,,,N/A,N/A,N/A,*https://www.youtube.com/watch?v=Ng6EqEWmDmw,N/A
-3012,,,"Tile (Black, Red, White, and Gray)","Black, Red, White, Gray Tile © Mackenzie Carlson",,,,,,,,,,,N/A,N/A,N/A,*https://www.youtube.com/watch?v=Ng6EqEWmDmw,N/A
-,,,"Twine (Hemp, Marchen-Art Co.)",Hemp Twine © Mackenzie Carlson,"-Twine
--Plastic wrap
--Tube
--Packaging","-1_Hemp (N/A)
--2_Low Density Polyethylene (1086)
--3_Paper and cardboard (1040)
--4_Paper and cardboard (1040)",,"-1_12.0g
--2_<0.1g
--3_2.5g
--4_0.9g",Marchen-Art Co.,,,,Spool of hemp twine ,,4014,"MÄRCHEN ART
-HEMP TWINE 100% NATURAL WHOLLY HEMP
-http://www.marchen-art.co.jp
-HEMP",http://www.marchen-art.co.jp,,N/A
-3018,Consumer,Kitchen,Spatula (Wooden),Wooden Spatula © Mackenzie Carlson,,,,,,,,,,,N/A,N/A,,,N/A
-3019,Consumer,Kitchen,Rolling Pin,Rolling Pin © Mackenzie Carlson,,,,,,,,,,,N/A,N/A,,,N/A
-3020,Consumer,Tools,"Hammer (Hickory Handle, Workforce)",10 oz. Hickory Handle Rip Hammer © Mackenzie Carlson,"-Hammer
--Handle","-1_Stainless Steel (1050)
--2_Hickory (N/A)","-1_Induction furnace (2092)
--1_Forging (2056)
--1_Punch cutting (2070)
--1_Grinding and mechanical polishing (2107)
--2_Circular sawing (2063)
--2_Grinding and mechanical polishing (2107)
--2_Rigid adhesives (2002)","-1_283.5g
--2_61.3g",Workforce,$4.98,Home Depot,,10 oz. hammer head: light and good strength. Good design for DIY at home. Very good price with good quality.,"Stainless Steel: Also known as inox steel or inox from French inoxydable, is a steel alloy with a minimum of 10.5% chromium content by mass
-Hickory: Among the hardest and strongest of woods native to the United States. On average, Hickory is denser, stiffer, and harder than either White Oak or Hard Maple. The wood is commonly used where strength or shock-resistance is important
+3097,Consumer,Kitchen,"Cutting Board (Wood Fiber, Epicurean)",Wood Fiber Cutting Board,"-Cutting Board
+-Sticker","-1_Paper Pulp (N/A)
+-1_Phenolic resin (1099)
+-2_Paper Pulp (N/A)","-1_Pulping and drying (N/A)
+-1_Cold shape rolling (2057)
+-1_Hot pressing (2090)
+-1_Cropping/guillotine (2064)
+-2_Pulping and drying (N/A)
+-2_Cropping/guillotine (2064)
+-2_Printing (N/A)
+-2_Rigid adhesives (2002)","-1_309.4g
+-1_166.6g
+-2_<.1g",Epicurean,$16.99,Co-op,1/8/2017,"This dishwasher-safe cutting board is made in the USA of Richlite, an exceptionally durable wood-fiber composite that has been used in commercial kitchens for over 40 years.","Paper pulp: Pulped from virgin wood and recycled paper
+Phenolic resin: Synthetic polymers obtained by the reaction of phenol or substituted phenol with formaldehyde
 
-Induction furnace: To soften the steel for forging and harden it once forged
-Forging: Steel pounded into mold to attain desired shape
-Punch cutting: Used to remove excess metal after forging
-Grinding and mechanical polishing: To finish the metal and wood pieces
-Circular sawing: To cut the wood into the desired shape and dimensions
-Rigid adhesives: To join the two parts of the hammer",N/A,"WORKFORCE
-DROP FORGED
-10oz HICKORY HANDLE RIP HAMMER
-GENUINE HICKORY
-WARNING
-WEAR SAFETY GOGGLES
-USER AND BYSTANDER
-CHINA
-WARNING - Wear Safety Goggles. Use this hammer to drive and pull common nails only. Never strike this tool with or against another striking tool, hardened nail, or other hard object as chipping can occur, possibly resulting in eye or other injury.
-MADE IN CHINA",https://www.buycott.com/upc/047486769236/workforce-10-oz-hickory-handle-rip-hammer,*http://www.sciencechannel.com/videos/hammer-time,N/A
-3021,Consumer,Entertainment,Modeling Dough (Play-doh),Play-doh © Mackenzie Carlson,"-Dough
--Container
--Lid","-1_Flour (N/A)
--1_Water (N/A)
--1_Salt (N/A)
--1_Boric Acid  (N/A)
--1_Mineral Oil (N/A)
--2_Polyproplyene (1021)
--3_Low Density Polyethylene (1086)","-1_Hot mixing (N/A)
--2_Injection molding (2080)
--3_Injection molding (2080)","-1_62.1g
--2_8.1g
--3_4.2g",Hasbro,,,,Modelling dough that kids love,"Flour: For the dough texture
-Water: To soften the dough
-Salt: Texture
-Boric Acid: Texture
-Mineral Oil: Texture
-Polypropylene: A thermoplastic polymer. It is strong, tough, has a high resistance to heat and acts as a barrier to moisture.
-Low Density Polyethylene: Very cheap, good chemical and hydrolysis resistance, high impact strength at low temperatures, excellent electrical properties, transparent in thin films, good processability 
-
-Hot mixing: To mix the ingredients together to create the dough
-Injection molding: Shaping the plastic container and lid",4021,"MODELING COMPOUND
-NOTICE TO PARENTS: CONTAINS WHEAT",http://www.hasbro.com/en-us/,*https://www.youtube.com/watch?v=owQVpNUyc44&t=7s,N/A
-3022,Interior,Lighting,Candle,Candle © Mackenzie Carlson,,,,,,,,,,,N/A,N/A,,*https://www.youtube.com/watch?v=Rpu5mH5me1Y,N/A
-3023,,,King Arthur Flour,King Arthur Flour © Mackenzie Carlson,,,,,,,,,,,N/A,N/A,,,N/A
-3024,Consumer,Tools,Rubber Band,Rubber Band © Mackenzie Carlson,,,,,,,,,,,N/A,N/A,N/A,*https://www.youtube.com/watch?v=6TIXDbxtzMY,N/A
-3025,Consumer,Cleaning,Eraser,Eraser © Mackenzie Carlson,,,,,,,,,,,N/A,N/A,N/A,*https://www.youtube.com/watch?v=v8osKTyQjac,N/A
-3026,Consumer,Tools,Spring,Spring © Mackenzie Carlson,,,,,,,,,,,N/A,N/A,N/A,*https://www.youtube.com/watch?v=omLKbKakDoY,N/A
-3027,Consumer,Tools,Spring,Spring © Mackenzie Carlson,,,,-1_14.6g,,,,,,,N/A,N/A,N/A,*https://www.youtube.com/watch?v=omLKbKakDoY,N/A
-3028,Consumer,Tools,Spring,Spring © Mackenzie Carlson,,,,,,,,,,,N/A,N/A,N/A,*https://www.youtube.com/watch?v=omLKbKakDoY,N/A
-3029,Consumer,Tools,Spring,Spring © Mackenzie Carlson,,,,-1_47.4g,,,,,,,N/A,N/A,N/A,*https://www.youtube.com/watch?v=omLKbKakDoY,N/A
-3030,Consumer,Tools,Spring,Spring © Mackenzie Carlson,,,,-1_84.1g,,,,,,,N/A,N/A,N/A,*https://www.youtube.com/watch?v=omLKbKakDoY,N/A
-3031,Consumer,Tools,Spring (With hooks),Spring with Hooks On Either Side © Mackenzie Carlson,,,,-1_53.1g,,,,,,,N/A,N/A,N/A,*https://www.youtube.com/watch?v=omLKbKakDoY,N/A
-3032,Consumer,Entertainment,Balloon,Balloon © Mackenzie Carlson,,,,,,,,,,,,,,"*https://www.youtube.com/watch?v=e7pYoA9gEqc&t=7s
-*https://www.youtube.com/watch?v=8CfL5xl2N1Q&t=230s",N/A
-3033,Consumer,Grocery,Soda Can (Coca-Cola),12 fl. oz. can Coca-Cola © Mackenzie Carlson,,,,,Coca-Cola,,,,,,N/A,N/A,http://www.coca-colacompany.com,*https://www.youtube.com/watch?v=JyumWUg_MXM,N/A
-3034,Consumer,Entertainment,iPhone Case,iPhone Case © Mackenzie Carlson,,,,,,,,,,,N/A,N/A,,,N/A
-3035,Consumer,Tools,Spring,Small Spring © Mackenzie Carlson,,,,,,,,,,,N/A,N/A,N/A,*https://www.youtube.com/watch?v=omLKbKakDoY,N/A
-3036,Consumer,Grocery,Wine Bottle (HandCraft Petite Sirah 2012),HandCraft Petite Sirah 2012 © Mackenzie Carlson,"-Wine
--Bottle
--Cork","-1_Wine (N/A)
--2_Soda lime Glass (1004)
--3_Cork (1036)","-1_Wine making process (fermenting...etc.) (N/A)
--2_Glass blow molding (2077)
--3_Boiling (N/A)
--3_Circular sawing (2063)
--3_Punch cutting (2070)","-1_780.0g
--2_493.7g
--3_1.1g",HandCraft Winery,$17.99,Co-op,,"The HandCraft Petite Sirah is all about jammy fruit from beginning to end. It starts with aromas of cherry, plum and cocoa followed by flavors of blueberry, coffee and spice. This full-bodied wine has a bold tannin structure and balanced acidity that lead to a long finish. This big wine is anything but 'petite.'","Wine: An alcoholic beverage made from fermented grapes
-Soda-lime Glass: Soda lime glass is also known as soda-lime-silica glass is the most common type of glass
-Cork: An impermeable, and buoyant material that is harvested for commercial use primarily from the Cork Oak
-
-Wine-making process (fermenting...etc.): To produce the wine from grapes and other natural ingredients 
-Glass blow molding: Blowing molten glass into a mold to form the hollowed bottle
-Boiling: The cork wood must be boiled to soften and then airated outdoors for half a year
-Circular sawing: To cut the layers of cork into the right dimensions
-Punch cutting: To cut the cork shapes out from the layers",N/A,"HANDCRAFT
-ARTISAN COLLECTION
-PETITE SIRAH
-CALIFORNIA
-VINTAGE DATED 2012
-PROPRIETOR
-ALC 14.5% BY VOL
-CRAFTED BY TRADITION.
-Inspired by Life.
-facebook
-HandCraftWines.com
-VINTED AND BOTTLED BY HANDCRAFT ARTISAN COLLECTION, MANTECA, CA
-750 ML. CONTAINS SULFITES
-GOVERNMENT WARNING: (1) ACCORDING TO THE SURGEON GENERAL, WOMEN SHOULD NOT DRINK ALCOHOLIC BEVERAGES DURING PRAGNANCY BECAUSE OF THE RISK OF BIRTH DEFECTS. (2) CONSUMPTION OF ALCOHOLIC BEVERAGES IMPAIRS YOUR ABILITY TO DRIVE A CAR OR OPERATE MACHINERY, AND MAY CAUSE HEALTH PROBLEMS.",http://www.handcraftwines.com,"*http://www.sciencechannel.com/videos/wine
-*https://www.youtube.com/watch?v=LUF_5zrFG9c
-*https://www.youtube.com/watch?v=iRGVt6ujZgc
-*https://www.youtube.com/watch?v=X1CgXyBd2nY",N/A
-3037,Consumer,Kitchen,Wooden Plate,Wooden Plate © Mackenzie Carlson,,,,,,,,,,,,,,,N/A
-3038,Consumer,Kitchen,Bamboo,Bamboo © Mackenzie Carlson,,,,,,,,,,,,,,,N/A
-3039,Consumer,Entertainment,"Knitting Needles (circular, bamboo, Clover)",24in Takumi Bamboo Premium Circular Knittting Needles © Mackenzie Carlson,"-Needles
--Cord
--Info Sheet
--Packaging","-1_Bamboo (1035)
--2_Nylon 6 (1083)
--3_Paper and cardboard (1040)
--4_Low Density Polyethylene (1086)","-1_Circular sawing (2063)
--1_Grinding and mechanical polishing (2107)
--1_Autoclave curing (N/A)
--1_Hot stamping (2097)
--2_
--2_Rigid adhesives (2002)
--3_Pulping and drying (N/A)
--3_Cropping/guillotine (2064)
--3_Printing (N/A)
--4_Injection molding (2084)","-1_10.0g
--2_1.6g
--3_5.6g
--4_2.2g","Clover MFG. CO., LTD.",,,,,,4039,"CIRCULAR KNITTING NEEDLES
-Clover
-24in (61cm) No. 15 (10.0mm)
-BAMBOO PREMIUM
-JAPAN 
-<FEATURES>
-Circular Knitting can be done easily.
-Knitting seamless garments for perfect creations.
-Easy and convenient to carry.
-Only the hard and resilient bamboo is used.
-Using only the part just under the skin of the Bamboo offers the correct thickness, hardness and toughness.
-Precise standards promise the uniform knitting gauge and a beautiful finish. Clover's unique technology offers the even thickness.
-Smoother touch, smoother yarn feed.
-A smooth tapered needle-point never split yarn.
-Needles: Bamboo
-Cord: Nylon
-Distributed in U.S.A. by CLOVER NEEDLECRAFT, INC.
-www.clover-usa.com
-MADE IN JAPAN",http://www.clover-usa.com/en/50-takumi-needles-,*https://www.youtube.com/watch?v=-AnamT-7Aiw,N/A
-3040,Consumer,Kitchen,"Sandwich Bag (Wax Paper, Bee's Wrap)",Wax Paper Bag © Mackenzie Carlson,,,,,Bee's Wrap,,,,,,N/A,N/A,http://www.beeswrap.com,,N/A
-3042,Consumer,Kitchen,Spatula (Wooden),Wooden Spatula © Mackenzie Carlson,,,,,,,,,,,N/A,N/A,,,N/A
-3043,Consumer,Kitchen,Spoon (Wooden),Wooden Spoon © Mackenzie Carlson,,,,,,,,,,,N/A,N/A,,,N/A
-3044,Consumer,Kitchen,Skewer Sticks,Skewer Sticks © Mackenzie Carlson,,,,,,,,,,,,,,,N/A
-3046,Consumer,Tools,Spring,Spring © Mackenzie Carlson,,,,,,,,,,,,,,,N/A
-3047,Consumer,Tools,Spring,Spring © Mackenzie Carlson,,,,,,,,,,,N/A,N/A,N/A,*https://www.youtube.com/watch?v=omLKbKakDoY,N/A
-3048,Consumer,Tools,Spring,Spring © Mackenzie Carlson,,,,-1_85.2g,,,,,,,N/A,N/A,N/A,*https://www.youtube.com/watch?v=omLKbKakDoY,N/A
-3049,Consumer,Kitchen,Spoon (Ingeo Plastic),Ingeo Plastic Compostable Spoon © Mackenzie Carlson,,,,,,,,,,,,,,*https://www.youtube.com/watch?v=oxN70ktR0jg&t=1s,N/A
-3051,Consumer,Kitchen,Fork (plastic),Clear Plastic Fork © Mackenzie Carlson,,,,,,,,,,,,,,*https://www.youtube.com/watch?v=oxN70ktR0jg&t=1s,N/A
-3052,Consumer,Kitchen,Silverware (plastic),Plastic Silverware © Mackenzie Carlson,,,,,,,,,,,,,,*https://www.youtube.com/watch?v=oxN70ktR0jg&t=1s,N/A
-3053,Sports and Leisure,Racing,"Cycling helmet (red, Schwinn)",Red Merge Helmet © Mackenzie Carlson,,,,,Schwinn,,,,,,,,http://www.schwinnbikes.com/usa/,*https://www.youtube.com/watch?v=MeZa-LsqEW4,N/A
-3054,Consumer,Kitchen,"Spatula (Silicone, OXO)",Silicone Cookie Spatula © Mackenzie Carlson,"-Spatula Head and Handle
--Metal Piece","-1_Silicone Rubber (1078)
--2_Stainless Steel (1050)",,-1_65.7g,OXO,,,,,,N/A,HEAT RESISTANT TO 600ºF/315ºC,https://www.oxo.com,,N/A
-3055,Consumer,Kitchen,"Head Turner (Stainless Steel and Nylon, Onieda)",Stainless Steel Nylon Head Turner © Mackenzie Carlson,"-Head Turner Head
--Metal Handle","-1_Nylon 6 (1083)
--2_Stainless Steel (1050)",,-1_107.3g,Oneida,,,,,,N/A,N/A,http://www.oneida.com,,N/A
-3056,Consumer,Kitchen,Spatula (metal),Metal Spatula © Mackenzie Carlson,,,,,,,,,,,N/A,N/A,,,N/A
-3057,Consumer,Kitchen,Cooking Pot,Cooking Pot © Mackenzie Carlson,,,,,,,,,,,N/A,N/A,,,N/A
-3058,Consumer,Kitchen,Frying Pan (T-fal),Professional Total Nonstick Oven Safe Thermo-Spot Heat Indicator Fry Pan © Mackenzie Carlson,"-Pan
--Handle (metal part)
--Handle (silicone part)",,,-1_421.4g,T-fal,,,,,,N/A,N/A,http://www.t-falusa.com,*http://www.sciencechannel.com/videos/frying-pans,N/A
-3059,Consumer,Kitchen,Frying Pan (Green+Life),Green+Life Soft Grip Black Frypan © Mackenzie Carlson,"-Pan
--Handle (metal part)
--Handle (silicone part)",,,-1_413.3g,The Cookware Company,,,,,,N/A,N/A,https://www.greenlife-cookware.com,*http://www.sciencechannel.com/videos/frying-pans,N/A
-3060,Consumer,Kitchen,"Frying Pan (Cast Iron Skillet, Lodge)",Cast Iron Skillet © Mackenzie Carlson,-Skillet,-1_Cast Iron (1045),"-1_Furnace mixing (N/A)
--1_Sand casting (2045)
--1_Abrasive jet blasting (2072)
--1_Grinding and mechanical polishing (2107)
--1_Washing and drying (N/A)
--1_Oil electro static spray seasoning (2114)",-1_1480.0g,Lodge,,,,,,N/A,N/A,http://www.lodgemfg.com,*http://www.sciencechannel.com/videos/cast-iron-cook-ware,N/A
-3061,Consumer,Kitchen,Marble Sheet,Marble Sheet © Mackenzie Carlson,,,,,,,,,,,N/A,N/A,,,N/A
-3062,Consumer,Kitchen,Paring Knife (Wusthof),Wüsthof SILVERPOINT 8cm Paring Knife © Mackenzie Carlson,"-Blade
--Handle",,,-1_22.8g,Wüsthof,,,,,,N/A,N/A,http://www.wusthof.com,*https://www.youtube.com/watch?v=lL-8FodwfNo,N/A
-3063,Consumer,Kitchen,Peeler (Rosenhaus Swiss),SwissPro Vegetable Peeler © Mackenzie Carlson,,,,,Rosenhaus Swiss,,,,,,N/A,N/A,http://swissprousa.com,*https://www.youtube.com/watch?v=uSTL2hvo48k,N/A
-3064,Consumer,Kitchen,Peeler (Kuhn Rikon),Original Swiss Peeler - White © Mackenzie Carlson,,,,,Kuhn Rikon,,,,,,N/A,N/A,http://www.kuhnrikonshop.com,*https://www.youtube.com/watch?v=uSTL2hvo48k,N/A
-3065,Consumer,Tools,Arrowhead,Arrowhead © Mackenzie Carlson,,,,,,,,,,,N/A,N/A,,,N/A
-3066,,,Stone Tile,Stone Tile © Mackenzie Carlson,,,,,,,,,,,N/A,N/A,N/A,*http://www.sciencechannel.com/stone-flooring,N/A
+Pulping and drying: Processes to make thin sheets of pulp
+Cold shape rolling: Passing the material through a series of rolls
+Hot pressing: Stacks are pressed under even heat and pressure, which bonds the layers of paper together and cures the resin
+Cropping/guillotine: The upper blade is forced past a lower one to shear sheet material along a straight line
+Printing: Used to apply product labels, instructions, warning, and advertisements
+Adhesion: To glue the sticker",N/A,"USA: MADE IN AMERICA
+epicurean: HEART OF THE KITCHEN
+DISHWASHER SAFE
+HEAT RESISTANT TO 350ºF/176ºC
+KNIFE FRIENDLY
+NON-POROUS WOOD FIBER
+LIMITED LIFETIME WARRANTY
+epicureanusa.com
+richlite",http://www.williams-sonoma.com/products/8564973/?catalogId=5&sku=8564973&cm_ven=Google_PLA&cm_cat=Shopping&cm_pla=default&cm_ite=default&kwid=productads-adid%5E45527542063-device%5Ec-plaid%5E63149791980-sku%5E8564973-adType%5EPLA&gclid=Cj0KEQiA-_HDBRD2lomhoufc1JkBEiQA0TVMmth3_IKSRGO7jcpz9bQQxtBnPmNo33uQ3hWWy2M6QBwaAnj48P8HAQ,*https://www.youtube.com/watch?v=ow60EjEeqdg,N/A
 3098,Consumer,Kitchen,"Tea Ball Infuser (Stainless Steel, Harold Import Co.)",Tea Ball Infuser © Xiaoran Zhu,"-Tea Ball Infuser
 -Packaging","-1_Stainless Steel (1050)
 -2_Low Density Polyethylene (1086)",,"-1_21.2g
 -2_0.6g",Harold Import Co.,$2.99,Co-op,1/8/2017,,,4098,N/A,http://www.hickitchen.com,,N/A
-3067,Consumer,Kitchen,"Paring Cutlery Set (3-piece, ceramic, Hampton Forge)",3-Piece Ceramic Coated Paring Cutlery Set © Xiaoran Zhu,"-3.5in Paring Knife (Red)
--3in Bird's Beak Knife (Blue)
--3.5in Paring Knife (Green)",,,"-1_48.8g
--2_45.7g
--3_49.9g
--4_28.7g
--5_9.0g",Hampton Forge Tomodachi Cutlery,,,,"Literally meaning 'friend', Tomodachi represents a lively, helpful presence in the kitchen. Splashes of color, useful features and lasing quality make Tomodachi welcome friends inside kitchens everywhere. Like a good friend, Tomodachi makes life easier and playfully adds some fun. Accessible and affordable without compromising the promise of quality. This Tomodachi features a splash of color and an equally friendly ergonomic design. With a contoured handle and oversized blade, cutting action is fast and comfortable. Resin-coated fine-edge blades provide superior sharpness.",,4067,"HAMPTON FORGE®
-3.5in Paring Knife
-3in Bird's Beak Knife
-Super sharp ceramic coated blades
-Stain & Rust proof
-Ergonomic for precision and comfort
-Hand wash only
-Made in China
-3pc. Paring
-See more at www.hamptonforge.com
-CERAMIC COATED BLADES
-LIMITED 25 YEAR WARRANTY",www.hamptonforge.com,*https://www.youtube.com/watch?v=vrBffC4F3-I,N/A
-3068,Consumer,Kitchen,"Paring Knife (ceramic, Kyocera)",3in Advanced Ceramics Paring Knife © Xiaoran Zhu,"-Knife
--Packaging
--Info Sheets",,,"-1_43.3g
--2_35.7g
--3_14.5g",Kyocera,$19.99,Board & Basket,,"Kyocera's bests selling 3-inch advanced ceramic paring knife is just the right size for detailed tasks like trimming, peeling, mincing and creating garnishes. Perfect for the home cook, this knife will be used daily, quickly becoming a favorite in the kitchen. Ideal for fruits, vegetables and boneless meats. Packaged in an acetate box, a great tool for any chef.",,4068,"Paring Knife
-STOP! To protect your knife from damage, please read care & use instructions!
-Ceramic blade for sharp, clean cutting. Dishwasher safe.
-THE CERAMIC ADVANTAGE!
-KYOCERA ADVANCED CERAMICS
-UNRELENTING SHARPNESS
-UNPARALLELED PURITY
-ULTRA LIGHTWEIGHT
-CAUTION: Keep away from children.; Avoid extreme heat or shock.; Not intended for cutting hard foods, carving, prying, flexing, scaping or boning because of hardness of blade.; Follow Care & Use instructions enclosed before using knife.
-Kyocera is not responsible for damage resulting from improper use. 
-Made in China
-Blade manufactured in Japan
-Recycle
-KYOCERA CORPORATION
-800-537-0294
-www.KyoceraAdvancedCeramics.com",www.kyoceraadvancedceramics.com,*https://www.youtube.com/watch?v=vrBffC4F3-I,N/A
+3099,Consumer,"Arts, Crafts, and Sewing","Knitting Needles (circular, metal, addi)",TURBO Needles,"-Needles
+-Cord
+-Info Sheet
+-Packaging","-1_Brass (1054)
+-1_Nickel (1062)
+-2_Nylon 6 (1083)
+-3_Paper and cardboard (1040)
+-4_Low Density Polyethylene (1086)",,"-1_25.0g
+-2_
+-3_3.5g
+-4_2.4g","skacel collection, Inc.",$21.50,,,"addi TURBO® needles are the original and most popular needles in the addi line. The perfect needle for most projects, their slightly rounded tips work well with all yarns including boucles and lightly twisted fibers. The extra slick nickel plating allows stiches to quickly slide along, a great asset, whether you are looking for speed, or simply knitting for pleasure.",,,"80cm/ 10mm
+32in US 15
+Indulge your hands
+skacel
+KNIT FASTER WITH THE AMAZING addi TURBO®
+addi
+MADE IN GERMANY
+skacel collection, Inc.
+www.skacelknitting.com
+The original nickel plated, circular needle. Turbo coated, hollow brass tips. Smooth joins for snag-free knitting. Metric size printed on the pliable blue cord. The perfect knittting needle.
+For available sizes and lengths, please visit www.skacelknitting.com or your local yarn shop.
+Also in the addi program distributed by skacel collection, Inc.
+This needle has a lifetime warranty against manufacturer's defect. Please return to the original point of purchase for an exchange.
+This needle should be used only for the purpose for which it was designed: needlework. If used improperly and/or by untrained persons, this tool may cause bodily harm. Always use caution and store your tools in a safe place inacessible, in particular, to children. 
+Circular needles
+Straight needles
+Double pointed needles
+Crochet hooks
+NEW! addi click system",http://www.addineedleshop.com,,N/A
 3100,Consumer,Kitchen,"Measuring Cup (2.5-cup, Greenbrier)",2.5 Cup Measuring Cup © Xiaoran Zhu,-Measuring Cup,-1_Borosilicate Glass (1001),,-1_83.6g,"Greenbrier International, INC.",$1.00,Dollar Tree,,,,N/A,"2.5 CUP MEASURING CUP
 MADE IN CHINA
 NOT RECOMMENDED FOR USE IN MICROWAVE AND DISHWASHER",https://www.dollartree.com/Plastic-Measuring-Cups-2-189-Cups/p147281/index.pro,*https://www.youtube.com/watch?v=8yMWBCCTVu0,N/A
@@ -1214,6 +1313,31 @@ DXN 35mm ISO 800
 24 x 36mm
 www.kodak.com/go/film",http://www.kodak.com/corp/default.htm,"*https://www.youtube.com/watch?v=UJ6w1esVcoY
 *https://www.youtube.com/watch?v=4-d0W6hMxwo",3104
+3104,Consumer,"Arts, Crafts, and Sewing","Zipper (red, Talon)",7in Red Zipper,"-Zipper
+-Packaging","-1_Nylon 6 (1083)
+-1_
+-2_Paper and cardboard (1040)",,"-1_3.2g
+-2_6.9g",Talon,$0.45,,,,,,"Talon® ZIPPER
+NYLON COIL
+RED
+7 Inches 45¢
+ZEPHyR™
+Two Continuous Nylon coils
+SEE CARE INSTRUCTIONS ON REVERSE SIDE
+1 Sewing Guide Line
+2 Strong and Flexible
+3 Self-Locking Slider
+4 Magically Self-Healing
+Style 25-1 
+MADE IN U.S.A.
+DISTRIBUTED BY DONAHUE SALES
+A textron DIVISION
+Talon® ZEPHYR
+Self-healing
+If fabric gets caught simply fold zipper in falf, pull apart at the fold, remove fabric, zip down, then up.
+LAPPED
+CENTERED
+New easy instructions for lapped and centered applications inside.",http://talonzippers.com,*https://www.youtube.com/watch?v=cpxDZPl-FD4,N/A
 3105,Consumer,Kitchen,"Disposable Cutlery (Birchwood, Party Partners)",Party Partners Design 24-Piece Disposable Natural Birchwood Cutlery Set © Shiqi Li,"-Cutlery
 -Packaging","-1_Birchwood (1105)
 -2_Polypropylene (1092)
@@ -1240,131 +1364,7 @@ Made in China",http://madisonparkgroup.com/product-lines/party-partners/,*https:
 CTTA APPROVED
 Tournament Ball
 Made in China",http://www.championsports.com,,N/A
-,Consumer,Tools,Tape (Joe's Sticky Stuff),An Aggressive Pressure-Sensitive Adhesive Tape,"-Tape
--Wax paper
--Tin",,,"-1_68.2g
--2_11.4g
--3_51.2g","JoeProps, LLC",,,,"Joe's Sticky Stuff™ is a clean, easy to use, extremely aggressive double-sided adhesive tape. This roll of tape is non-hardening and permanently flexible. Try it on signs, posters, plaques, and trim. It can be used to secure items on shelves, countertops and tables. Use Joe's Sticky Stuff™ anywhere you would use a double-sided tape. Use it for arts and crafts, hobby projects, quick fixes or anywhere an aggressive double-sided adhesive tape is desired. Keep Joe's Sticky Stuff™ in our handy tin to prevent it from unspooling.",,,"EASY TO APPLY • EASY TO REMOVE
-Secure Signs, Panels, Kickplates, Rugs, Tiles, Trim, Household Items, and More!
-JOE'S STICKY STUFF™
-EST. 2002
-1/2 in x 20 ft/6.1 m
-AN AGGRESSIVE PRESSURE-SENSITIVE ADHESIVE TAPE™
-APPLICATION AND REMOVAL
-LIMITATION OF LIABILITY AND WARRANTY: JoeProps,LLC shall not be liable for any loss or damage of any nature or description arising from the use of this Product. JoeProps,LLC. does not expressly or impliedly, warrant this product or its use, including, but not limited to, whether this product is fit for its intended use, purpose or merchantability.
-MADE IN ENGLAND
-JOEPROPS.COM",http://www.joeprops.com,,N/A
-,Consumer,Entertainment,Recorder (Toysmith),Recorder,"-Recorder
--Cleaning rod
--Information sheet
--Packaging",,,"-1_87.1g
--2_6.9g
--3_2.0g
--4_11.4g",Toysmith,$5.99,,,"Each 13 inch recorder is packaged in a snap-shut vinyl bag. Includes cleaning rod. Assorted Colors. Toysmith's mission is to supply quality toys and gifts while delivering superior customer service to retailers. We offer products in many key categories including: active play, science & discovery, arts & crafts, impulse & novelty toys, and nostalgic retro classics!",,,"3+ YEARS
-RECORDER
-Toysmith®
-FINGER PLACEMENT FOR PLAYING YOUR RECORDER
-Retain this information for future reference.
-CE
-Made in Taiwan",https://www.toysmith.com,,N/A
-,Consumer,Kitchen,"Oven Thermometer (Stainless Steel, AcuRite)",AcuRite Stainless Steel Oven Thermometer,-Thermometer,-1_Stainless Steel (1050),,-1_44.7g,AcuRite,,,,"Within an oven, temperatures often vary from shelf to shelf. Place the AcuRite Stainless Steel Oven Thermometer near food while it's cooking to monitor the temperature and ensure perfect results. The durable, easy-clean stainless steel construction and protective glass lens make it perfect for use in conventional or convection ovens. Measures from 150ºF to 600ºF, and indicators highlight the optimal temperature ranges for warming, baking / roasting, and broiling. Includes an integrated hanger for mounting, or stands upright on base. One-year limited warranty. It's more than accurate, it's AcuRite.",,,"WARM
-BAKE/ROAST
-BROIL
-NSF®
-MINGLE 
-T708A
-DO NOT PUT IN WATER
-OVEN THERMOMETER",https://www.acurite.com/stainless-steel-oven-thermometer-00620.html,*https://www.youtube.com/watch?v=OZ_1zwMyLH8,N/A
-,Consumer,Kitchen,"Scrubber Sponge (Wool, Baudelaire)",Small Wool Sponge,"-Sponge
--Packaging","-1_Natural Sponge (N/A)
--2_Paper and cardboard (1040)",,"-1_8.6g
--2_27.8g","Baudelaire, Inc.",,,,"Natural sea sponges are far superior to synthetic sponges in their durability and absorbency, In fact, natural sponges are still used for purposes other than bathing, ranging from car washing to rug cleaning because of their incredible durability. Natural sea sponges are easy to care for. Just wqueeze out the water and keep in a dry place in your bathroom. Sponge will air dry completely and is naturally resistant to bacterial growth. If, for some reason, your sponge needs freshening, you can soak for 24 hours in a very mild bleach solution (1 tsp. per gallon). Natural sea sponges have been used for bathing since the days of the Roman Empire. Our natural sea sponges are harvested by hand in the shallow waters of the Culf of Mexico. Sponges are cut from the ocean floor and grow back in 5-7 years.",,,"HARVESTED BY HAND
-Approximately 4.5 inches
-www.baudelairesoaps.com
-100% recycled & recyclable package.",http://baudelairesoaps.com,,N/A
-,Interior,Housing Parts,Door Handle,Door Handle,"-Handle
--Screws
--Packaging",,,"-1_48.9g
--2_1.3g
--3_<0.1g",,$7.95,,,Traditional metal door handle,,,N/A,N/A,*https://www.youtube.com/watch?v=wcGhCdEmeUM,N/A
-,Interior,Housing Parts,Single Switch Plate,Single Switch Plate,"-Switch plate
--Screws
-Packaging","-1_Brass (1054)
--2_Brass (1054)
--3_Polyethylene (1086)
--3_Paper and cardboard (1040)",,"-1_42.4g
--2_1.4g
--3_4.0g
--4_12.9g",UPPER DECK Ltd.,$2.25,,,Traditional metal switch plate for a single wall switch,,,"SOLID BRASS SWITCH PLATE LACQUERED
-UPPER DECK Ltd. 
-MADE IN TAIWAN",http://store.upperdeckltd.com/index.php?route=information/information&information_id=10,,N/A
-,Interior,Housing Parts,Gate Valve,Gate Valve,"-Valve
--Tag","-1_
--2_Paper and cardboard (1040)",,"-1_273.2g
--2_<0.1g",MUELLER GLOBAL,$11.99,,,,,,"UPC®
-ProLine SERIES™
-MUELLER GLOBAL®
-Gate Valve
-Heavy Duty-Solder
-CA 'LEAD-FREE' COMPLIANT
-1/2in
-Use with water, oil or air. Use in fully open or closed positions only. Use thread seal tape or compound when installing this valve. 
-MADE IN CHINA",http://www.muellerindustries.com,,N/A
-,Consumer,Entertainment,"Knitting Needles (circular, metal, addi)",TURBO Needles,"-Needles
--Cord
--Info Sheet
--Packaging","-1_Brass (1054)
--1_Nickel (1062)
--2_Nylon 6 (1083)
--3_Paper and cardboard (1040)
--4_Low Density Polyethylene (1086)",,"-1_25.0g
--2_
--3_3.5g
--4_2.4g","skacel collection, Inc.",$21.50,,,"addi TURBO® needles are the original and most popular needles in the addi line. The perfect needle for most projects, their slightly rounded tips work well with all yarns including boucles and lightly twisted fibers. The extra slick nickel plating allows stiches to quickly slide along, a great asset, whether you are looking for speed, or simply knitting for pleasure.",,,"80cm/ 10mm
-32in US 15
-Indulge your hands
-skacel
-KNIT FASTER WITH THE AMAZING addi TURBO®
-addi
-MADE IN GERMANY
-skacel collection, Inc.
-www.skacelknitting.com
-The original nickel plated, circular needle. Turbo coated, hollow brass tips. Smooth joins for snag-free knitting. Metric size printed on the pliable blue cord. The perfect knittting needle.
-For available sizes and lengths, please visit www.skacelknitting.com or your local yarn shop.
-Also in the addi program distributed by skacel collection, Inc.
-This needle has a lifetime warranty against manufacturer's defect. Please return to the original point of purchase for an exchange.
-This needle should be used only for the purpose for which it was designed: needlework. If used improperly and/or by untrained persons, this tool may cause bodily harm. Always use caution and store your tools in a safe place inacessible, in particular, to children. 
-Circular needles
-Straight needles
-Double pointed needles
-Crochet hooks
-NEW! addi click system",http://www.addineedleshop.com,,N/A
-,Consumer,Fabric,"Zipper (red, Talon)",7in Red Zipper,"-Zipper
--Packaging","-1_Nylon 6 (1083)
--1_
--2_Paper and cardboard (1040)",,"-1_3.2g
--2_6.9g",Talon,$0.45,,,,,,"Talon® ZIPPER
-NYLON COIL
-RED
-7 Inches 45¢
-ZEPHyR™
-Two Continuous Nylon coils
-SEE CARE INSTRUCTIONS ON REVERSE SIDE
-1 Sewing Guide Line
-2 Strong and Flexible
-3 Self-Locking Slider
-4 Magically Self-Healing
-Style 25-1 
-MADE IN U.S.A.
-DISTRIBUTED BY DONAHUE SALES
-A textron DIVISION
-Talon® ZEPHYR
-Self-healing
-If fabric gets caught simply fold zipper in falf, pull apart at the fold, remove fabric, zip down, then up.
-LAPPED
-CENTERED
-New easy instructions for lapped and centered applications inside.",http://talonzippers.com,*https://www.youtube.com/watch?v=cpxDZPl-FD4,N/A
-,Consumer,Fabric,"Zipper (blue, YKK)",9in Blue Decorative Zipper,"-Zipper
+3107,Consumer,"Arts, Crafts, and Sewing","Zipper (blue, YKK)",9in Blue Decorative Zipper,"-Zipper
 -Packaging",,,"-1_10.7g
 -2_<0.1g",YKK (U.S.A.) Inc.,$1.10, ,,,,,"9in.
 $1.10
