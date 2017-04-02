@@ -80,6 +80,19 @@ layout: default
           <div class="data">
             {{ content }}
           </div>
+
+          {% unless page.places == null %}
+          <div class="labels">Where to find it?</div>
+          <div class="data">
+          <ul>
+          {% for place in page.places %}
+            {% assign items = (place | split: '(' ) %} 
+            <li><a href="{{ items[1] | remove: ')' }}">{{ items[0] }}</a></li>
+          {% endfor %}
+          </ul>
+          </div>
+          {% endunless %}
+
           {% assign first_link_title = (page.links[0].link_title | strip) %}
           {% unless first_link_title == '' %}
           <div class="labels">Links</div>
