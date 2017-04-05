@@ -10,12 +10,9 @@
                 <ul>
                   {% assign rel_ms= page.relations[0].materials %}
                   {% for rel_m in rel_ms %}
-                    {% for m in site.materials %}
-                      {% assign number=m.path | remove: "_materials/" | remove: ".md" %}
-                      {% if number == rel_m %}
-                        <li><a href="{{ site.baseurl }}/materials/{{ rel_m }}.html">{{ m.material_name | truncate: 20}}</a></li>
-                      {% endif %}
-                    {% endfor %}
+                    {% assign linkpath =  (rel_m | prepend: "_materials/" | append:".md") %}
+                    {% assign item = site.materials | where_exp:"item", "item.path ==  linkpath " | first %}
+                        <li><a href="{{ site.baseurl }}/materials/{{ rel_m }}.html">{{ item.material_name | truncate: 20}}</a></li>
                   {% endfor %}
                 </ul>
               </td>
@@ -31,12 +28,9 @@
                 <ul>
                   {% assign rel_ps= page.relations[1].processes %}
                   {% for rel_p in rel_ps %}
-                    {% for p in site.processes %}
-                      {% assign number=p.path | remove: "_processes/" | remove: ".md" %}
-                      {% if number == rel_p %}
-                        <li><a href="{{ site.baseurl }}/processes/{{ rel_p }}.html">{{ p.process_name | truncate: 20 }}</a></li>
-                      {% endif %}
-                    {% endfor %}
+                    {% assign linkpath =  (rel_p | prepend: "_processes/" | append:".md") %}
+                    {% assign item = site.processes | where_exp:"item", "item.path ==  linkpath " | first %}
+                        <li><a href="{{ site.baseurl }}/processes/{{ rel_p }}.html">{{ item.process_name | truncate: 20 }}</a></li>
                   {% endfor %}
                 </ul>
               </td>
@@ -52,12 +46,9 @@
                 <ul>
                   {% assign rel_prods= page.relations[2].products %}
                   {% for rel_prod in rel_prods %}
-                    {% for prod in site.products %}
-                      {% assign number=prod.path | remove: "_products/" | remove: ".md" %}
-                      {% if number == rel_prod %}
-                        <li><a href="{{ site.baseurl }}/products/{{ rel_prod }}.html">{{ prod.product_name | truncate: 20 }}</a></li>
-                      {% endif %}
-                    {% endfor %}
+                    {% assign linkpath =  (rel_prod | prepend: "_products/" | append:".md") %}
+                    {% assign item = site.products | where_exp:"item", "item.path ==  linkpath " | first %}
+                        <li><a href="{{ site.baseurl }}/products/{{ rel_prod }}.html">{{ item.product_name | truncate: 20 }}</a></li>
                   {% endfor %}
                 </ul>
               </td>
