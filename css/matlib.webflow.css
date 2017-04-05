@@ -1,6 +1,3 @@
----
----
-
 .brandbox {
   position: relative;
   height: 40px;
@@ -19,7 +16,7 @@
   margin-top: -20px;
   padding-top: 60px;
   float: left;
-  background-image: url('{{ site.baseurl }}/images/matlib.gif');
+  background-image: url('../images/matlib.gif');
   background-position: 0px 50%;
   background-size: contain;
   background-repeat: no-repeat;
@@ -283,7 +280,7 @@
 .dartmouth {
   display: inline-block;
   float: right;
-  background-image: url('{{ site.baseurl }}/images/dartmouth.png');
+  background-image: url('../images/dartmouth.png');
   background-position: 0px 45%;
   background-size: contain;
   background-repeat: no-repeat;
@@ -375,43 +372,12 @@
   background-color: #acac00;
 }
 
-.material-button.join-tag {
-  background-color: #357e49;
+.material-button.joining-tag {
+  background-color: #46a762;
 }
 
 .material-button.shape-tag {
-  background-color: #9a2219;
-}
-
-.material-button.surface-tag {
-  background-color: #245f8f;
-}
-
-.landing-link-box {
-  display: block;
-  height: 300px;
-  margin-top: 20px;
-  margin-bottom: 20px;
-  padding: 30px;
-  border: 1px solid #fff;
-  border-radius: 5px;
-  background-color: #ddd;
-  text-decoration: none;
-}
-
-.landing-link-title {
-  overflow: visible;
-  margin-top: 0px;
-  border: 1px none #000;
-  color: #1b2429;
-  font-size: 30px;
-  line-height: 230px;
-  font-style: normal;
-  font-weight: 700;
-  text-align: center;
-  text-decoration: none;
-  text-transform: uppercase;
-  cursor: pointer;
+  background-color: #e04b3f;
 }
 
 .category-section-title {
@@ -572,7 +538,7 @@
   height: 57px;
   margin-top: 20px;
   margin-bottom: 20px;
-  background-image: url('{{ site.baseurl }}/images/Thayer-School-of-Engineering-at-Dartmouth-logo-white@2x.png');
+  background-image: url('../images/Thayer-School-of-Engineering-at-Dartmouth-logo-white2x.png');
   background-position: 0px 0px;
   background-size: 250px 57px;
   background-repeat: no-repeat;
@@ -613,7 +579,7 @@
   width: 85px;
   height: 40px;
   float: left;
-  background-image: url('{{ site.baseurl }}/images/dartmouth.png');
+  background-image: url('../images/dartmouth.png');
   background-position: 0px 50%;
   background-size: contain;
   background-repeat: no-repeat;
@@ -642,7 +608,7 @@
   margin-top: 10px;
   padding-left: 26px;
   float: right;
-  background-image: url('{{ site.baseurl }}/images/ThayerShield_White.png');
+  background-image: url('../images/ThayerShield_White.png');
   background-position: 0px 0px;
   background-size: contain;
   background-repeat: no-repeat;
@@ -656,7 +622,7 @@
   position: relative;
   top: -6px;
   color: #333;
-  font-size: 25px;
+  font-size: 30px;
   line-height: 30px;
   font-weight: 300;
   text-decoration: none;
@@ -703,10 +669,6 @@
   background-color: rgba(224, 75, 63, .6);
 }
 
-.material-tag.surface {
-  background-color: rgba(50, 132, 199, .6);
-}
-
 .material-tag.product-none {
   display: none;
 }
@@ -723,12 +685,111 @@
   font-weight: 800;
 }
 
+.kjkkk {
+  color: #46a762;
+  font-weight: 400;
+}
+
+.ghgg {
+  background-color: #466479;
+}
+
+.mnjj {
+  background-color: #2779b1;
+}
+
+.landing-link-box {
+  display: block;
+  height: 300px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  padding: 30px;
+  border: 1px solid #fff;
+  border-radius: 5px;
+  background-color: #ddd;
+  text-decoration: none;
+}
+
+.landing-link-title {
+  overflow: visible;
+  margin-top: 0px;
+  border: 1px none #000;
+  color: #1b2429;
+  font-size: 40px;
+  line-height: 230px;
+  font-style: normal;
+  font-weight: 700;
+  text-align: center;
+  text-decoration: none;
+  text-transform: uppercase;
+  cursor: pointer;
+}
+
+.workshop-button {
+  display: block;
+  width: 400px;
+  margin: 12px auto;
+  padding-left: 15px;
+  border-radius: 5px;
+  background-color: #777;
+  font-family: Inconsolata, monospace;
+  font-size: 40px;
+  line-height: 50px;
+  text-align: center;
+}
+
+.workshop-button:hover {
+  background-color: #444;
+}
+
+.workshop-section-header {
+  font-family: Arial, 'Helvetica Neue', Helvetica, sans-serif;
+  color: #fff;
+}
+
+.main-library-button {
+  margin-top: 23px;
+}
+
+.main-library-button:hover {
+  opacity: 0.5;
+}
+
+.heading {
+  color: #fff;
+}
+
+.heading-2 {
+  color: #fff;
+}
+
+.paragraph {
+  color: #bbb;
+}
+
+.list-item {
+  color: #bbb;
+}
+
+.link {
+  display: inline;
+}
+
+.events-text-link {
+  font-family: Arial, 'Helvetica Neue', Helvetica, sans-serif;
+  color: #bbb;
+}
+
+.events-text-link:hover {
+  color: #46a762;
+}
+
 @media (max-width: 991px) {
   .nav-box {
     display: block;
     margin-top: auto;
     padding: 25px;
-    background-color: #0082f3;
+    background-color: #646464;
   }
   .navbar-item {
     margin-right: 16px;
@@ -750,7 +811,18 @@
   }
   .mobile-nav-button.w--open {
     border-radius: 329px;
-    background-color: #0082f3;
+    background-color: #646464;
+  }
+  .landing-link-box {
+    height: 200px;
+  }
+  .landing-link-title {
+    font-size: 28px;
+    line-height: 130px;
+  }
+  .workshop-button {
+    width: 350px;
+    font-size: 30px;
   }
 }
 
@@ -832,6 +904,16 @@
   .page-title {
     padding-left: 10px;
   }
+  .landing-link-box {
+    height: 100px;
+  }
+  .landing-link-title {
+    font-size: 35px;
+    line-height: 30px;
+  }
+  .main-library-button {
+    text-align: center;
+  }
 }
 
 @media (max-width: 479px) {
@@ -893,6 +975,11 @@
     font-size: 16px;
     line-height: 22px;
   }
+  .mobile-nav-button {
+    margin-left: 0px;
+    padding-right: 10px;
+    padding-left: 10px;
+  }
   .tab-text.lable {
     display: inline-block;
   }
@@ -915,6 +1002,10 @@
   .page-title {
     font-size: 24px;
     line-height: 24px;
+  }
+  .workshop-button {
+    width: 250px;
+    font-size: 20px;
   }
 }
 
