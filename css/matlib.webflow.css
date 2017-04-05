@@ -1,3 +1,8 @@
+table, th, td {
+   padding: 3px 3px 3px 3px;
+   border: 1px solid grey;
+}
+
 .brandbox {
   position: relative;
   height: 40px;

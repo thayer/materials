@@ -24,16 +24,22 @@
               <th>
                 <p><strong>Processes</strong></p>
               </th>
-              <td>
+
+              {% for class in site.process_classes %}
+              <td valign="top">
+                <p><strong>{{ class }}</strong></p>
                 <ul>
                   {% assign rel_ps= page.relations[1].processes %}
                   {% for rel_p in rel_ps %}
                     {% assign linkpath =  (rel_p | prepend: "_processes/" | append:".md") %}
-                    {% assign item = site.processes | where_exp:"item", "item.path ==  linkpath " | first %}
-                        <li><a href="{{ site.baseurl }}/processes/{{ rel_p }}.html">{{ item.process_name | truncate: 20 }}</a></li>
+                    {% assign item = site.processes | where_exp:"item", "item.path ==  linkpath" | where_exp:"item", "item.process_class == class "|  first %}
+                      {% unless item == nil %}
+                        <li><a href="{{ site.baseurl }}/processes/{{ rel_p }}.html">{{ item.process_name | truncate: 25 }}</a></li>
+                      {% endunless %}
                   {% endfor %}
                 </ul>
-              </td>
+              </td>  
+              {% endfor %}
             </tr>
             {% endunless %}
 
