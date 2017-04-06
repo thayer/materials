@@ -68,10 +68,10 @@ layout: default
           
           <div class="labels">DataSheet</div>
           <div class="data">
-            <a href="{{ site.baseurl }}/datasheets/{{  page.url | remove: "/processes/" | remove: ".html" }}.pdf" target="_blank">Datasheet (Imperial)</a>
+            <a href="{{ site.baseurl }}/datasheets/{{  page.url | remove: "/processes/" | remove: ".html" }}.pdf" target="_blank">{{ page.process_name }} properties (Imperial)</a>
           </div>
           <div class="data">
-            <a href="{{ site.baseurl }}/datasheets/{{  page.url | remove: "/processes/" | remove: ".html" }}_2.pdf" target="_blank">Datasheet (Metric)</a>
+            <a href="{{ site.baseurl }}/datasheets/{{  page.url | remove: "/processes/" | remove: ".html" }}_2.pdf" target="_blank">{{ page.process_name }} properties (Metric)</a>
           </div>
           
           {% include relations.html %}
