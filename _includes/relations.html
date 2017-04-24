@@ -3,31 +3,38 @@
             <table style="width:100%">
             {% unless page.relations[0].materials == nil %}
             <tr>
-              <th>
+              <th align="center" valign="top">
                 <p><strong>Materials</strong></p>
               </th>
-              <td>
+
+              {% for class in site.material_classes %}
+              <td valign="top">
+                <p align="center"><strong>{{ class }}</strong></p>
                 <ul>
-                  {% assign rel_ms= page.relations[0].materials %}
-                  {% for rel_m in rel_ms %}
-                    {% assign linkpath =  (rel_m | prepend: "_materials/" | append:".md") %}
-                    {% assign item = site.materials | where_exp:"item", "item.path ==  linkpath " | first %}
-                        <li><a href="{{ site.baseurl }}/materials/{{ rel_m }}.html">{{ item.material_name | truncate: 20}}</a></li>
+                  {% assign rel_mats= page.relations[0].materials %}
+                  {% for rel_mat in rel_mats %}
+                    {% assign linkpath =  (rel_mat | prepend: "_materials/" | append:".md") %}
+                    {% assign item = site.materials | where_exp:"item", "item.path ==  linkpath" | where_exp:"item", "item.material_class == class "|  first %}
+                    {% unless item == nil %}
+                      <li><a href="{{ site.baseurl }}/materials/{{ rel_mat }}.html">{{ item.material_name | truncate: 20 }}</a></li>
+                    {% endunless %}
                   {% endfor %}
                 </ul>
               </td>
+              {% endfor %}
             </tr>
             {% endunless %}
 
+
             {% unless page.relations[1].processes == nil %}
             <tr>
-              <th>
+              <th align="center" valign="top">
                 <p><strong>Processes</strong></p>
               </th>
 
               {% for class in site.process_classes %}
               <td valign="top">
-                <p><strong>{{ class }}</strong></p>
+                <p align="center"><strong>{{ class }}</strong></p>
                 <ul>
                   {% assign rel_ps= page.relations[1].processes %}
                   {% for rel_p in rel_ps %}
@@ -45,10 +52,10 @@
 
             {% unless page.relations[2].products == nil %}
             <tr>
-              <th>
+              <th align="center" valign="top">
                 <p><strong>Products</strong></p>
               </th>
-              <td>
+              <td valign="top">
                 <ul>
                   {% assign rel_prods= page.relations[2].products %}
                   {% for rel_prod in rel_prods %}

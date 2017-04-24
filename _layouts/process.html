@@ -57,6 +57,17 @@ layout: default
            {% endfor %}
       </div>
       <div class="w-col w-col-8 w-col-medium-8 w-col-small-8">
+      <!--========== For making a list of all the materials that are related to this process =========
+          {% assign process_num = page.url | remove: "/processes/" | remove: ".html" %}
+          {% assign rel_materials = site.materials | where_exp: "item", "item.relations[1].processes contains process_num" %}
+          {% for rel_mat in rel_materials %}
+            {% assign mat_num = rel_mat.url | remove: "/materials/" | remove: ".html" %}
+            {% capture mat_num_name %}--{{ mat_num }} ({{ rel_mat.material_name }}){% endcapture %}
+            <li>{{ mat_num_name }}</li>
+          {% endfor %}
+      -->
+
+
           <div class="labels">Class</div>
           <div class="data">{{ page.process_class }} </div>
           <div class="labels">Subclass</div>
@@ -78,10 +89,11 @@ layout: default
 
           <div class="labels">Description</div>
           <div class="data">
-            {{ content }}
+            {{ page.description }}
           </div>
 
           {% unless page.places == null %}
+          <p> not empty </p>
           <div class="labels">Where to find it?</div>
           <div class="data">
           <ul>
