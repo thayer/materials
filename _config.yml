@@ -62,8 +62,8 @@ material_subclasses:
     - 'Hybrids: Natural Materials'
 
 process_classes:
-    - 'Joining'
     - 'Shaping'
+    - 'Joining'
     - 'Surface Treatment'
 
 process_subclasses:
