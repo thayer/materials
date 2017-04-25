@@ -92,13 +92,15 @@ layout: default
               <td>{{ c[0] }}</td> 
               <td>{{ c[1][0].mass }}</td>
               <td>
-              {% assign array = c[1][1].materials[0] | split: "(" %}
-              {% assign mat_num = array.last | remove: ")" %}
-              {% if mat_num != "N/A" %}
-                <a href="{{ site.baseurl }}{{ mat_num | prepend: '/materials/'}}.html">{{ array.first }}</a>
-              {% else %}
-                {{ array.first }}
-              {% endif %}
+                <ul>
+                  {% assign array = c[1][1].materials[0] | split: "(" %} 
+                  {% assign mat_num = array.last | remove: ")" %}
+                  {% if mat_num != "N/A" %}
+                    <li><a href="{{ site.baseurl }}{{ mat_num | prepend: '/materials/'}}.html">{{ array.first }}</a></li>
+                  {% else %}
+                    <li>{{ array.first }}</li>
+                  {% endif %}
+                </ul>
               </td>
               <td>
                 <ul>
@@ -117,7 +119,6 @@ layout: default
             </tr>
           {% endfor %}
         </table>
-        
       </div>
     </div>
   </div>
