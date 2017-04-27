@@ -742,7 +742,7 @@
   background-color: #444;
 }
 
-.workshop-section-header {
+.homepage-section-header {
   font-family: Arial, 'Helvetica Neue', Helvetica, sans-serif;
   color: #fff;
 }
@@ -789,6 +789,29 @@
   direction: ltr;
   text-decoration: none;
   text-transform: none;
+}
+
+.course-button {
+  display: inline-block;
+  width: 100%;
+  margin-top: 5px;
+  margin-right: 0px;
+  margin-bottom: 5px;
+  padding-right: 0px;
+  padding-left: 12px;
+  border-radius: 5px;
+  background-color: #666;
+  font-size: 12px;
+  text-align: left;
+}
+
+.course-button:hover {
+  background-color: #444;
+}
+
+.courses-list-item {
+  margin-right: 31px;
+  margin-left: 28px;
 }
 
 @media (max-width: 991px) {
