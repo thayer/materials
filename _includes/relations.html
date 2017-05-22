@@ -61,7 +61,7 @@
                   {% for rel_prod in rel_prods %}
                     {% assign linkpath =  (rel_prod | prepend: "_products/" | append:".md") %}
                     {% assign item = site.products | where_exp:"item", "item.path ==  linkpath " | first %}
-                        <li><a href="{{ site.baseurl }}/products/{{ rel_prod }}.html">{{ item.product_name | truncate: 20 }}</a></li>
+                        <li><a href="{{ site.baseurl }}/products/{{ rel_prod }}.html">{{ item.product_name | truncate: 40 }}</a></li>
                   {% endfor %}
                 </ul>
               </td>

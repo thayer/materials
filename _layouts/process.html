@@ -57,6 +57,7 @@ layout: default
            {% endfor %}
       </div>
       <div class="w-col w-col-8 w-col-medium-8 w-col-small-8">
+
       <!--========== For making a list of all the materials that are related to this process =========
           {% assign process_num = page.url | remove: "/processes/" | remove: ".html" %}
           {% assign rel_materials = site.materials | where_exp: "item", "item.relations[1].processes contains process_num" %}
@@ -65,8 +66,28 @@ layout: default
             {% capture mat_num_name %}--{{ mat_num }} ({{ rel_mat.material_name }}){% endcapture %}
             <li>{{ mat_num_name }}</li>
           {% endfor %}
-      -->
+        ==============================================================================================-->
 
+      <!--========== For making a list of all the products that are related to this process =========
+          {% assign process_num = page.url | remove: "/processes/" | remove: ".html" %}
+          {% assign prodArray = "" | split: "" %} 
+          {% for prod in site.products %}
+            {% for comp in prod.components %}
+              {% for item in comp %}
+                {% assign ps = item[1][2].processes %}
+                {% for p in ps %}
+                  {% if p contains process_num %}
+                    {% assign prodNum = prod.url | remove: "/products/" | remove: ".html" %}
+                    {% unless prodArray contains prodNum %}
+                      <li>--{{ prodNum }} ({{ prod.product_name }})</li>
+                      {% assign prodArray = prodArray | push: prodNum %}
+                    {% endunless %}  
+                  {% endif %}
+                {% endfor %}
+              {% endfor %}
+            {% endfor %}
+          {% endfor %}
+      =================================================================================================-->
 
           <div class="labels">Class</div>
           <div class="data">{{ page.process_class }} </div>
@@ -127,4 +148,5 @@ layout: default
     </div>
   </div>
 </div>
+
 

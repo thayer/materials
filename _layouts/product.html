@@ -56,6 +56,21 @@ layout: default
               {% endunless %}
             {% endfor %}
       </div>
+
+<!--=========== Accessing all the processes that are related to all componenets of this product===========
+      <div>
+        {% for comp in page.components %}
+          {% for item in comp %}
+            {% assign ps = item[1][2].processes %}
+            {% for p in ps %}
+              <li>{{ p }}</li>
+            {% endfor %}
+          {% endfor %}
+        {% endfor %}
+      </div>  
+========================================================================================================-->
+
+
       <div class="w-col w-col-8 w-col-medium-8 w-col-small-8">
         <div class="labels">Product Class</div>
         <div class="data">{{ page.class }}</div>
