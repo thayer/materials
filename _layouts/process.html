@@ -58,7 +58,9 @@ layout: default
       </div>
       <div class="w-col w-col-8 w-col-medium-8 w-col-small-8">
 
-      <!--========== For making a list of all the materials that are related to this process =========
+
+      {% comment %}
+      <!--========== For making a list of all the materials that are related to this process =========-->
           {% assign process_num = page.url | remove: "/processes/" | remove: ".html" %}
           {% assign rel_materials = site.materials | where_exp: "item", "item.relations[1].processes contains process_num" %}
           {% for rel_mat in rel_materials %}
@@ -66,9 +68,8 @@ layout: default
             {% capture mat_num_name %}--{{ mat_num }} ({{ rel_mat.material_name }}){% endcapture %}
             <li>{{ mat_num_name }}</li>
           {% endfor %}
-        ==============================================================================================-->
 
-      <!--========== For making a list of all the products that are related to this process =========
+      <!--========== For making a list of all the products that are related to this process =========-->
           {% assign process_num = page.url | remove: "/processes/" | remove: ".html" %}
           {% assign prodArray = "" | split: "" %} 
           {% for prod in site.products %}
@@ -87,7 +88,7 @@ layout: default
               {% endfor %}
             {% endfor %}
           {% endfor %}
-      =================================================================================================-->
+      {% endcomment %}
 
           <div class="labels">Class</div>
           <div class="data">{{ page.process_class }} </div>

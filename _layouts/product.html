@@ -57,7 +57,8 @@ layout: default
             {% endfor %}
       </div>
 
-<!--=========== Accessing all the processes that are related to all componenets of this product===========
+{% comment %}
+<!--=========== Accessing all the processes that are related to all componenets of this product===========-->
       <div>
         {% for comp in page.components %}
           {% for item in comp %}
@@ -68,8 +69,7 @@ layout: default
           {% endfor %}
         {% endfor %}
       </div>  
-========================================================================================================-->
-
+{% endcomment %}
 
       <div class="w-col w-col-8 w-col-medium-8 w-col-small-8">
         <div class="labels">Product Class</div>
