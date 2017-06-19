@@ -58,6 +58,15 @@
   bottom: 0px;
 }
 
+.nav-box {
+  display: block;
+  margin: 0px 0px 0px auto;
+  padding: 10px;
+  float: right;
+  border: 3px solid #bbb;
+  border-radius: 3px;
+}
+
 .navbar-item {
   position: static;
   display: inline;
@@ -270,11 +279,15 @@
 }
 
 .navbar {
-  height: 75px;
+  height: 250px;
 }
 
 .navbar-container {
-  margin-top: 30px;
+  display: block;
+  margin: 0px auto;
+  float: none;
+  border-style: none;
+  border-color: #000;
 }
 
 .dartmouth {
@@ -812,6 +825,39 @@
 .courses-list-item {
   margin-right: 31px;
   margin-left: 28px;
+}
+
+.image {
+  position: static;
+  display: block;
+  margin-bottom: 1px;
+  padding-bottom: 0px;
+  float: none;
+}
+
+.logo_section {
+  height: 200px;
+  background-color: #ddd;
+  background-image: url('../images/matlib_logo.png');
+  background-position: 0px 0px;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: scroll;
+}
+
+.link-block {
+  width: 100%;
+  height: 100%;
+  margin-top: 0px;
+  margin-bottom: 0px;
+  background-image: url('../images/matlib_logo.png');
+  background-position: 50% 50%;
+  background-size: contain;
+  background-repeat: no-repeat;
+}
+
+.logo-container {
+  height: 80%;
 }
 
 @media (max-width: 991px) {
