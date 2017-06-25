@@ -322,7 +322,7 @@
   width: 20%;
   margin-top: 5px;
   margin-bottom: 15px;
-  padding-right: 20px;
+  padding-right: 21px;
   float: left;
   clear: none;
   text-decoration: none;
@@ -385,12 +385,16 @@
   background-color: #acac00;
 }
 
-.material-button.joining-tag {
+.material-button.join-tag {
   background-color: #46a762;
 }
 
 .material-button.shape-tag {
   background-color: #e04b3f;
+}
+
+.material-button.surface-tag {
+  background-color: #3284c7;
 }
 
 .category-section-title {
@@ -684,6 +688,10 @@
 
 .material-tag.product-none {
   display: none;
+}
+
+.material-tag.surface {
+  background-color: rgba(50, 132, 199, .6);
 }
 
 .credit-logo {
