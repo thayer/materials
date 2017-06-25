@@ -1,5 +1,5 @@
-Picture #,Product Class,Product Subclass,Name,Image Credit,Components,Materials,Processes,Mass,Manufacturer,Cost,Place of Purchase,Date of Purchase,Product Description,Materials and Processes Description,Packaging Picture #,Packaging Labels (including warnings and advertisements),"Links to Materials, Processes, and Manufacturer/Product Website",How It's Made Video,Additional Photos,"QR code (yes - green, no - red)"
-3001,Consumer,Kitchen,Measuring Cups (Silicone),"Squish 4pc Measuring Cups, Robinson Home Products © Mackenzie Carlson","-1/4 cup
+Picture #,Additional Photos,Product Class,Product Subclass,Name,Location in Cabinets,Image Credit,Components,Materials,Processes,Mass,Manufacturer,Cost,Place of Purchase,Date of Purchase,Product Description,Materials and Processes Description,Packaging Labels (including warnings and advertisements),"Links to Materials, Processes, and Manufacturer/Product Website",How It's Made Video,"QR code (yes - green, no - red)"
+3001,N/A,Consumer,Kitchen,Measuring Cups (Silicone),5L.2,"Squish 4pc Measuring Cups, Robinson Home Products © Mackenzie Carlson","-1/4 cup
 -1/3 cup
 -1/2 cup
 -1 cup
@@ -7,22 +7,22 @@ Picture #,Product Class,Product Subclass,Name,Image Credit,Components,Materials,
 -2_21.4g
 -3_28.8g
 -4_43.2g
--5_7.3g",Robinson Home Products Inc.,,,,"Goodbye cluttered cupboards. Squish collapsible products transform bulky food prep tools into neatly tamed items that behave within confined spaces. Crafted using an exclusive design technique that marries flexibility with rigidity, Squish brings as much joy in use as it does stored away. Playful, vibrant and versatile, the sturdy construction does not sacrifice performance for collapsibility. Each Squish product independently maintains its shape when in use and thoughtfully-designed features anticipate the needs of the most exacting home chefs. Each graduated layer of a Squish item 'snaps' into place to perform its desired function with confidence whether storing flat or expanding for use. Clever features like gently curved rims, thoughtfully-placed pour spouts, smooth sides and non-slip grips for bases and handles make the Squish collection a valuable ally for any home chef. Each product performs as well as its non-collapsible counterpart, yet stores efficiently in a fraction of the space. FDA-approved materials are safe for food items and dishwasher friendly. With an assortment of essential items that set free an entire kitchen cupboard, Squish makes today's storage challenges disappear in one second flat. Expands to 23.5in to offer a 6 quart capacity.",,N/A,"FOOD SAFE
-DISHWASHER SAFE",http://www.robinsonus.com,,N/A,
-3002,Sports and Leisure,Racing,Skis (Vokl racing),Volkl P60 SC racing skis © Mackenzie Carlson,-Ski egdes,-1_Wood Steel edges (N/A),,-1_,Volkl,,,,,,N/A,N/A,https://www.volkl.com,*http://www.sciencechannel.com/tv-shows/how-its-made/videos/how-its-made-alpine-skis/,N/A,
-3003,Sports and Leisure,Racing,Bicycle Tire,Bicycle tire © Mackenzie Carlson,,-1_,,,,,,,,,N/A,N/A,,*https://www.youtube.com/watch?v=gm3JJW9wjA0,N/A,
-3004,Consumer,Kitchen,"Measuring Cup (4-cup, Mainstays)",4-cup capacity Measuring Cup © Mackenzie Carlson,-Measuring Cup,-1_Polymer (N/A),,-1_162.7g,Mainstays,,Walmart,,,,N/A,"MAINSTAYS™
+-5_7.3g",Robinson Home Products Inc.,,,,"Goodbye cluttered cupboards. Squish collapsible products transform bulky food prep tools into neatly tamed items that behave within confined spaces. Crafted using an exclusive design technique that marries flexibility with rigidity, Squish brings as much joy in use as it does stored away. Playful, vibrant and versatile, the sturdy construction does not sacrifice performance for collapsibility. Each Squish product independently maintains its shape when in use and thoughtfully-designed features anticipate the needs of the most exacting home chefs. Each graduated layer of a Squish item 'snaps' into place to perform its desired function with confidence whether storing flat or expanding for use. Clever features like gently curved rims, thoughtfully-placed pour spouts, smooth sides and non-slip grips for bases and handles make the Squish collection a valuable ally for any home chef. Each product performs as well as its non-collapsible counterpart, yet stores efficiently in a fraction of the space. FDA-approved materials are safe for food items and dishwasher friendly. With an assortment of essential items that set free an entire kitchen cupboard, Squish makes today's storage challenges disappear in one second flat. Expands to 23.5in to offer a 6 quart capacity.",,"FOOD SAFE
+DISHWASHER SAFE",http://www.robinsonus.com,,
+3002,N/A,Sports and Leisure,Racing,Skis (Vokl racing),9L.2/9R.2,Volkl P60 SC racing skis © Mackenzie Carlson,-Ski egdes,-1_Wood Steel edges (N/A),,-1_,Volkl,,,,,,N/A,https://www.volkl.com,*http://www.sciencechannel.com/tv-shows/how-its-made/videos/how-its-made-alpine-skis/,
+3003,N/A,Sports and Leisure,Racing,Bicycle Tire,10L.3,Bicycle tire © Mackenzie Carlson,,-1_,,,,,,,,,N/A,,*https://www.youtube.com/watch?v=gm3JJW9wjA0,
+3004,N/A,Consumer,Kitchen,"Measuring Cup (4-cup, Mainstays)",,4-cup capacity Measuring Cup © Mackenzie Carlson,-Measuring Cup,-1_Polymer (N/A),,-1_162.7g,Mainstays,,Walmart,,,,"MAINSTAYS™
 Measuring Cup
 4-cup capacity
 Microwave safe
 Marketed by Wal-Mart Stores, Inc. Bentonville, AR 72716
-MADE IN CHINA",www.walmart.com,*https://www.youtube.com/watch?v=8yMWBCCTVu0,N/A,
-3005,Sports and Leisure,Racing,Bicycle Inner Tube,Inner Tube © Mackenzie Carlson,,-1_,,,,,,,,,N/A,N/A,,*http://www.sciencechannel.com/tv-shows/how-its-made/videos/music-video-inner-tubes/,N/A,
-3006,Consumer,Tools,Tape (Joe's Sticky Stuff),An Aggressive Pressure-Sensitive Adhesive Tape,"-Tape
+MADE IN CHINA",www.walmart.com,*https://www.youtube.com/watch?v=8yMWBCCTVu0,
+3005,N/A,Sports and Leisure,Racing,Bicycle Inner Tube,10L.3,Inner Tube © Mackenzie Carlson,,-1_,,,,,,,,,N/A,,*http://www.sciencechannel.com/tv-shows/how-its-made/videos/music-video-inner-tubes/,
+3006,N/A,Consumer,Tools,Tape (Joe's Sticky Stuff),3L.2,An Aggressive Pressure-Sensitive Adhesive Tape,"-Tape
 -Wax paper
 -Tin",-1_,,"-1_68.2g
 -2_11.4g
--3_51.2g","JoeProps, LLC",,,,"Joe's Sticky Stuff™ is a clean, easy to use, extremely aggressive double-sided adhesive tape. This roll of tape is non-hardening and permanently flexible. Try it on signs, posters, plaques, and trim. It can be used to secure items on shelves, countertops and tables. Use Joe's Sticky Stuff™ anywhere you would use a double-sided tape. Use it for arts and crafts, hobby projects, quick fixes or anywhere an aggressive double-sided adhesive tape is desired. Keep Joe's Sticky Stuff™ in our handy tin to prevent it from unspooling.",,,"EASY TO APPLY • EASY TO REMOVE
+-3_51.2g","JoeProps, LLC",,,,"Joe's Sticky Stuff™ is a clean, easy to use, extremely aggressive double-sided adhesive tape. This roll of tape is non-hardening and permanently flexible. Try it on signs, posters, plaques, and trim. It can be used to secure items on shelves, countertops and tables. Use Joe's Sticky Stuff™ anywhere you would use a double-sided tape. Use it for arts and crafts, hobby projects, quick fixes or anywhere an aggressive double-sided adhesive tape is desired. Keep Joe's Sticky Stuff™ in our handy tin to prevent it from unspooling.",,"EASY TO APPLY • EASY TO REMOVE
 Secure Signs, Panels, Kickplates, Rugs, Tiles, Trim, Household Items, and More!
 JOE'S STICKY STUFF™
 EST. 2002
@@ -31,45 +31,45 @@ AN AGGRESSIVE PRESSURE-SENSITIVE ADHESIVE TAPE™
 APPLICATION AND REMOVAL
 LIMITATION OF LIABILITY AND WARRANTY: JoeProps,LLC shall not be liable for any loss or damage of any nature or description arising from the use of this Product. JoeProps,LLC. does not expressly or impliedly, warrant this product or its use, including, but not limited to, whether this product is fit for its intended use, purpose or merchantability.
 MADE IN ENGLAND
-JOEPROPS.COM",http://www.joeprops.com,,N/A,
-3007,Consumer,Cleaning,"Broom (palm, silk, bamboo handle, copper wire)",Broom Head © Mackenzie Carlson,"-Broom
+JOEPROPS.COM",http://www.joeprops.com,,
+3007,N/A,Consumer,Cleaning,"Broom (palm, silk, bamboo handle, copper wire)",8R.3,Broom Head © Mackenzie Carlson,"-Broom
 -Handle
 -Joining","-1_Palm leaves (N/A)
 -2_Bamboo (1035)
 -3_Copper (1056)",,"-1_
 -2_
--3_",,,,,,,N/A,N/A,,*https://www.youtube.com/watch?v=H97lDjL6H4Y,N/A,
-3008,Consumer,Cleaning,"Broom (palmyra fibers, wooden handle)",EM3 Broom Head © Mackenzie Carlson,"-Broom
+-3_",,,,,,,N/A,,*https://www.youtube.com/watch?v=H97lDjL6H4Y,
+3008,N/A,Consumer,Cleaning,"Broom (palmyra fibers, wooden handle)",8L.3,EM3 Broom Head © Mackenzie Carlson,"-Broom
 -Handle","-1_Palmyra (N/A)
 -2_Wood (N/A)",,"-1_123.6g
--2_","Elite Mops and Brooms, Inc.",,,,Traditional Japanese,,N/A,"PROFESSIONAL CLEANING PRODUCTS
+-2_","Elite Mops and Brooms, Inc.",,,,Traditional Japanese,,"PROFESSIONAL CLEANING PRODUCTS
 www.elitemopsandbrooms.com
 Made in Mexico
 100% Palmyra Wisk Broom
-FOR INDOOR & OUTDOOR USE",http://www.elitemopsandbrooms.com,*https://www.youtube.com/watch?v=H97lDjL6H4Y,N/A,
-3009,Consumer,Kitchen,Bamboo Basket,Basket © Mackenzie Carlson,-Weave,-1_Bamboo (1035),-1_Weaving (N/A),-1_,,,,,,,,,,*https://www.youtube.com/watch?v=F0hKYpLz1ZM,N/A,
-3010,,,"Glass Tile (Yellow, Brown, White, Black, and Green)","Yellow, Brown, White, Black, Green Tile © Mackenzie Carlson","-Glass
+FOR INDOOR & OUTDOOR USE",http://www.elitemopsandbrooms.com,*https://www.youtube.com/watch?v=H97lDjL6H4Y,
+3009,N/A,Consumer,Kitchen,Bamboo Basket,5L.4,Basket © Mackenzie Carlson,-Weave,-1_Bamboo (1035),-1_Weaving (N/A),-1_,,,,,,,,,*https://www.youtube.com/watch?v=F0hKYpLz1ZM,
+3010,N/A,,,"Glass Tile (Yellow, Brown, White, Black, and Green)",11R.4,"Yellow, Brown, White, Black, Green Tile © Mackenzie Carlson","-Glass
 -Base
 -Grouting","-1_Glass (N/A)
 -2_
 -3_",,"-1_
 -2_
--3_",,,,,,,N/A,N/A,N/A,*https://www.youtube.com/watch?v=Ng6EqEWmDmw,N/A,
-3011,,,Glass Tile (Black and White),Black and White Tile © Mackenzie Carlson,"-Glass
+-3_",,,,,,,N/A,N/A,*https://www.youtube.com/watch?v=Ng6EqEWmDmw,
+3011,N/A,,,Glass Tile (Black and White),11R.4,Black and White Tile © Mackenzie Carlson,"-Glass
 -Base
 -Grouting","-1_Glass (N/A)
 -2_
 -3_",,"-1_
 -2_
--3_",,,,,,,N/A,N/A,N/A,*https://www.youtube.com/watch?v=Ng6EqEWmDmw,N/A,
-3012,,,"Glass tile (Black, Red, White, and Gray","Black, Red, White, Gray Tile © Mackenzie Carlson","-Glass
+-3_",,,,,,,N/A,N/A,*https://www.youtube.com/watch?v=Ng6EqEWmDmw,
+3012,N/A,,,"Glass tile (Black, Red, White, and Gray",11L.4,"Black, Red, White, Gray Tile © Mackenzie Carlson","-Glass
 -Base
 -Grouting","-1_Glass (N/A)
 -2_
 -3_",,"-1_
 -2_
--3_",,,,,,,N/A,N/A,N/A,*https://www.youtube.com/watch?v=Ng6EqEWmDmw,N/A,
-3013,Consumer,Kitchen,Sponge Scrubber (Cellulose Sponge),"Heavy Duty Scrub Sponge, Scotch Brite © Xiaoran Zhu","-Sponge
+-3_",,,,,,,N/A,N/A,*https://www.youtube.com/watch?v=Ng6EqEWmDmw,
+3013,-3013_1,Consumer,Kitchen,Sponge Scrubber (Cellulose Sponge),3R.3,"Heavy Duty Scrub Sponge, Scotch Brite © Xiaoran Zhu","-Sponge
 -Packaging","-1_Cellulose (1081)
 -2_Low Density Polyethylene (N/A)","-1_Soaking (N/A)
 -1_Polyurethane gluing (N/A)
@@ -85,7 +85,7 @@ Polyurethane gluing: To glue the scouring pad on
 Cold shape rolling: Passing the material through a series of shaped rolls to press the sheets together
 Cropping/guillotine: To cut the shapes of the sponge and wrapper
 Extrusion blow molding: Melted plastic blown into a long, thin tube for molding
-Printing: Used to apply product labels, instructions, warning, and advertisements",4081,"Lasts 50% Longer than leading value brand heavy duty scrub sponge.
+Printing: Used to apply product labels, instructions, warning, and advertisements","Lasts 50% Longer than leading value brand heavy duty scrub sponge.
 Scotch-Brite®
 Heavy Duty
 1 PACK
@@ -96,8 +96,8 @@ Also try our other scrub sponges: Delicate Care: Extra Gentle Cleaning; Non-Scra
 3M and Scotch-Brite are trademarks of 3M.
 3M Home Care Division
 Questions?: 1-800-846-8887
-Made in Canada for 3M with globally sourced materials.",http://www.scotch-brite.com/3M/en_US/scotch-brite/?WT.mc_id=www.scotch-brite.com/,*https://www.youtube.com/watch?v=NrMIDSOABVQ,N/A,
-3014,Consumer,House & Garden,Twine (Hemp),Marchen-Art Co.Hemp Twine © Mackenzie Carlson,"-Twine
+Made in Canada for 3M with globally sourced materials.",http://www.scotch-brite.com/3M/en_US/scotch-brite/?WT.mc_id=www.scotch-brite.com/,*https://www.youtube.com/watch?v=NrMIDSOABVQ,
+3014,N/A,Consumer,House & Garden,Twine (Hemp),3L.2,Marchen-Art Co.Hemp Twine © Mackenzie Carlson,"-Twine
 -Plastic wrap
 -Tube
 -Packaging","-1_Hemp (N/A)
@@ -106,11 +106,11 @@ Made in Canada for 3M with globally sourced materials.",http://www.scotch-brite.
 -4_Paper and Cardboard (1040)",,"-1_12.0g
 -2_<0.1g
 -3_2.5g
--4_0.9g",Marchen-Art Co.,,,,Spool of hemp twine ,,N/A,"MÄRCHEN ART
+-4_0.9g",Marchen-Art Co.,,,,Spool of hemp twine ,,"MÄRCHEN ART
 HEMP TWINE 100% NATURAL WHOLLY HEMP
 http://www.marchen-art.co.jp
-HEMP",http://www.marchen-art.co.jp,,N/A,
-3015,Consumer,Entertainment,Recorder,"Recorder, Toysmith","-Recorder
+HEMP",http://www.marchen-art.co.jp,,
+3015,-3015_1,Consumer,Entertainment,Recorder,8L.2,"Recorder, Toysmith","-Recorder
 -Cleaning rod
 -Information sheet
 -Packaging","-1_
@@ -119,37 +119,37 @@ HEMP",http://www.marchen-art.co.jp,,N/A,
 -4_Vinyl (N/A)",,"-1_87.1g
 -2_6.9g
 -3_2.0g
--4_11.4g",Toysmith,$5.99,,,"Each 13 inch recorder is packaged in a snap-shut vinyl bag. Includes cleaning rod. Assorted Colors. Toysmith's mission is to supply quality toys and gifts while delivering superior customer service to retailers. We offer products in many key categories including: active play, science & discovery, arts & crafts, impulse & novelty toys, and nostalgic retro classics!",,,"3+ YEARS
+-4_11.4g",Toysmith,$5.99,,,"Each 13 inch recorder is packaged in a snap-shut vinyl bag. Includes cleaning rod. Assorted Colors. Toysmith's mission is to supply quality toys and gifts while delivering superior customer service to retailers. We offer products in many key categories including: active play, science & discovery, arts & crafts, impulse & novelty toys, and nostalgic retro classics!",,"3+ YEARS
 RECORDER
 Toysmith®
 FINGER PLACEMENT FOR PLAYING YOUR RECORDER
 Retain this information for future reference.
 CE
-Made in Taiwan",https://www.toysmith.com,,N/A,
-3016,Consumer,Kitchen,Oven Thermometer),AcuRite Stainless Steel Oven Thermometer,"-Housing
+Made in Taiwan",https://www.toysmith.com,,
+3016,-3016_1,Consumer,Kitchen,Oven Thermometer),2L.3,AcuRite Stainless Steel Oven Thermometer,"-Housing
 -Facing
 ","-1_Stainless Steel (1050)
--2_Borosilicate Glass (1001)",,-1_44.7g,AcuRite,,,,"Within an oven, temperatures often vary from shelf to shelf. Place the AcuRite Stainless Steel Oven Thermometer near food while it's cooking to monitor the temperature and ensure perfect results. The durable, easy-clean stainless steel construction and protective glass lens make it perfect for use in conventional or convection ovens. Measures from 150ºF to 600ºF, and indicators highlight the optimal temperature ranges for warming, baking / roasting, and broiling. Includes an integrated hanger for mounting, or stands upright on base. One-year limited warranty. It's more than accurate, it's AcuRite.",,,"WARM
+-2_Borosilicate Glass (1001)",,-1_44.7g,AcuRite,,,,"Within an oven, temperatures often vary from shelf to shelf. Place the AcuRite Stainless Steel Oven Thermometer near food while it's cooking to monitor the temperature and ensure perfect results. The durable, easy-clean stainless steel construction and protective glass lens make it perfect for use in conventional or convection ovens. Measures from 150ºF to 600ºF, and indicators highlight the optimal temperature ranges for warming, baking / roasting, and broiling. Includes an integrated hanger for mounting, or stands upright on base. One-year limited warranty. It's more than accurate, it's AcuRite.",,"WARM
 BAKE/ROAST
 BROIL
 NSF®
 MINGLE 
 T708A
 DO NOT PUT IN WATER
-OVEN THERMOMETER",https://www.acurite.com/stainless-steel-oven-thermometer-00620.html,*https://www.youtube.com/watch?v=OZ_1zwMyLH8,N/A,
-3017,Consumer,Kitchen,"Scrubber Sponge (Wool, Baudelaire)",Small Wool Sponge,"-Sponge
+OVEN THERMOMETER",https://www.acurite.com/stainless-steel-oven-thermometer-00620.html,*https://www.youtube.com/watch?v=OZ_1zwMyLH8,
+3017,N/A,Consumer,Kitchen,"Scrubber Sponge (Wool, Baudelaire)",3R.3,Small Wool Sponge,"-Sponge
 -Packaging","-1_Natural Sponge (N/A)
 -2_Paper and cardboard (1040)",,"-1_8.6g
--2_27.8g","Baudelaire, Inc.",,,,"Natural sea sponges are far superior to synthetic sponges in their durability and absorbency, In fact, natural sponges are still used for purposes other than bathing, ranging from car washing to rug cleaning because of their incredible durability. Natural sea sponges are easy to care for. Just wqueeze out the water and keep in a dry place in your bathroom. Sponge will air dry completely and is naturally resistant to bacterial growth. If, for some reason, your sponge needs freshening, you can soak for 24 hours in a very mild bleach solution (1 tsp. per gallon). Natural sea sponges have been used for bathing since the days of the Roman Empire. Our natural sea sponges are harvested by hand in the shallow waters of the Culf of Mexico. Sponges are cut from the ocean floor and grow back in 5-7 years.",,,"HARVESTED BY HAND
+-2_27.8g","Baudelaire, Inc.",,,,"Natural sea sponges are far superior to synthetic sponges in their durability and absorbency, In fact, natural sponges are still used for purposes other than bathing, ranging from car washing to rug cleaning because of their incredible durability. Natural sea sponges are easy to care for. Just wqueeze out the water and keep in a dry place in your bathroom. Sponge will air dry completely and is naturally resistant to bacterial growth. If, for some reason, your sponge needs freshening, you can soak for 24 hours in a very mild bleach solution (1 tsp. per gallon). Natural sea sponges have been used for bathing since the days of the Roman Empire. Our natural sea sponges are harvested by hand in the shallow waters of the Culf of Mexico. Sponges are cut from the ocean floor and grow back in 5-7 years.",,"HARVESTED BY HAND
 Approximately 4.5 inches
 www.baudelairesoaps.com
-100% recycled & recyclable package.",http://baudelairesoaps.com,,N/A,
-3018,Consumer,Kitchen,Kitchen Spatula (Bamboo),Bamboo Spatula © Mackenzie Carlson,-Spatula,-1_Bamboo (1035),,-1_,,,,,,,N/A,N/A,,,N/A,
-3019,Consumer,Kitchen,Rolling Pin (Wood),Rolling Pin © Mackenzie Carlson,"-Roll
+100% recycled & recyclable package.",http://baudelairesoaps.com,,
+3018,N/A,Consumer,Kitchen,Kitchen Spatula (Bamboo),3L.4,Bamboo Spatula © Mackenzie Carlson,-Spatula,-1_Bamboo (1035),,-1_,,,,,,,N/A,,,
+3019,N/A,Consumer,Kitchen,Rolling Pin (Wood),,Rolling Pin © Mackenzie Carlson,"-Roll
 -Handle","-1_Wood (N/A)
 -2_Wood (N/A)",,"-1_
--2_",,,,,,,N/A,N/A,,,N/A,
-3020,Consumer,Tools,"Hammer (Hickory Wood Handle, Workforce)",10 oz. Hickory Handle Rip Hammer © Mackenzie Carlson,"-Hammer
+-2_",,,,,,,N/A,,,
+3020,N/A,Consumer,Tools,"Hammer (Hickory Wood Handle, Workforce)",2L.4,10 oz. Hickory Handle Rip Hammer © Mackenzie Carlson,"-Hammer
 -Handle","-1_Stainless Steel (1050)
 -2_Hickory (N/A)","-1_Induction furnace (2092)
 -1_Forging (2056)
@@ -166,7 +166,7 @@ Forging: Steel pounded into mold to attain desired shape
 Punch cutting: Used to remove excess metal after forging
 Grinding and mechanical polishing: To finish the metal and wood pieces
 Circular sawing: To cut the wood into the desired shape and dimensions
-Rigid adhesives: To join the two parts of the hammer",N/A,"WORKFORCE
+Rigid adhesives: To join the two parts of the hammer","WORKFORCE
 DROP FORGED
 10oz HICKORY HANDLE RIP HAMMER
 GENUINE HICKORY
@@ -175,8 +175,8 @@ WEAR SAFETY GOGGLES
 USER AND BYSTANDER
 CHINA
 WARNING - Wear Safety Goggles. Use this hammer to drive and pull common nails only. Never strike this tool with or against another striking tool, hardened nail, or other hard object as chipping can occur, possibly resulting in eye or other injury.
-MADE IN CHINA",https://www.buycott.com/upc/047486769236/workforce-10-oz-hickory-handle-rip-hammer,*http://www.sciencechannel.com/tv-shows/how-its-made/videos/how-its-made-hammer-time/,N/A,
-3021,Consumer,Entertainment,Play-doh,Play-doh © Mackenzie Carlson,"-Dough
+MADE IN CHINA",https://www.buycott.com/upc/047486769236/workforce-10-oz-hickory-handle-rip-hammer,*http://www.sciencechannel.com/tv-shows/how-its-made/videos/how-its-made-hammer-time/,
+3021,-3021_1,Consumer,Entertainment,Play-doh,7L.2,Play-doh © Mackenzie Carlson,"-Dough
 -Container
 -Lid","-1_Flour (N/A)
 -1_Water (N/A)
@@ -197,30 +197,30 @@ Polypropylene: A thermoplastic polymer. It is strong, tough, has a high resistan
 Low Density Polyethylene: Very cheap, good chemical and hydrolysis resistance, high impact strength at low temperatures, excellent electrical properties, transparent in thin films, good processability 
 
 Hot mixing: To mix the ingredients together to create the dough
-Injection molding: Shaping the plastic container and lid",4021,"MODELING COMPOUND
-NOTICE TO PARENTS: CONTAINS WHEAT",http://www.hasbro.com/en-us/,*https://www.youtube.com/watch?v=owQVpNUyc44&t=7s,N/A,
-3022,Interior,Lighting,Tealight,Candle © Mackenzie Carlson,"-Candle
+Injection molding: Shaping the plastic container and lid","MODELING COMPOUND
+NOTICE TO PARENTS: CONTAINS WHEAT",http://www.hasbro.com/en-us/,*https://www.youtube.com/watch?v=owQVpNUyc44&t=7s,
+3022,N/A,Interior,Lighting,Tealight,,Candle © Mackenzie Carlson,"-Candle
 -Wick
 -Casing","-1_Paraffin (N/A)
 -2_Cotton (N/A)
 -3_Aluminum (N/A)",,"-1_
 -2_
--3_",,,,,,,N/A,N/A,,*https://www.youtube.com/watch?v=Rpu5mH5me1Y,N/A,
-3023,Consumer,Kitchen,Clay Brown Sugar Saver,King Arthur Flour © Mackenzie Carlson,-Disk,-1_Clay (N/A),,-1_,,,,,,,N/A,N/A,,,N/A,
-3024,Consumer,Office,Rubber Band (Natural Rubber),Rubber Band © Mackenzie Carlson,-Rubber Band,-1_Latex (N/A),,-1_,,,,,,,N/A,N/A,N/A,*https://www.youtube.com/watch?v=6TIXDbxtzMY,N/A,
-3025,Consumer,Office,Eraser,Eraser © Mackenzie Carlson,-Eraser,-1_Styrene Butadiene Rubber (N/A),,-1_,,,,,,,N/A,N/A,N/A,*https://www.youtube.com/watch?v=v8osKTyQjac,N/A,
-3026,Consumer,Tools,Spring,Spring © Mackenzie Carlson,-Spring,-1_Spring Steel (1049),,-1_,,,,,,,N/A,N/A,N/A,*https://www.youtube.com/watch?v=omLKbKakDoY,N/A,
-3027,Consumer,Tools,Spring,Spring © Mackenzie Carlson,-Spring,-1_Spring Steel (1049),,-1_14.6g,,,,,,,N/A,N/A,N/A,*https://www.youtube.com/watch?v=omLKbKakDoY,N/A,
-3028,Consumer,Tools,Spring,Spring © Mackenzie Carlson,-Spring,-1_Spring Steel (1049),,-1_,,,,,,,N/A,N/A,N/A,*https://www.youtube.com/watch?v=omLKbKakDoY,N/A,
-3029,Consumer,Tools,Spring,Spring © Mackenzie Carlson,-Spring,-1_Spring Steel (1049),,-1_47.4g,,,,,,,N/A,N/A,N/A,*https://www.youtube.com/watch?v=omLKbKakDoY,N/A,
-3030,Consumer,Tools,Spring,Spring © Mackenzie Carlson,-Spring,-1_Spring Steel  (1049),,-1_84.1g,,,,,,,N/A,N/A,N/A,*https://www.youtube.com/watch?v=omLKbKakDoY,N/A,
-3031,Consumer,Tools,Spring (With hooks),Spring with Hooks On Either Side © Mackenzie Carlson,-Spring,-1_Spring Steel (1049),,-1_53.1g,,,,,,,N/A,N/A,N/A,*https://www.youtube.com/watch?v=omLKbKakDoY,N/A,
-3032,Consumer,Entertainment,Balloon (natural rubber -latex),Balloon © Mackenzie Carlson,-Balloon,-1_Latex (N/A),-1_Blow molding (N/A),-1_,,,,,,,,,,"*https://www.youtube.com/watch?v=e7pYoA9gEqc&t=7s
-*https://www.youtube.com/watch?v=8CfL5xl2N1Q&t=230s",N/A,
-3033,Consumer,Grocery,Can (Aluminum),12 fl. oz. can Coca-Cola © Mackenzie Carlson,-Can,-1_Aluminum (1051),,-1_,Coca-Cola,,,,,,N/A,N/A,http://www.coca-colacompany.com,*https://www.youtube.com/watch?v=JyumWUg_MXM,N/A,
-3034,Consumer,Entertainment,iPhone Case,iPhone Case © Mackenzie Carlson,-iPhone Case,-1_,,-1_,,,,,,,N/A,N/A,,,N/A,
-3035,Consumer,Tools,Spring,Small Spring © Mackenzie Carlson,-Spring,-1_Spring Steel (1049),,-1_,,,,,,,N/A,N/A,N/A,*https://www.youtube.com/watch?v=omLKbKakDoY,N/A,
-3036,Consumer,Grocery,Bottle (glass),HandCraft Petite Sirah 2012 © Mackenzie Carlson,"-Bottle
+-3_",,,,,,,N/A,,*https://www.youtube.com/watch?v=Rpu5mH5me1Y,
+3023,N/A,Consumer,Kitchen,Clay Brown Sugar Saver,7R.4,King Arthur Flour © Mackenzie Carlson,-Disk,-1_Clay (N/A),,-1_,,,,,,,N/A,,,
+3024,N/A,Consumer,Office,Rubber Band (Natural Rubber),3L.1,Rubber Band © Mackenzie Carlson,-Rubber Band,-1_Latex (N/A),,-1_,,,,,,,N/A,N/A,*https://www.youtube.com/watch?v=6TIXDbxtzMY,
+3025,N/A,Consumer,Office,Eraser,3L.1,Eraser © Mackenzie Carlson,-Eraser,-1_Styrene Butadiene Rubber (N/A),,-1_,,,,,,,N/A,N/A,*https://www.youtube.com/watch?v=v8osKTyQjac,
+3026,N/A,Consumer,Tools,Spring,2L.3,Spring © Mackenzie Carlson,-Spring,-1_Spring Steel (1049),,-1_,,,,,,,N/A,N/A,*https://www.youtube.com/watch?v=omLKbKakDoY,
+3027,N/A,Consumer,Tools,Spring,2L.3,Spring © Mackenzie Carlson,-Spring,-1_Spring Steel (1049),,-1_14.6g,,,,,,,N/A,N/A,*https://www.youtube.com/watch?v=omLKbKakDoY,
+3028,N/A,Consumer,Tools,Spring,2L.3,Spring © Mackenzie Carlson,-Spring,-1_Spring Steel (1049),,-1_,,,,,,,N/A,N/A,*https://www.youtube.com/watch?v=omLKbKakDoY,
+3029,N/A,Consumer,Tools,Spring,2L.3,Spring © Mackenzie Carlson,-Spring,-1_Spring Steel (1049),,-1_47.4g,,,,,,,N/A,N/A,*https://www.youtube.com/watch?v=omLKbKakDoY,
+3030,N/A,Consumer,Tools,Spring,2L.3,Spring © Mackenzie Carlson,-Spring,-1_Spring Steel  (1049),,-1_84.1g,,,,,,,N/A,N/A,*https://www.youtube.com/watch?v=omLKbKakDoY,
+3031,N/A,Consumer,Tools,Spring (With hooks),2L.3,Spring with Hooks On Either Side © Mackenzie Carlson,-Spring,-1_Spring Steel (1049),,-1_53.1g,,,,,,,N/A,N/A,*https://www.youtube.com/watch?v=omLKbKakDoY,
+3032,N/A,Consumer,Entertainment,Balloon (natural rubber -latex),3L.1,Balloon © Mackenzie Carlson,-Balloon,-1_Latex (N/A),-1_Blow molding (N/A),-1_,,,,,,,,,"*https://www.youtube.com/watch?v=e7pYoA9gEqc&t=7s
+*https://www.youtube.com/watch?v=8CfL5xl2N1Q&t=230s",
+3033,N/A,Consumer,Grocery,Can (Aluminum),,12 fl. oz. can Coca-Cola © Mackenzie Carlson,-Can,-1_Aluminum (1051),,-1_,Coca-Cola,,,,,,N/A,http://www.coca-colacompany.com,*https://www.youtube.com/watch?v=JyumWUg_MXM,
+3034,N/A,Consumer,Entertainment,iPhone Case,,iPhone Case © Mackenzie Carlson,-iPhone Case,-1_,,-1_,,,,,,,N/A,,,
+3035,N/A,Consumer,Tools,Spring,2L.3,Small Spring © Mackenzie Carlson,-Spring,-1_Spring Steel (1049),,-1_,,,,,,,N/A,N/A,*https://www.youtube.com/watch?v=omLKbKakDoY,
+3036,N/A,Consumer,Grocery,Bottle (glass),2L.2,HandCraft Petite Sirah 2012 © Mackenzie Carlson,"-Bottle
 -Cork","-1_Soda lime Glass (1004)
 -2_Cork (1036)","-1_Glass blow molding (2077)
 -2_Boiling (N/A)
@@ -234,7 +234,7 @@ Wine-making process (fermenting...etc.): To produce the wine from grapes and oth
 Glass blow molding: Blowing molten glass into a mold to form the hollowed bottle
 Boiling: The cork wood must be boiled to soften and then airated outdoors for half a year
 Circular sawing: To cut the layers of cork into the right dimensions
-Punch cutting: To cut the cork shapes out from the layers",N/A,"HANDCRAFT
+Punch cutting: To cut the cork shapes out from the layers","HANDCRAFT
 ARTISAN COLLECTION
 PETITE SIRAH
 CALIFORNIA
@@ -250,11 +250,11 @@ VINTED AND BOTTLED BY HANDCRAFT ARTISAN COLLECTION, MANTECA, CA
 GOVERNMENT WARNING: (1) ACCORDING TO THE SURGEON GENERAL, WOMEN SHOULD NOT DRINK ALCOHOLIC BEVERAGES DURING PRAGNANCY BECAUSE OF THE RISK OF BIRTH DEFECTS. (2) CONSUMPTION OF ALCOHOLIC BEVERAGES IMPAIRS YOUR ABILITY TO DRIVE A CAR OR OPERATE MACHINERY, AND MAY CAUSE HEALTH PROBLEMS.",http://www.handcraftwines.com,"*http://www.sciencechannel.com/tv-shows/how-its-made/videos/how-its-made-wine/
 *https://www.youtube.com/watch?v=LUF_5zrFG9c
 *https://www.youtube.com/watch?v=iRGVt6ujZgc
-*https://www.youtube.com/watch?v=X1CgXyBd2nY",N/A,
-3037,Consumer,Kitchen,Banana Leaf Plate,Banana Leaf Plate © Mackenzie Carlson,-Plate,-1_Banana Leaf (N/A),"-1_Natural growth (N/A)
--1_Compression molding (2078)",-1_,,,,,,,,,,,N/A,
-3038,Consumer,Kitchen,Bamboo (Square Cross Section),Bamboo © Mackenzie Carlson,-Tube (culm),-1_Bamboo (1035),-1_Grown through a box (N/A),-1_,,,,,,,,,,,N/A,
-3039,Consumer,"Arts, Crafts, and Sewing",Knitting Needles (Bamboo),24in Takumi Bamboo Premium Circular Knittting Needles © Mackenzie Carlson,"-Needles
+*https://www.youtube.com/watch?v=X1CgXyBd2nY",
+3037,N/A,Consumer,Kitchen,Banana Leaf Plate,,Banana Leaf Plate © Mackenzie Carlson,-Plate,-1_Banana Leaf (N/A),"-1_Natural growth (N/A)
+-1_Compression molding (2078)",-1_,,,,,,,,,,
+3038,N/A,Consumer,Kitchen,Bamboo (Square Cross Section),,Bamboo © Mackenzie Carlson,-Tube (culm),-1_Bamboo (1035),-1_Grown through a box (N/A),-1_,,,,,,,,,,
+3039,-3039_1,Consumer,"Arts, Crafts, and Sewing",Knitting Needles (Bamboo),3L.2,24in Takumi Bamboo Premium Circular Knittting Needles © Mackenzie Carlson,"-Needles
 -Cord
 -Info Sheet
 -Packaging","-1_Bamboo (1035)
@@ -271,7 +271,7 @@ GOVERNMENT WARNING: (1) ACCORDING TO THE SURGEON GENERAL, WOMEN SHOULD NOT DRINK
 -4_Injection molding (2084)","-1_10.0g
 -2_1.6g
 -3_5.6g
--4_2.2g","Clover MFG. CO., LTD.",,,,,,4039,"CIRCULAR KNITTING NEEDLES
+-4_2.2g","Clover MFG. CO., LTD.",,,,,,"CIRCULAR KNITTING NEEDLES
 Clover
 24in (61cm) No. 15 (10.0mm)
 BAMBOO PREMIUM
@@ -289,19 +289,19 @@ Needles: Bamboo
 Cord: Nylon
 Distributed in U.S.A. by CLOVER NEEDLECRAFT, INC.
 www.clover-usa.com
-MADE IN JAPAN",http://www.clover-usa.com/en/50-takumi-needles-,*https://www.youtube.com/watch?v=-AnamT-7Aiw,N/A,
-3040,Consumer,Kitchen,Sandwich Bag (Bees Wax Cotton Cloth),Wax Paper Bag © Mackenzie Carlson,-Wax Paper Bag,-1_Paper and Cardboard (1040) -2_Wax (N/A),,-1_,Bee's Wrap,,,,,,N/A,N/A,http://www.beeswrap.com,,N/A,
-3041,Interior,Housing Parts,Door Handle,Door Handle,"-Handle
+MADE IN JAPAN",http://www.clover-usa.com/en/50-takumi-needles-,*https://www.youtube.com/watch?v=-AnamT-7Aiw,
+3040,N/A,Consumer,Kitchen,Sandwich Bag (Bees Wax Cotton Cloth),3L.4,Wax Paper Bag © Mackenzie Carlson,-Wax Paper Bag,-1_Paper and Cardboard (1040) -2_Wax (N/A),,-1_,Bee's Wrap,,,,,,N/A,http://www.beeswrap.com,,
+3041,N/A,Interior,Housing Parts,Door Handle,2L.3,Door Handle,"-Handle
 -Screws
 -Packaging","-1_
 -2_
 -3_Paper and Cardboard (1040)",,"-1_48.9g
 -2_1.3g
--3_<0.1g",,$7.95,,,Traditional metal door handle,,,N/A,N/A,*https://www.youtube.com/watch?v=wcGhCdEmeUM,N/A,
-3042,Consumer,Kitchen,Spatula (Bamboo),Bamoo Spatula © Mackenzie Carlson,-Spatula,-1_Bamboo (1035),,-1_,,,,,,,N/A,N/A,,,N/A,
-3043,Consumer,Kitchen,Spoon (Bamboo),Bamboo Spoon © Mackenzie Carlson,-Spoon,-1_Bamboo (1035),,-1_,,,,,,,N/A,N/A,,,N/A,
-3044,Consumer,Kitchen,Skewer Sticks (Bamboo),Bamboo Skewer Sticks © Mackenzie Carlson,-Skewers,-1_Bamboo (1035),,-1_,,,,,,,,,,,N/A,
-3045,Consumer,Kitchen,"Cutlery (Polypropylene, 100% recycled, green) ","Apple Green Cutlery (8 forks, 8 spoons, 8 knives) © Xiaoran Zhu","-Cutlery
+-3_<0.1g",,$7.95,,,Traditional metal door handle,,N/A,N/A,*https://www.youtube.com/watch?v=wcGhCdEmeUM,
+3042,N/A,Consumer,Kitchen,Spatula (Bamboo),3L.4,Bamoo Spatula © Mackenzie Carlson,-Spatula,-1_Bamboo (1035),,-1_,,,,,,,N/A,,,
+3043,N/A,Consumer,Kitchen,Spoon (Bamboo),3L.4,Bamboo Spoon © Mackenzie Carlson,-Spoon,-1_Bamboo (1035),,-1_,,,,,,,N/A,,,
+3044,N/A,Consumer,Kitchen,Skewer Sticks (Bamboo),2L.2,Bamboo Skewer Sticks © Mackenzie Carlson,-Skewers,-1_Bamboo (1035),,-1_,,,,,,,,,,
+3045,-3045_1,Consumer,Kitchen,"Cutlery (Polypropylene, 100% recycled, green) ",3L.1,"Apple Green Cutlery (8 forks, 8 spoons, 8 knives) © Xiaoran Zhu","-Cutlery
 -Packaging","-1_Polypropylene (1092)
 -2_Polyethylene Terephthalate (1087) 
 -2_Linear Low Density Polyethylene (1086) ","-1_Injection molding (2084)
@@ -314,7 +314,7 @@ Linear Low Density Polyethylene: Compared to LDPE: higher tensile strength, high
 
 Injection molding: Molten plastic is injected into a steel molding where it is cooled
 Extrusion blow molding: Melted plastic blown into a long, thin tube for molding
-Printing: Used to apply product labels, instructions, warning, and advertisements",4085,"CELEBRATE REUSE
+Printing: Used to apply product labels, instructions, warning, and advertisements","CELEBRATE REUSE
 8 SETS
 preserve®
 LIGHT ENOUGH FOR A PARTY, DURABLE ENOUGH FOR EVERY DAY
@@ -329,14 +329,14 @@ MADE WITH LOVE & RECYCLED PLASTIC: Preserve cutlery is made from 100% recycled p
 Learn more at preserveproducts.com
 PLEASE REUSE THIS BAG made from PET and LLDPE
 888-354-7296",https://www.preserveproducts.com,"*https://www.youtube.com/watch?v=oxN70ktR0jg
-*https://www.youtube.com/watch?v=aQ4O8MMDuH8",N/A,
-3046,Consumer,Tools,Spring,Spring © Mackenzie Carlson,-Spring,-1_Spring Steel (1049),,-1_,,,,,,,,,,*https://www.youtube.com/watch?v=omLKbKakDoY,N/A,
-3047,Consumer,Tools,Spring,Spring © Mackenzie Carlson,-Spring,-1_Spring Steel (1049),,-1_,,,,,,,N/A,N/A,N/A,*https://www.youtube.com/watch?v=omLKbKakDoY,N/A,
-3048,Consumer,Tools,Spring,Spring © Mackenzie Carlson,-Spring,-1_Spring Steel (1049),,-1_85.2g,,,,,,,N/A,N/A,N/A,*https://www.youtube.com/watch?v=omLKbKakDoY,N/A,
-3049,Consumer,Kitchen,Cutlery (Ingeo Plastic),Ingeo Plastic Compostable Spoon © Mackenzie Carlson,"-Cutlery
+*https://www.youtube.com/watch?v=aQ4O8MMDuH8",
+3046,N/A,Consumer,Tools,Spring,2L.3,Spring © Mackenzie Carlson,-Spring,-1_Spring Steel (1049),,-1_,,,,,,,,,*https://www.youtube.com/watch?v=omLKbKakDoY,
+3047,N/A,Consumer,Tools,Spring,2L.3,Spring © Mackenzie Carlson,-Spring,-1_Spring Steel (1049),,-1_,,,,,,,N/A,N/A,*https://www.youtube.com/watch?v=omLKbKakDoY,
+3048,N/A,Consumer,Tools,Spring,2L.3,Spring © Mackenzie Carlson,-Spring,-1_Spring Steel (1049),,-1_85.2g,,,,,,,N/A,N/A,*https://www.youtube.com/watch?v=omLKbKakDoY,
+3049,N/A,Consumer,Kitchen,Cutlery (Ingeo Plastic),3L.1,Ingeo Plastic Compostable Spoon © Mackenzie Carlson,"-Cutlery
 -Packaging",-1_Polylactic Acid (N/A),,"-1_
--2_",,,,,,,,,,*https://www.youtube.com/watch?v=oxN70ktR0jg&t=1s,N/A,
-3050,Consumer,Kitchen,"Cutlery (Polypropylene, white, Shurfine)","Combo Pack Heavy Duty Plastic (Shatter Resistant) (8 forks, 8 spoons, 8 knives) © Xiaoran Zhu","-Cutlery
+-2_",,,,,,,,,*https://www.youtube.com/watch?v=oxN70ktR0jg&t=1s,
+3050,N/A,Consumer,Kitchen,"Cutlery (Polypropylene, white, Shurfine)",3L.1,"Combo Pack Heavy Duty Plastic (Shatter Resistant) (8 forks, 8 spoons, 8 knives) © Xiaoran Zhu","-Cutlery
 -Packaging","-1_Polypropylene (1092)
 -2_Paper and cardboard (1040)","-1_Injection molding (2084)
 -2_Pulping and drying (N/A)
@@ -348,7 +348,7 @@ Paper and cardboard: A thick paper-based material
 Injection molding: Molten plastic is injected into a steel molding where it is cooled
 Pulping and drying: Processes to make thin sheets of Paper and cardboard
 Cropping/guillotine: The upper blade is forced past a lower one to shear sheet material along a straight line
-Printing: Used to apply product labels, instructions, warning, and advertisements",4099,"Shurfine®
+Printing: Used to apply product labels, instructions, warning, and advertisements","Shurfine®
 Combo Pack
 Heavy Duty Plastic
 SHATTER RESISTANT
@@ -357,66 +357,66 @@ SHATTER RESISTANT
 8 Knives
 MADE IN U.S.A.
 Quality GUARANTEED SATISFACTION",http://shurfinebrand.com,"*https://www.youtube.com/watch?v=oxN70ktR0jg
-*https://www.youtube.com/watch?v=-AnamT-7Aiw",N/A,
-3051,Consumer,Kitchen,Cutlery (Fork (plastic),Clear Plastic Fork © Mackenzie Carlson,"-Cutlery
+*https://www.youtube.com/watch?v=-AnamT-7Aiw",
+3051,N/A,Consumer,Kitchen,Cutlery (Fork (plastic),3L.1,Clear Plastic Fork © Mackenzie Carlson,"-Cutlery
 -Packaging","-1_
 -2_Paper and cardboard (1040)",,"-1_
--2_",,,,,,,,,,*https://www.youtube.com/watch?v=oxN70ktR0jg&t=1s,N/A,
-3052,Consumer,Kitchen,Cutlery (plastic),Plastic Silverware © Mackenzie Carlson,"-Cutlery
+-2_",,,,,,,,,*https://www.youtube.com/watch?v=oxN70ktR0jg&t=1s,
+3052,N/A,Consumer,Kitchen,Cutlery (plastic),3L.1,Plastic Silverware © Mackenzie Carlson,"-Cutlery
 -Packaging","-1_
 -2_Paper and cardboard (1040)",,"-1_
--2_",,,,,,,,,,*https://www.youtube.com/watch?v=oxN70ktR0jg&t=1s,N/A,
-3053,Sports and Leisure,Racing,"Cycling helmet (red, Schwinn)",Red Merge Helmet © Mackenzie Carlson,"-Foam Core
+-2_",,,,,,,,,*https://www.youtube.com/watch?v=oxN70ktR0jg&t=1s,
+3053,N/A,Sports and Leisure,Racing,"Cycling helmet (red, Schwinn)",,Red Merge Helmet © Mackenzie Carlson,"-Foam Core
 -Shell","-1_
 -2_Paper and cardboard (1040)",,"-1_
--2_",Schwinn,,,,,,,,http://www.schwinnbikes.com/usa/,*https://www.youtube.com/watch?v=MeZa-LsqEW4,N/A,
-3054,Consumer,Kitchen,Kitchen Spatula (Silicone),Silicone Cookie Spatula © Mackenzie Carlson,"-Spatula Head and Handle
+-2_",Schwinn,,,,,,,http://www.schwinnbikes.com/usa/,*https://www.youtube.com/watch?v=MeZa-LsqEW4,
+3054,N/A,Consumer,Kitchen,Kitchen Spatula (Silicone),5L.2,Silicone Cookie Spatula © Mackenzie Carlson,"-Spatula Head and Handle
 -Metal Piece","-1_Silicone Rubber (1078)
--2_Stainless Steel (1050)",,-1_65.7g,OXO,,,,,,N/A,HEAT RESISTANT TO 600ºF/315ºC,https://www.oxo.com,,N/A,
-3055,Consumer,Kitchen,"Turner (Stainless Steel, Nylon, slotted)",Stainless Steel Nylon Head Turner © Mackenzie Carlson,"-Head Turner Head
+-2_Stainless Steel (1050)",,-1_65.7g,OXO,,,,,,HEAT RESISTANT TO 600ºF/315ºC,https://www.oxo.com,,
+3055,N/A,Consumer,Kitchen,"Turner (Stainless Steel, Nylon, slotted)",,Stainless Steel Nylon Head Turner © Mackenzie Carlson,"-Head Turner Head
 -Metal Handle","-1_Nylon 6 (1083)
--2_Stainless Steel (1050)",,-1_107.3g,Oneida,,,,,,N/A,N/A,http://www.oneida.com,,N/A,
-3056,Consumer,Kitchen,Spatula (metal),Metal Spatula © Mackenzie Carlson,"-Spatula
+-2_Stainless Steel (1050)",,-1_107.3g,Oneida,,,,,,N/A,http://www.oneida.com,,
+3056,N/A,Consumer,Kitchen,Spatula (metal),,Metal Spatula © Mackenzie Carlson,"-Spatula
 -Handle",,,"-1_
--2_",,,,,,,N/A,N/A,,,N/A,
-3057,Consumer,Kitchen,Cooking Pot (Enamel on Steel),Cooking Pot © Mackenzie Carlson,"-Pot and Lid
+-2_",,,,,,,N/A,,,
+3057,N/A,Consumer,Kitchen,Cooking Pot (Enamel on Steel),,Cooking Pot © Mackenzie Carlson,"-Pot and Lid
 -Coating","-1_
 -2_",,"-1_
--2_",,,,,,,N/A,N/A,,*https://www.youtube.com/watch?v=ukHzaJAvkfY,N/A,
-3058,Consumer,Kitchen,Frying Pan (T-fal),Professional Total Nonstick Oven Safe Thermo-Spot Heat Indicator Fry Pan © Mackenzie Carlson,"-Pan
+-2_",,,,,,,N/A,,*https://www.youtube.com/watch?v=ukHzaJAvkfY,
+3058,N/A,Consumer,Kitchen,Frying Pan (T-fal),,Professional Total Nonstick Oven Safe Thermo-Spot Heat Indicator Fry Pan © Mackenzie Carlson,"-Pan
 -Handle (metal part)
 -Handle (silicone part)","-1_
 -2_
--3_",,-1_421.4g,T-fal,,,,,,N/A,N/A,http://www.t-falusa.com,*http://www.sciencechannel.com/videos/frying-pans,N/A,
-3059,Consumer,Kitchen,Frying Pan (Green+Life),Green+Life Soft Grip Black Frypan © Mackenzie Carlson,"-Pan
+-3_",,-1_421.4g,T-fal,,,,,,N/A,http://www.t-falusa.com,*http://www.sciencechannel.com/videos/frying-pans,
+3059,N/A,Consumer,Kitchen,Frying Pan (Green+Life),,Green+Life Soft Grip Black Frypan © Mackenzie Carlson,"-Pan
 -Handle (metal part)
 -Handle (silicone part)","-1_
 -2_
--3_",,-1_413.3g,The Cookware Company,,,,,,N/A,N/A,https://www.greenlife-cookware.com,*http://www.sciencechannel.com/videos/frying-pans,N/A,
-3060,Consumer,Kitchen,Frying Pan (Cast Iron),Cast Iron Skillet © Mackenzie Carlson,-Skillet,-1_Cast Iron (1045),"-1_Furnace mixing (N/A)
+-3_",,-1_413.3g,The Cookware Company,,,,,,N/A,https://www.greenlife-cookware.com,*http://www.sciencechannel.com/videos/frying-pans,
+3060,-3060_1,Consumer,Kitchen,Frying Pan (Cast Iron),,Cast Iron Skillet © Mackenzie Carlson,-Skillet,-1_Cast Iron (1045),"-1_Furnace mixing (N/A)
 -1_Sand casting (2045)
 -1_Abrasive jet blasting (2072)
 -1_Grinding and mechanical polishing (2107)
 -1_Washing and drying (N/A)
--1_Oil electro static spray seasoning (2114)",-1_1480.0g,Lodge,,,,,,N/A,N/A,http://www.lodgemfg.com,*http://www.sciencechannel.com/tv-shows/how-its-made/videos/how-its-made-cast-iron-cook-ware/,N/A,
-3061,Consumer,Kitchen,Marble Sheet,Marble Sheet © Mackenzie Carlson,-Board,-1_Marble (1011),,-1_,,,,,,,N/A,N/A,,*https://www.youtube.com/watch?v=INWXbNpqvOo,N/A,
-3062,Consumer,Kitchen,Paring Knife (Wusthof),Wüsthof SILVERPOINT 8cm Paring Knife © Mackenzie Carlson,"-Blade
+-1_Oil electro static spray seasoning (2114)",-1_1480.0g,Lodge,,,,,,N/A,http://www.lodgemfg.com,*http://www.sciencechannel.com/tv-shows/how-its-made/videos/how-its-made-cast-iron-cook-ware/,
+3061,N/A,Consumer,Kitchen,Marble Sheet,3R.4,Marble Sheet © Mackenzie Carlson,-Board,-1_Marble (1011),,-1_,,,,,,,N/A,,*https://www.youtube.com/watch?v=INWXbNpqvOo,
+3062,N/A,Consumer,Kitchen,Paring Knife (Wusthof),2R.2,Wüsthof SILVERPOINT 8cm Paring Knife © Mackenzie Carlson,"-Blade
 -Handle","-1_
 -2_
-",,-1_22.8g,Wüsthof,,,,,,N/A,N/A,http://www.wusthof.com,*https://www.youtube.com/watch?v=lL-8FodwfNo,N/A,
-3063,Consumer,Kitchen,Peeler (Rosenhaus Swiss),SwissPro Vegetable Peeler © Mackenzie Carlson,"-Blade
--Handle","-1_
--2_
-",,"-1_
--2_",Rosenhaus Swiss,,,,,,N/A,N/A,http://swissprousa.com,*https://www.youtube.com/watch?v=uSTL2hvo48k,N/A,
-3064,Consumer,Kitchen,Peeler (Kuhn Rikon),Original Swiss Peeler - White © Mackenzie Carlson,"-Blade
+",,-1_22.8g,Wüsthof,,,,,,N/A,http://www.wusthof.com,*https://www.youtube.com/watch?v=lL-8FodwfNo,
+3063,-3063_1,Consumer,Kitchen,Peeler (Rosenhaus Swiss),2R.3,SwissPro Vegetable Peeler © Mackenzie Carlson,"-Blade
 -Handle","-1_
 -2_
 ",,"-1_
--2_",Kuhn Rikon,,,,,,N/A,N/A,http://www.kuhnrikonshop.com,*https://www.youtube.com/watch?v=uSTL2hvo48k,N/A,
-3065,Consumer,Tools,Arrowhead (Obsidian),Arrowhead © Mackenzie Carlson,-Blade,-1_Obsidian (N/A),-1_Quenching (N/A),-1_,,,,,,,N/A,N/A,,,N/A,
-3066,,,Slate Tile,Slate Tile © Mackenzie Carlson,-Tile,-1_Slate (1013),,-1_,,,,,,,N/A,N/A,N/A,*http://www.sciencechannel.com/stone-flooring,N/A,
-3067,Consumer,Kitchen,"Paring Cutlery Set (3-piece, ceramic, Hampton Forge)",3-Piece Ceramic Coated Paring Cutlery Set © Xiaoran Zhu,"-Blade
+-2_",Rosenhaus Swiss,,,,,,N/A,http://swissprousa.com,*https://www.youtube.com/watch?v=uSTL2hvo48k,
+3064,-3064_1,Consumer,Kitchen,Peeler (Kuhn Rikon),2R.3,Original Swiss Peeler - White © Mackenzie Carlson,"-Blade
+-Handle","-1_
+-2_
+",,"-1_
+-2_",Kuhn Rikon,,,,,,N/A,http://www.kuhnrikonshop.com,*https://www.youtube.com/watch?v=uSTL2hvo48k,
+3065,N/A,Consumer,Tools,Arrowhead (Obsidian),2L.2,Arrowhead © Mackenzie Carlson,-Blade,-1_Obsidian (N/A),-1_Quenching (N/A),-1_,,,,,,,N/A,,,
+3066,N/A,,,Slate Tile,2L.2,Slate Tile © Mackenzie Carlson,-Tile,-1_Slate (1013),,-1_,,,,,,,N/A,N/A,*http://www.sciencechannel.com/stone-flooring,
+3067,-3067_1,Consumer,Kitchen,"Paring Cutlery Set (3-piece, ceramic, Hampton Forge)",2R.2,3-Piece Ceramic Coated Paring Cutlery Set © Xiaoran Zhu,"-Blade
 -Coating
 -Handle","-1_Steel (1049)
 -2_
@@ -424,7 +424,7 @@ Quality GUARANTEED SATISFACTION",http://shurfinebrand.com,"*https://www.youtube.
 -2_45.7g
 -3_49.9g
 -4_28.7g
--5_9.0g",Hampton Forge Tomodachi Cutlery,,,,"Literally meaning 'friend', Tomodachi represents a lively, helpful presence in the kitchen. Splashes of color, useful features and lasing quality make Tomodachi welcome friends inside kitchens everywhere. Like a good friend, Tomodachi makes life easier and playfully adds some fun. Accessible and affordable without compromising the promise of quality. This Tomodachi features a splash of color and an equally friendly ergonomic design. With a contoured handle and oversized blade, cutting action is fast and comfortable. Resin-coated fine-edge blades provide superior sharpness.",,4067,"HAMPTON FORGE®
+-5_9.0g",Hampton Forge Tomodachi Cutlery,,,,"Literally meaning 'friend', Tomodachi represents a lively, helpful presence in the kitchen. Splashes of color, useful features and lasing quality make Tomodachi welcome friends inside kitchens everywhere. Like a good friend, Tomodachi makes life easier and playfully adds some fun. Accessible and affordable without compromising the promise of quality. This Tomodachi features a splash of color and an equally friendly ergonomic design. With a contoured handle and oversized blade, cutting action is fast and comfortable. Resin-coated fine-edge blades provide superior sharpness.",,"HAMPTON FORGE®
 3.5in Paring Knife
 3in Bird's Beak Knife
 Super sharp ceramic coated blades
@@ -435,14 +435,14 @@ Made in China
 3pc. Paring
 See more at www.hamptonforge.com
 CERAMIC COATED BLADES
-LIMITED 25 YEAR WARRANTY",www.hamptonforge.com,*https://www.youtube.com/watch?v=vrBffC4F3-I,N/A,
-3068,Consumer,Kitchen,"Paring Knife (ceramic, Kyocera)",3in Advanced Ceramics Paring Knife © Xiaoran Zhu,"-Knife
+LIMITED 25 YEAR WARRANTY",www.hamptonforge.com,*https://www.youtube.com/watch?v=vrBffC4F3-I,
+3068,-3068_1,Consumer,Kitchen,"Paring Knife (ceramic, Kyocera)",2R.2,3in Advanced Ceramics Paring Knife © Xiaoran Zhu,"-Knife
 -Packaging
 -Info Sheets","-1_
 -2_
 -3_Paper and cardboard (1040)",,"-1_43.3g
 -2_35.7g
--3_14.5g",Kyocera,$19.99,Board & Basket,,"Kyocera's bests selling 3-inch advanced ceramic paring knife is just the right size for detailed tasks like trimming, peeling, mincing and creating garnishes. Perfect for the home cook, this knife will be used daily, quickly becoming a favorite in the kitchen. Ideal for fruits, vegetables and boneless meats. Packaged in an acetate box, a great tool for any chef.",,4068,"Paring Knife
+-3_14.5g",Kyocera,$19.99,Board & Basket,,"Kyocera's bests selling 3-inch advanced ceramic paring knife is just the right size for detailed tasks like trimming, peeling, mincing and creating garnishes. Perfect for the home cook, this knife will be used daily, quickly becoming a favorite in the kitchen. Ideal for fruits, vegetables and boneless meats. Packaged in an acetate box, a great tool for any chef.",,"Paring Knife
 STOP! To protect your knife from damage, please read care & use instructions!
 Ceramic blade for sharp, clean cutting. Dishwasher safe.
 THE CERAMIC ADVANTAGE!
@@ -457,20 +457,20 @@ Blade manufactured in Japan
 Recycle
 KYOCERA CORPORATION
 800-537-0294
-www.KyoceraAdvancedCeramics.com",www.kyoceraadvancedceramics.com,*https://www.youtube.com/watch?v=vrBffC4F3-I,N/A,
-3069,Consumer,Kitchen,"Peeler (Ceramic Blade, Kyocera)",Advanced Ceramics Ceramic Peeler © Mackenzie Carlson,"-Handle
+www.KyoceraAdvancedCeramics.com",www.kyoceraadvancedceramics.com,*https://www.youtube.com/watch?v=vrBffC4F3-I,
+3069,N/A,Consumer,Kitchen,"Peeler (Ceramic Blade, Kyocera)",2R.3,Advanced Ceramics Ceramic Peeler © Mackenzie Carlson,"-Handle
 -Blade
 -Packaging","-1_Polycarbonate (1084)
 -2_Zirconia (1021)
 -3_Paper and cardboard (1040)",,"-1_
 -2_
 -3_",Kyocera,$9.99,Board & Basket,9/1/2014,Kyocera’s horizontal Y peeler features two eye corers to remove imperfections and a comfortable ergonomic handle that complements the Revolution Series cutlery line.,"Polycarbonate: Hard plastic that's light and waterproof
-Zirconia: Used to create ceramic products; low thermal conductivity; dense; can maintain sharp edges longer than othertypes of ceramic materials",N/A,"KYOCERA
+Zirconia: Used to create ceramic products; low thermal conductivity; dense; can maintain sharp edges longer than othertypes of ceramic materials","KYOCERA
 Sharp
 Pure
 Lightweight",http://kyoceraadvancedceramics.com,"*https://www.youtube.com/watch?v=uSTL2hvo48k
-*https://www.youtube.com/watch?v=-AnamT-7Aiw",N/A,
-3070,Consumer,Kitchen,"Cutlery (Polypropylene, white, Creative Convention) ","Sensations Plastic Cutlery (16 forks, 8 spoons, 8 knives) © Xiaoran Zhu","-Cutlery
+*https://www.youtube.com/watch?v=-AnamT-7Aiw",
+3070,-3070_1,Consumer,Kitchen,"Cutlery (Polypropylene, white, Creative Convention) ",,"Sensations Plastic Cutlery (16 forks, 8 spoons, 8 knives) © Xiaoran Zhu","-Cutlery
 -Packaging","-1_Polypropylene (1092)
 -2_Paper and cardboard (1040)","-1_Injection molding (2084)
 -2_Pulping and drying (N/A)
@@ -482,7 +482,7 @@ Paper and cardboard: A thick paper-based material
 Injection molding: Molten plastic is injected into a steel molding where it is cooled
 Pulping and drying: Processes to make thin sheets of Paper and cardboard
 Cropping/guillotine: The upper blade is forced past a lower one to shear sheet material along a straight line
-Printing: Used to apply product labels, instructions, warning, and advertisements",4070,"SENSATIONS®
+Printing: Used to apply product labels, instructions, warning, and advertisements","SENSATIONS®
 TWICE THE FORKS!
 32 Pieces
 16 Forks
@@ -493,8 +493,8 @@ REUSABLE
 HEAVYWEIGHT
 Packaging is 100% Recyclable 
 Please dispose of packaging responsibly ",http://www.creativeconverting.com,"*https://www.youtube.com/watch?v=oxN70ktR0jg
-*https://www.youtube.com/watch?v=-AnamT-7Aiw",N/A,
-3071,Consumer,Kitchen,Coffee Brewing Cone (polypropylene),1 Cup Red Brewing Cone with Sample Pack of 5 Super Premium Natural Brown #2 Cone Coffee Filters © Xiaoran Zhu,"-Brewing Cone
+*https://www.youtube.com/watch?v=-AnamT-7Aiw",
+3071,-3071_1,Consumer,Kitchen,Coffee Brewing Cone (polypropylene),3R.1,1 Cup Red Brewing Cone with Sample Pack of 5 Super Premium Natural Brown #2 Cone Coffee Filters © Xiaoran Zhu,"-Brewing Cone
 -Filters
 -Filter Packaging
 -Box Packaging","-1_Polypropylene (1092)
@@ -528,7 +528,7 @@ Cropping/guillotine: The upper blade is forced past a lower one to shear sheet m
 Texturing: Used to puncture filtration holes and create designs and patterns
 Hot stamping: For the logo and labels
 Extrusion blow molding: Melted plastic blown into a long, thin tube for molding
-Printing: Used to apply product labels, instructions, warning, and advertisements",4071,"Melitta®
+Printing: Used to apply product labels, instructions, warning, and advertisements","Melitta®
 POUR-OVER™ COFFEE BREWER
 Color
 1 CUP Brewing Cone
@@ -548,8 +548,8 @@ BREWS BETTER TASTING COFFEE
 Fits all 4-6 cup electric & 2 cup non-electric cone coffee makers
 Add More Flavor to Your Life™
 50¢ off on any one (1) box of Melitta® Cone Filters",http://melitta.com,"*https://www.youtube.com/watch?v=JjDvIm0uX7Y&t=20s
-*https://www.youtube.com/watch?v=-AnamT-7Aiw",N/A,
-3072,Consumer,Kitchen,Coffee Filter for Cone (Bleached Paper),40 Super Premium #2 Cone Coffee Filters © Xiaoran Zhu,"-Filters
+*https://www.youtube.com/watch?v=-AnamT-7Aiw",
+3072,-3072_1,Consumer,Kitchen,Coffee Filter for Cone (Bleached Paper),3R.1,40 Super Premium #2 Cone Coffee Filters © Xiaoran Zhu,"-Filters
 -Packaging","-1_Paper Pulp (N/A)
 -2_Paper and cardboard (1040)","-1_Pulping and drying (N/A)
 -1_Powder rolling (2057)
@@ -569,7 +569,7 @@ Calendaring: Feeding through continuous rolls to create a long sheet
 Cropping/guillotine: Used in cutting the sheets and the final filter shape
 Texturing: Used to puncture filtration holes and create designs and patterns
 Hot stamping: For the logo and labels
-Printing: Used to apply product labels, instructions, warning, and advertisements",4072,"Melitta®
+Printing: Used to apply product labels, instructions, warning, and advertisements","Melitta®
 FLAVOR ENHANCING MICRO-PERFORATIONS
 40 CONE FILTERS
 BREWS BETTER TASTING COFFEE
@@ -580,8 +580,8 @@ www.melitta.com • 1.888.635.4882 • Facebook.com/MelittaUSA
 Bring Home the Right Size Cone Filter
 MADE IN THE USA
 RECYCLABLE",http://melitta.com,"*https://www.youtube.com/watch?v=JjDvIm0uX7Y&t=20s
-*https://www.youtube.com/watch?v=-AnamT-7Aiw",N/A,
-3073,Consumer,Kitchen,Coffee Filter for Cone (Unbleached Paper),40 Super Premium Natural Brown #2 Cone Coffee Filters © Xiaoran Zhu,"-Filters
+*https://www.youtube.com/watch?v=-AnamT-7Aiw",
+3073,-3073_1,Consumer,Kitchen,Coffee Filter for Cone (Unbleached Paper),3R.1,40 Super Premium Natural Brown #2 Cone Coffee Filters © Xiaoran Zhu,"-Filters
 -Packaging","-1_Paper Pulp (N/A)
 -2_Paper and cardboard (1040)","-1_Pulping and drying (N/A)
 -1_Powder rolling (2057)
@@ -601,7 +601,7 @@ Calendaring: Feeding through continuous rolls to create a long sheet
 Cropping/guillotine: Used in cutting the sheets and the final filter shape
 Texturing: Used to puncture filtration holes and create designs and patterns
 Hot stamping: For the logo and labels
-Printing: Used to apply product labels, instructions, warning, and advertisements",4073,"Melitta®
+Printing: Used to apply product labels, instructions, warning, and advertisements","Melitta®
 FLAVOR ENHANCING MICRO-PERFORATIONS
 40 NATURAL BROWN® CONE FILTERS
 BREWS BETTER TASTING COFFEE
@@ -614,8 +614,8 @@ www.melitta.com • 1.888.635.4882 • Facebook.com/MelittaUSA
 Bring Home the Right Size Cone Filter
 MADE IN THE USA
 RECYCLABLE",http://melitta.com,"*https://www.youtube.com/watch?v=JjDvIm0uX7Y&t=20s
-*https://www.youtube.com/watch?v=-AnamT-7Aiw",N/A,
-3074,Consumer,Kitchen,"Disposable Cutlery (Starch, 100%) ","Return Plastic Cutlery (8 forks, 8 spoons, 8 knives) © Xiaoran Zhu","-Cutlery
+*https://www.youtube.com/watch?v=-AnamT-7Aiw",
+3074,-3074_1,Consumer,Kitchen,"Disposable Cutlery (Starch, 100%) ",3L.1,"Return Plastic Cutlery (8 forks, 8 spoons, 8 knives) © Xiaoran Zhu","-Cutlery
 -Packaging","-1_Natural Starch (1097)
 -2_Paper and cardboard (1040)","-1_Injection molding (2080)
 -2_Pulping and drying (N/A)
@@ -629,7 +629,7 @@ Paper and cardboard: A thick paper-based material
 
 Injection molding: Molten bioplastic is injected into a steel molding where it is cooled
 Pulping and drying: Processes to make thin sheets of Paper and cardboard
-Printing: Used to apply product labels, instructions, warning, and advertisements",4074,"return®
+Printing: Used to apply product labels, instructions, warning, and advertisements","return®
 the throw away that goes away®
 PREMIUM FULL SIZE
 MADE FROM NATURAL STARCH
@@ -646,8 +646,8 @@ yumieco.com
 MADE IN CHINA
 COMPOSTABLE IN A COMMERCIAL FACILITY. APPROPRIATE COMMERCIAL COMPOSTING FACILITIES MAY NOT EXIST IN YOUR COMMUNITY.
 For More Information Visit: (QR Code)",http://www.yumiecostore.com,"*https://www.youtube.com/watch?v=oxN70ktR0jg
-*https://www.youtube.com/watch?v=-AnamT-7Aiw",N/A,
-3075,Consumer,Kitchen,Coffee Filter (Bamboo),80 Bamboo #2 Cone Coffee Filters © Xiaoran Zhu,"-Filter
+*https://www.youtube.com/watch?v=-AnamT-7Aiw",
+3075,-3075_1,Consumer,Kitchen,Coffee Filter (Bamboo),,80 Bamboo #2 Cone Coffee Filters © Xiaoran Zhu,"-Filter
 -Packaging","-1_Bamboo (1035)
 -1_Paper Pulp (N/A)
 -2_Paper and cardboard (1040)","-1_Pulping and drying (N/A)
@@ -670,7 +670,7 @@ Calendaring: Feeding through continuous rolls to create a long sheet
 Cropping/guillotine: Used in cutting the sheets and the final filter shape
 Texturing: Used to puncture filtration holes and create designs and patterns
 Hot stamping: For the logo and labels
-Printing: Used to apply product labels, instructions, warning, and advertisements",4075,"Melitta®
+Printing: Used to apply product labels, instructions, warning, and advertisements","Melitta®
 EARTH FRIENDLY Sustainable Resource
 80 CONE FILTERS
 Made with 60% Bamboo 
@@ -686,8 +686,8 @@ Bring Home the Right Size Cone Filter
 RECYCLED Paper and cardboard
 RECYCLABLE
 MADE IN THE USA",http://melitta.com,"*https://www.youtube.com/watch?v=JjDvIm0uX7Y&t=20s
-*https://www.youtube.com/watch?v=-AnamT-7Aiw",N/A,
-3076,Consumer,Kitchen,Coffee Filter System,JavaJig Reusable Coffee Filter System (2 Reusable Cups and 30 Coffee Filters) © Xiaoran Zhu,"-Cups
+*https://www.youtube.com/watch?v=-AnamT-7Aiw",
+3076,-3076_1,Consumer,Kitchen,Coffee Filter System,3R.1,JavaJig Reusable Coffee Filter System (2 Reusable Cups and 30 Coffee Filters) © Xiaoran Zhu,"-Cups
 -Filters
 -Packaging","-1_Polypropylene (1092)
 -2_Paper Pulp (N/A)
@@ -710,7 +710,7 @@ Powder rolling: To rid of moisure in the wood pulp to make thin paper
 Calendaring: Feeding through continuous rolls to create a long sheet
 Cropping/guillotine: Used in cutting the sheets and the final filter shape
 Texturing: Used to puncture filtration holes and create designs and patterns
-Printing: Used to apply product labels, instructions, warning, and advertisements",4076,"Melitta®
+Printing: Used to apply product labels, instructions, warning, and advertisements","Melitta®
 Reusable Coffee Filter System for use with most Keurig Inc. style Single Serve Coffee Brewers
 BPA FREE
 INCLUDES: 2 Reusable Cups & 30 Coffee Filters
@@ -725,8 +725,8 @@ Economical
 Environmental
 RECYCLABLE
 MADE IN USA",http://melitta.com,"*https://www.youtube.com/watch?v=JjDvIm0uX7Y&t=20s
-*https://www.youtube.com/watch?v=-AnamT-7Aiw",N/A,
-3077,Consumer,Cleaning,Household Gloves (Natural Rubber),Fair Trade FSC Certified Natural Rubber Household Gloves Lightly Dusted with Cotton © Xiaoran Zhu,"-Gloves
+*https://www.youtube.com/watch?v=-AnamT-7Aiw",
+3077,-3077_1,Consumer,Cleaning,Household Gloves (Natural Rubber),,Fair Trade FSC Certified Natural Rubber Household Gloves Lightly Dusted with Cotton © Xiaoran Zhu,"-Gloves
 -Packaging","-1_Natural Rubber (1074)
 -1_Cotton (1112)
 -2_Paper and cardboard (1040)","-1_Dip forming (N/A)
@@ -748,7 +748,7 @@ Cotton powder coating: Dusting inside of gloves with cotton
 Recycling: Paper recycling used for packaging
 Pulping and drying: Processes to make thin sheets of Paper and cardboard
 Cropping/guillotine: The upper blade is forced past a lower one to shear sheet material along a straight line
-Printing: Used to apply product labels, instructions, warning, and advertisements",4077,"ENVIRONMENT FRIENDLY PRODUCTS
+Printing: Used to apply product labels, instructions, warning, and advertisements","ENVIRONMENT FRIENDLY PRODUCTS
 IF YOU CARE®
 Quality with Integrity®
 Fair Trade FSC® Certified Natural Rubber
@@ -768,8 +768,8 @@ This is an If You Care product. For more information about If You Care products,
 Product of Sri Lanka. 
 Package Made from FSC-certified recycled board processed chlorine-free (PCF)
 U.S. Importer: SOURCE ATLANTIQUE INC.",http://www.ifyoucare.com,"*http://www.sciencechannel.com/videos/rubber-gloves
-*https://www.youtube.com/watch?v=-AnamT-7Aiw",N/A,
-3078,Consumer,Kitchen,Tea Filters (Unbleached Paper),"40 Unbleached Loose Super Premium Tea Filters, Melitta © Xiaoran Zhu","-Filters
+*https://www.youtube.com/watch?v=-AnamT-7Aiw",
+3078,-3078_1,Consumer,Kitchen,Tea Filters (Unbleached Paper),,"40 Unbleached Loose Super Premium Tea Filters, Melitta © Xiaoran Zhu","-Filters
 -Packaging","-1_Filter Paper (N/A)
 -1_Paper and cardboard (1040)","-1_Pulping and drying (N/A)
 -1_Powder rolling (2057)
@@ -789,7 +789,7 @@ Calendaring: Feeding through continuous rolls to create a long sheet
 Cropping/guillotine: Used in cutting the sheets and the final filter shape
 Texturing: Used to puncture filtration holes and create designs and patterns
 Hot stamping: For the logo and labels
-Printing: Used to apply product labels, instructions, warning, and advertisements",4078,"Melitta®
+Printing: Used to apply product labels, instructions, warning, and advertisements","Melitta®
 BREWS BETTER TASTING TEA
 Brews one pot or one cup
 40 UNBLEACHED LOOSE TEA FILTERS
@@ -797,8 +797,8 @@ RECYCLABLE
 RECYCLED Paper and cardboard
 Add More Flavor to Your Life™
 www.melitta.com • 1.888.MELITTA • Facebook.com/MelittaUSA
-MADE IN GERMANY",http://melitta.com,*https://www.youtube.com/watch?v=-AnamT-7Aiw,N/A,
-3079,Consumer,Kitchen,"Scrubber Sponge (Cellulose, Natural Value)",Kitchen Scrubber Sponge © Xiaoran Zhu,"-Sponge
+MADE IN GERMANY",http://melitta.com,*https://www.youtube.com/watch?v=-AnamT-7Aiw,
+3079,-3079_1,Consumer,Kitchen,"Scrubber Sponge (Cellulose, Natural Value)",3R.3,Kitchen Scrubber Sponge © Xiaoran Zhu,"-Sponge
 -Packaging","-1_Cellulose (1081)
 -2_Low Density Polyethylene (N/A)","-1_Soaking (N/A)
 -1_Polyurethane gluing (N/A)
@@ -811,15 +811,15 @@ Polyurethane gluing: To glue the scouring pad on
 Cold shape rolling: Passing the material through a series of shaped rolls to press the sheets together
 Cropping/guillotine: To cut the shapes of the sponge and wrapper
 Extrusion blow molding: Melted plastic blown into a long, thin tube for molding
-Printing: Used to apply product labels, instructions, warning, and advertisements",4079,"NATURAL VALUE™
+Printing: Used to apply product labels, instructions, warning, and advertisements","NATURAL VALUE™
 LIVE WELL. SPEND LESS
 made from cellulose, a plant-based resource
 Neat!
 Caution: Rinse throughly before and after use and squeeze dry, especially when using with products containing bleach. May be sanitized by boiling. This pad is a highly effective scouring tool. Not recommended for cleaning glassware, pastivware, procelain, non-stick surfaces, or polished, brushed or satin finished surfaces. 
 NOT FOR AQUARIUM USE.
 www.naturalvalue.com
-Sustainably Made in Canada.",http://naturalvalue.com,*https://www.youtube.com/watch?v=3bbmN8te1JY&t=76s,N/A,
-3080,Consumer,Kitchen,"Coffee Filter (for JavaJig, Melitta)",60 Single Serve Coffee Filters © Xiaoran Zhu,"-FIlters
+Sustainably Made in Canada.",http://naturalvalue.com,*https://www.youtube.com/watch?v=3bbmN8te1JY&t=76s,
+3080,-3080_1,Consumer,Kitchen,"Coffee Filter (for JavaJig, Melitta)",3R.1,60 Single Serve Coffee Filters © Xiaoran Zhu,"-FIlters
 -Packaging","-1_Paper Pulp (N/A)
 -2_Paper and cardboard (1040)","-1_Pulping and drying (N/A)
 -1_Powder rolling (2057)
@@ -837,7 +837,7 @@ Powder rolling: To rid of moisure in the wood pulp to make thin paper
 Calendaring: Feeding through continuous rolls to create a long sheet
 Cropping/guillotine: Used in cutting the sheets and the final filter shape
 Texturing: Used to puncture filtration holes and create designs and patterns
-Printing: Used to apply product labels, instructions, warning, and advertisements",4080,"Melitta®
+Printing: Used to apply product labels, instructions, warning, and advertisements","Melitta®
 60 Filters
 SINGLE SERVE COFFEE FILTERS FOR JAVAJIG®
 For use with most Keurig Inc. style Single Serve Coffee Brewers
@@ -849,8 +849,8 @@ CAUTION: Filter cup and insert may be hot after brewing.
 Easy
 Economical
 Environmental",http://melitta.com,"*https://www.youtube.com/watch?v=JjDvIm0uX7Y&t=20s
-*https://www.youtube.com/watch?v=-AnamT-7Aiw",N/A,
-3081,Interior,Housing Parts,Switch Plate,Single Switch Plate,"-Switch plate
+*https://www.youtube.com/watch?v=-AnamT-7Aiw",
+3081,N/A,Interior,Housing Parts,Switch Plate,2L.3,Single Switch Plate,"-Switch plate
 -Screws
 Packaging","-1_Brass (1054)
 -2_Brass (1054)
@@ -858,10 +858,10 @@ Packaging","-1_Brass (1054)
 -3_Paper and cardboard (1040)",,"-1_42.4g
 -2_1.4g
 -3_4.0g
--4_12.9g",UPPER DECK Ltd.,$2.25,,,Traditional metal switch plate for a single wall switch,,,"SOLID BRASS SWITCH PLATE LACQUERED
+-4_12.9g",UPPER DECK Ltd.,$2.25,,,Traditional metal switch plate for a single wall switch,,"SOLID BRASS SWITCH PLATE LACQUERED
 UPPER DECK Ltd. 
-MADE IN TAIWAN",http://store.upperdeckltd.com/index.php?route=information/information&information_id=10,,N/A,
-3082,Consumer,Kitchen,Mug Cozie (PET),"ReFleece Pint Cozie, Klean Kanteen © Xiaoran Zhu","-Cozie Interior
+MADE IN TAIWAN",http://store.upperdeckltd.com/index.php?route=information/information&information_id=10,,
+3082,-3082_1,Consumer,Kitchen,Mug Cozie (PET),3R.1,"ReFleece Pint Cozie, Klean Kanteen © Xiaoran Zhu","-Cozie Interior
 -Cozie Exterior
 -Packaging","-1_Polyethylene Terephthalate (1087)
 -2_Polylactide (1089)
@@ -883,7 +883,7 @@ Recycling: Recycling used for product and packaging
 Pulping and drying: Processes to make thin sheets of pulp
 Cropping/guillotine: Used in cutting sheets
 Sewing: To stitch the two types of fabric together
-Printing: Used to apply product labels, instructions, warning, and advertisements",4082,"REVERSIBLE & WATER-RESISTANT
+Printing: Used to apply product labels, instructions, warning, and advertisements","REVERSIBLE & WATER-RESISTANT
 klean kanteen®
 INCULATES FROM HOT & COLD
 100% RECLAIMED MATERIAL
@@ -896,8 +896,8 @@ bcorporation.net
 MADE IN U.S.A. 
 FSC CERTIFIED / 50% PCW CONTENT 
 PAT. PENDING",http://kleankanteen.com,"*http://www.sciencechannel.com/tv-shows/how-its-made/videos/how-its-made-fleece/
-*https://www.youtube.com/watch?v=-AnamT-7Aiw",N/A,
-3083,Consumer,Kitchen,"Scrubber Sponge (Loofah Scrubber, Cellulose Sponge)",2 Twist loofah sponges © Xiaoran Zhu,"-Sponge
+*https://www.youtube.com/watch?v=-AnamT-7Aiw",
+3083,-3083_1,Consumer,Kitchen,"Scrubber Sponge (Loofah Scrubber, Cellulose Sponge)",3R.3,2 Twist loofah sponges © Xiaoran Zhu,"-Sponge
 -Packaging","-1_Luffa Gourd (N/A)
 -2_Low Density Polyethylene (1086) ","-1_Soaking (N/A)
 -1_Polyurethane gluing (N/A)
@@ -913,7 +913,7 @@ Polyurethane gluing: To glue the scouring pad on
 Cold shape rolling: Passing the material through a series of shaped rolls to press the sheets together
 Cropping/guillotine: To cut the shapes of the sponge and wrapper
 Extrusion blow molding: Melted plastic blown into a long, thin tube for molding
-Printing: Used to apply product labels, instructions, warning, and advertisements",4083,"BELIEVING IN A CLEANER WORLD
+Printing: Used to apply product labels, instructions, warning, and advertisements","BELIEVING IN A CLEANER WORLD
 twist™
 Natural Cellulose with Loofah Scrubby
 100% PLANT BASED
@@ -927,8 +927,8 @@ Email us at: Info@twistclean.com
 www.cleanerhomeliving.com
 www.facebook.com/twistclean
 USE & CARE: Does not disinfect surfaces. Rince thoroughly before and after use. Not for aquarium use. Please test first with light pressure to determine whether surfaces may scratch. May be sterilized by boiling water. Top-rack diswasher safe.
-Made in Mexico",https://thrivemarket.com/twist-loofah-sponge,,N/A,
-3084,Consumer,Kitchen,"Scrubber Sponge (Cellulose, Western Family)",Heavy Duty Scrubber Sponge © Xiaoran Zhu,"-Sponge
+Made in Mexico",https://thrivemarket.com/twist-loofah-sponge,,
+3084,-3084_1,Consumer,Kitchen,"Scrubber Sponge (Cellulose, Western Family)",3R.3,Heavy Duty Scrubber Sponge © Xiaoran Zhu,"-Sponge
 -Packaging","-1_Cellulose (1081)
 -2_Low Density Polyethylene (1086)","-1_Soaking (N/A)
 -1_Polyurethane gluing (N/A)
@@ -944,17 +944,17 @@ Polyurethane gluing: To glue the scouring pad on
 Cold shape rolling: Passing the material through a series of shaped rolls to press the sheets together
 Cropping/guillotine: To cut the shapes of the sponge and wrapper
 Extrusion blow molding: Melted plastic blown into a long, thin tube for molding
-Printing: Used to apply product labels, instructions, warning, and advertisements",4084,"Naturally Absorbant
+Printing: Used to apply product labels, instructions, warning, and advertisements","Naturally Absorbant
 Long Lasting
 More absorbent than plastic sponges or disposable cloths
 Economical - Outlasts rolls and rolls of paper towels
 www.westernfamily.com
 QUALITY SATISFACTION GUARANTEED
-MADE IN THE USA",http://www.westernfamily.com,*https://www.youtube.com/watch?v=3bbmN8te1JY&t=76s,N/A,
-3085,Interior,Housing Parts,Gate Valve,Gate Valve,"-Valve
+MADE IN THE USA",http://www.westernfamily.com,*https://www.youtube.com/watch?v=3bbmN8te1JY&t=76s,
+3085,-3085_1,Interior,Housing Parts,Gate Valve,2L.3,Gate Valve,"-Valve
 -Tag","-1_
 -2_Paper and cardboard (1040)",,"-1_273.2g
--2_<0.1g",MUELLER GLOBAL,$11.99,,,,,,"UPC®
+-2_<0.1g",MUELLER GLOBAL,$11.99,,,,,"UPC®
 ProLine SERIES™
 MUELLER GLOBAL®
 Gate Valve
@@ -962,8 +962,8 @@ Heavy Duty-Solder
 CA 'LEAD-FREE' COMPLIANT
 1/2in
 Use with water, oil or air. Use in fully open or closed positions only. Use thread seal tape or compound when installing this valve. 
-MADE IN CHINA",http://www.muellerindustries.com,,N/A,
-3086,Consumer,Kitchen,Aluminum Foil (virgin),50 sq. ft. Heavy Duty Aluminum Foil Wrap,"-Foil Wrap
+MADE IN CHINA",http://www.muellerindustries.com,,
+3086,-3086_1,Consumer,Kitchen,Aluminum Foil (virgin),2L.3,50 sq. ft. Heavy Duty Aluminum Foil Wrap,"-Foil Wrap
 -Packaging","-1_1000 series non age hardening wrought Al alloys (1053)
 -2_Paper and cardboard (1040)","-1_Smelting (N/A)
 -1_Hot shape rolling (2057)
@@ -986,7 +986,7 @@ Recycling: Paper recycling used for packaging
 Spiral-winding: Paper and cardboard tube shaped by winding
 Cyanoacrylates adhesion: Paper and cardboard tube held in shape with glue
 Pulping and drying: Processes to make thin sheets of Paper and cardboard
-Printing: Used to apply product labels, instructions, warning, and advertisements",4086,"Reynolds Wrap®
+Printing: Used to apply product labels, instructions, warning, and advertisements","Reynolds Wrap®
 HEAVY DUTY
 TRUSTED SINCE 1947
 FOIL MADE IN U.S.A.
@@ -1007,8 +1007,8 @@ Grill in foil packets to help lock in flavor and nutrients.
 Freeze food in foil for superior protection from air to help prevent freezer burn.
 Reynolds in the kitchen & around the house!: Veggies on the Grill, Flower Arrangements, Sprinkler Top
 For easy, delicious recipes visit reynoldskitchens.com",http://www.reynoldskitchens.com,"*http://www.sciencechannel.com/tv-shows/how-its-made/videos/how-its-made-aluminum-foil/
-*https://www.youtube.com/watch?v=-AnamT-7Aiw",N/A,
-3087,Consumer,Kitchen,Aluminum Foil (recycled),50 sq. ft. 100% Recycled Aluminum Foil © Xiaoran Zhu,"-Foil Wrap
+*https://www.youtube.com/watch?v=-AnamT-7Aiw",
+3087,-3087_1,Consumer,Kitchen,Aluminum Foil (recycled),2L.3,50 sq. ft. 100% Recycled Aluminum Foil © Xiaoran Zhu,"-Foil Wrap
 -Packaging","-1_1000 series non age hardening wrought Al alloys (1053)
 -2_Paper and cardboard (1040)","-1_Recycling (N/A)
 -1_Smelting (N/A)
@@ -1033,7 +1033,7 @@ Recycling: Aluminum and paper recycling used for product and packaging respectiv
 Spiral-winding: Paper and cardboard tube shaped by winding
 Cyanoacrylates adhesion: Paper and cardboard tube held in shape with glue
 Pulping and drying: Processes to make thin sheets of Paper and cardboard
-Printing: Used to apply product labels, instructions, warning, and advertisements",4087,"Perfect Food Wrap
+Printing: Used to apply product labels, instructions, warning, and advertisements","Perfect Food Wrap
 2006 Outstanding Non-Food Specialty Item
 sofi™ GOLD N•A•S•F •T®
 ENVIRONMENT FRIENDLY PRODUCTS
@@ -1050,8 +1050,8 @@ ALUMINUM FOIL: 100% recycled material, alu recycled
 CARDBOARD BOX: 100% recycled material, 100% Recycled Paper and cardboard®
 recycle
 Can be recycled again.",http://www.ifyoucare.com,"*http://www.sciencechannel.com/tv-shows/how-its-made/videos/how-its-made-aluminum-foil/
-*https://www.youtube.com/watch?v=-AnamT-7Aiw",N/A,
-3088,Consumer,Kitchen,Sandwich Bags (PET),"50 Reclosable Sandwich Bags, Natural Value","-Sandwich Bags
+*https://www.youtube.com/watch?v=-AnamT-7Aiw",
+3088,-3088_1,Consumer,Kitchen,Sandwich Bags (PET),2R.1,"50 Reclosable Sandwich Bags, Natural Value","-Sandwich Bags
 -Packaging","-1_Polyethylene Terephthalate (1087)
 -2_Paper and cardboard (1040)","-1_Extrusion blow molding (2077)
 -1_Cropping/guillotine (2064)
@@ -1066,7 +1066,7 @@ Extrusion blow molding: Melted plastic blown into a long, thin tube for molding
 Cropping/guillotine: The upper blade is forced past a lower one to shear sheet material along a straight line
 Recycling: Paper recycling used for packaging
 Pulping and drying: Processes to make thin sheets of cardboard
-Printing: Used to apply product labels, instructions, warning, and advertisements",4088,"LIVE WELL. SPEND LESS.
+Printing: Used to apply product labels, instructions, warning, and advertisements","LIVE WELL. SPEND LESS.
 BPA free • PVC free
 50 bags
 Great for packing sandwiches, snacks, & more!
@@ -1078,8 +1078,8 @@ www.sfiprogram.org
 Made of polyethylene - BPA has never been used to make polyethylene
 WARNING: To avoid danger of suffocation, keep this product and all plastic bags away from babies and children. Do not use this product in cribs, beds, playpens, or strollers.
 This carton is manufactured from 100% recycled materials.",http://naturalvalue.com,"*https://www.youtube.com/watch?v=8CfL5xl2N1Q
-*https://www.youtube.com/watch?v=-AnamT-7Aiw",N/A,
-3089,Consumer,Kitchen,Sandwich Bags (Wax Paper),"50 Cut-rite Wax Paper Sandwich Bags, Reynold's Wrap © Xiaoran Zhu","-Sandwich Bags
+*https://www.youtube.com/watch?v=-AnamT-7Aiw",
+3089,-3089_1,Consumer,Kitchen,Sandwich Bags (Wax Paper),2R.1,"50 Cut-rite Wax Paper Sandwich Bags, Reynold's Wrap © Xiaoran Zhu","-Sandwich Bags
 -Packaging","-1_Paper Pulp (N/A)
 -1_Paraffin (N/A)
 -2_Paper and cardboard (1040)","-1_Pulping and drying (N/A)
@@ -1095,7 +1095,7 @@ Paper and cardboard: A thick paper-based material
 Pulping and drying: Processes to make thin sheets of paper and cardboard
 Roll cladding: To roll the paraffin wax onto the paper
 Cropping/guillotine: The upper blade is forced past a lower one to shear sheet material along a straight line
-Printing: Used to apply product labels, instructions, warning, and advertisements",4089,"Reynolds®
+Printing: Used to apply product labels, instructions, warning, and advertisements","Reynolds®
 CUT-RITE®
 For your sandwiches, snacks and leftovers
 50 WAX PAPER BAGS
@@ -1103,8 +1103,8 @@ Perfect size for cereal, chips, and pretzels
 Keeps messy foods from sticking
 Easy for kids to use
 Prevents spattering in the microwave
-Visit - reynoldskitchens.com / Call 1-800-433-2244",http://www.reynoldskitchens.com,*https://www.youtube.com/watch?v=-AnamT-7Aiw,N/A,
-3090,Consumer,Kitchen,Sandwich Bags (Unbleached Paper),"48 Paper Snack and Sandwich Bags, If You Care","-Sandwich Bags
+Visit - reynoldskitchens.com / Call 1-800-433-2244",http://www.reynoldskitchens.com,*https://www.youtube.com/watch?v=-AnamT-7Aiw,
+3090,-3090_1,Consumer,Kitchen,Sandwich Bags (Unbleached Paper),2R.1,"48 Paper Snack and Sandwich Bags, If You Care","-Sandwich Bags
 -Packaging","-1_Scandinavian Spruce (N/A)
 -2_Paper and cardboard (1040)","-1_Pulping and drying (N/A)
 -1_Cropping/guillotine (2064)
@@ -1119,7 +1119,7 @@ Cardboard: A thick paper-based material
 Recycling: Paper recycling used for packaging
 Pulping and drying: Processes to make thin sheets of paper and cardboard
 Cropping/guillotine: The upper blade is forced past a lower one to shear sheet material along a straight line
-Printing: Used to apply product labels, instructions, warning, and advertisements",4090,"First FSC Certified Paper Snack and Sandwich Bags
+Printing: Used to apply product labels, instructions, warning, and advertisements","First FSC Certified Paper Snack and Sandwich Bags
 ENVIRONMENT FRIENDLY PRODUCTS
 IF YOU CARE®
 Quality with Integrity
@@ -1136,8 +1136,8 @@ Not Chemically Treated
 Keeps Bread Soft Up to 6 Hours
 The mark of responsible forestry
 Product of Sweden. 
-This is an If You Care® product. For more information about If You Care products, visit us at www.ifyoucare.com. Package made from recycled board. US Importer SOURCE ATLANTIQUE INC.",http://www.ifyoucare.com,*https://www.youtube.com/watch?v=-AnamT-7Aiw,N/A,
-3091,Consumer,Kitchen,Sandwich Bags (Low Density Polyethylene),"50 Reclosable Snack Bags, Shurfine © Xiaoran Zhu","-Sandwich Bags
+This is an If You Care® product. For more information about If You Care products, visit us at www.ifyoucare.com. Package made from recycled board. US Importer SOURCE ATLANTIQUE INC.",http://www.ifyoucare.com,*https://www.youtube.com/watch?v=-AnamT-7Aiw,
+3091,-3091_1,Consumer,Kitchen,Sandwich Bags (Low Density Polyethylene),2R.1,"50 Reclosable Snack Bags, Shurfine © Xiaoran Zhu","-Sandwich Bags
 -Packaging","-1_Low Density Polyethylene (1086) 
 -2_Paper and cardboard (1040)","-1_Extrusion blow molding (2077)
 -1_Cropping/guillotine (2064)
@@ -1151,7 +1151,7 @@ Extrusion blow molding: Melted plastic blown into a long, thin tube for molding
 Cropping/guillotine: The upper blade is forced past a lower one to shear sheet material along a straight line
 Recycling: Paper recycling used for packaging
 Pulping and drying: Processes to make thin sheets of cardboard
-Printing: Used to apply product labels, instructions, warning, and advertisements",4091,"50 SMALL BAGS
+Printing: Used to apply product labels, instructions, warning, and advertisements","50 SMALL BAGS
 RECLOSABLE SNACK
 REDUCE. REUSE. RECYCLE. PLEASE SUPPORT RECYCLING.
 THIS PRODUCT IS MADE WITH LOW DENSITY POLYETHYLENE AND IS RECYCLABLE. CHECK WITH LOCAL OFFICIALS FOR RECYCLING POLICIES IN YOUR AREA.
@@ -1161,8 +1161,8 @@ www.shurfinebrand.com
 CONSUMER INFORMATION: LOW DENSITY POLYETHLENE: 4
 QUALITY SATISFACTION GUARANTEED
 MADE IN THE USA",http://shurfinebrand.com,"*https://www.youtube.com/watch?v=8CfL5xl2N1Q
-*https://www.youtube.com/watch?v=-AnamT-7Aiw",N/A,
-3092,Consumer,Kitchen,Bowl Scraper (silicone),Core Kitchen Silicone Bowl Scraper © Xiaoran Zhu,"-Bowl Scraper
+*https://www.youtube.com/watch?v=-AnamT-7Aiw",
+3092,N/A,Consumer,Kitchen,Bowl Scraper (silicone),5L.2,Core Kitchen Silicone Bowl Scraper © Xiaoran Zhu,"-Bowl Scraper
 -Tag
 -Hook
 -Zip Tie","-1_Silicone Rubber (1078)
@@ -1181,15 +1181,15 @@ Polypropylene: A thermoplastic polymer. It is strong, tough, has a high resistan
 Injection molding: Molten plastic is injected into a steel molding where it is cooled
 Pulping and drying: Processes to make thin sheets of cardboard
 Cropping/guillotine: The upper blade is forced past a lower one to shear sheet material along a straight line
-Printing: Used to apply product labels, instructions, warning, and advertisements",N/A,"core™ kitchen
+Printing: Used to apply product labels, instructions, warning, and advertisements","core™ kitchen
 Silcone is great for nonstick cookware and bakeware and will not scratch the surface
 Resistant to odors and stains
 Food safe silicone
 Heat resistant up to 460ºF
 Care and Use: Wash in warm water before use. Dishwasher safe in top rack. Avoid abrasive containers. Do not use over open flame.
 www.CoreKitchen.com
-Made in China for Core Home",http://www.corehome.com,*https://www.youtube.com/watch?v=-AnamT-7Aiw,N/A,
-3093,Consumer,Kitchen,Trivet (Silicone),Core Kitchen Silicone Square Trivet © Xiaoran Zhu,"-Trivet
+Made in China for Core Home",http://www.corehome.com,*https://www.youtube.com/watch?v=-AnamT-7Aiw,
+3093,N/A,Consumer,Kitchen,Trivet (Silicone),5L.2,Core Kitchen Silicone Square Trivet © Xiaoran Zhu,"-Trivet
 -Tag
 -Hook","-1_Silicone Rubber (1078)
 -2_Paper and cardboard (1040)
@@ -1206,15 +1206,15 @@ Polypropylene: A thermoplastic polymer. It is strong, tough, has a high resistan
 Injection molding: Molten plastic is injected into a steel molding where it is cooled
 Pulping and drying: Processes to make thin sheets of cardboard
 Cropping/guillotine: The upper blade is forced past a lower one to shear sheet material along a straight line
-Printing: Used to apply product labels, instructions, warning, and advertisements",N/A,"core™ kitchen
+Printing: Used to apply product labels, instructions, warning, and advertisements","core™ kitchen
 Resistant to odors and stains
 Food safe silicone
 Heat resistant up to 500ºF
 BPA FREE
 Care and Use: Wash in warm water before use. Dishwasher safe in top rack. Avoid abrasive containers. Do not use over open flame.
 www.CoreKitchen.com
-Made in China for Core Home",http://www.corehome.com,*https://www.youtube.com/watch?v=-AnamT-7Aiw,N/A,
-3094,Consumer,Kitchen,Kitchen Tongs (Silicone),Core Kitchen Silicone Tongs © Xiaoran Zhu,"-Tongs
+Made in China for Core Home",http://www.corehome.com,*https://www.youtube.com/watch?v=-AnamT-7Aiw,
+3094,N/A,Consumer,Kitchen,Kitchen Tongs (Silicone),5L.2,Core Kitchen Silicone Tongs © Xiaoran Zhu,"-Tongs
 -Tag","-1_Silicone Rubber (1078)
 -2_Paper and cardboard (1040)","-1_Injection molding (2080)
 -2_Pulping and drying (N/A)
@@ -1227,14 +1227,14 @@ Polypropylene: A thermoplastic polymer. It is strong, tough, has a high resistan
 Injection molding: Molten plastic is injected into a steel molding where it is cooled
 Pulping and drying: Processes to make thin sheets of cardboard
 Cropping/guillotine: The upper blade is forced past a lower one to shear sheet material along a straight line
-Printing: Used to apply product labels, instructions, warning, and advertisements",N/A,"core™ kitchen
+Printing: Used to apply product labels, instructions, warning, and advertisements","core™ kitchen
 Resistant to odors and stains
 Food safe silicone
 Heat resistant up to 460ºF
 Care and Use: Wash in warm water before use. Dishwasher safe in top rack. Avoid abrasive containers. Do not use over open flame.
 www.CoreKitchen.com
-Made in China for Core Home",http://www.corehome.com,*https://www.youtube.com/watch?v=-AnamT-7Aiw,N/A,
-3095,Consumer,Kitchen,"Spatula (Silicone, Core Kitchen)",Core Kitchen All-Purpose Silicone Spatula © Xiaoran Zhu,"-Spatula
+Made in China for Core Home",http://www.corehome.com,*https://www.youtube.com/watch?v=-AnamT-7Aiw,
+3095,N/A,Consumer,Kitchen,"Spatula (Silicone, Core Kitchen)",5L.2,Core Kitchen All-Purpose Silicone Spatula © Xiaoran Zhu,"-Spatula
 -Tag","-1_Silicone Rubber (1078)
 -2_Paper and cardboard (1040)","-1_Injection molding (2080)
 -2_Pulping and drying (N/A)
@@ -1247,14 +1247,14 @@ Polypropylene: A thermoplastic polymer. It is strong, tough, has a high resistan
 Injection molding: Molten plastic is injected into a steel molding where it is cooled
 Pulping and drying: Processes to make thin sheets of cardboard
 Cropping/guillotine: The upper blade is forced past a lower one to shear sheet material along a straight line
-Printing: Used to apply product labels, instructions, warning, and advertisements",N/A,"core™ kitchen
+Printing: Used to apply product labels, instructions, warning, and advertisements","core™ kitchen
 Resistant to odors and stains
 Food safe silicone
 Heat resistant up to 500ºF
 Care and Use: Wash in warm water before use. Dishwasher safe in top rack. Avoid abrasive containers. Do not use over open flame.
 www.CoreKitchen.com
-Made in China for Core Home",http://www.corehome.com,*https://www.youtube.com/watch?v=-AnamT-7Aiw,N/A,
-3096,Consumer,Kitchen,Basting Brush (silicone),Core Kitchen Silicone Basting Brush © Xiaoran Zhu,"-Basting Brush
+Made in China for Core Home",http://www.corehome.com,*https://www.youtube.com/watch?v=-AnamT-7Aiw,
+3096,-3096_1,Consumer,Kitchen,Basting Brush (silicone),5L.2,Core Kitchen Silicone Basting Brush © Xiaoran Zhu,"-Basting Brush
 -Tag","-1_Silicone Rubber (1078)
 -2_Paper and cardboard (1040)","-1_Injection molding (2080)
 -2_Pulping and drying (N/A)
@@ -1267,14 +1267,14 @@ Polypropylene: A thermoplastic polymer. It is strong, tough, has a high resistan
 Injection molding: Molten plastic is injected into a steel molding where it is cooled
 Pulping and drying: Processes to make thin sheets of cardboard
 Cropping/guillotine: The upper blade is forced past a lower one to shear sheet material along a straight line
-Printing: Used to apply product labels, instructions, warning, and advertisements",N/A,"core™ kitchen
+Printing: Used to apply product labels, instructions, warning, and advertisements","core™ kitchen
 Resistant to odors and stains
 Food safe silicone
 Heat resistant up to 500ºF
 Care and Use: Wash in warm water before use. Dishwasher safe in top rack. Avoid abrasive containers. Do not use over open flame.
 www.CoreKitchen.com
-Made in China for Core Home",http://www.corehome.com,*https://www.youtube.com/watch?v=-AnamT-7Aiw,N/A,
-3097,Consumer,Kitchen,"Cutting Board (Wood Fiber, Epicurean)",Cutting Board (Wood-phenolic Resin Composite),"-Cutting Board
+Made in China for Core Home",http://www.corehome.com,*https://www.youtube.com/watch?v=-AnamT-7Aiw,
+3097,N/A,Consumer,Kitchen,"Cutting Board (Wood Fiber, Epicurean)",6L,Cutting Board (Wood-phenolic Resin Composite),"-Cutting Board
 -Sticker","-1_Paper Pulp (N/A)
 -1_Phenolic resin (1099)
 -2_Paper Pulp (N/A)","-1_Pulping and drying (N/A)
@@ -1294,7 +1294,7 @@ Cold shape rolling: Passing the material through a series of rolls
 Hot pressing: Stacks are pressed under even heat and pressure, which bonds the layers of paper together and cures the resin
 Cropping/guillotine: The upper blade is forced past a lower one to shear sheet material along a straight line
 Printing: Used to apply product labels, instructions, warning, and advertisements
-Adhesion: To glue the sticker",N/A,"USA: MADE IN AMERICA
+Adhesion: To glue the sticker","USA: MADE IN AMERICA
 epicurean: HEART OF THE KITCHEN
 DISHWASHER SAFE
 HEAT RESISTANT TO 350ºF/176ºC
@@ -1302,12 +1302,12 @@ KNIFE FRIENDLY
 NON-POROUS WOOD FIBER
 LIMITED LIFETIME WARRANTY
 epicureanusa.com
-richlite",http://www.williams-sonoma.com/products/8564973/?catalogId=5&sku=8564973&cm_ven=Google_PLA&cm_cat=Shopping&cm_pla=default&cm_ite=default&kwid=productads-adid%5E45527542063-device%5Ec-plaid%5E63149791980-sku%5E8564973-adType%5EPLA&gclid=Cj0KEQiA-_HDBRD2lomhoufc1JkBEiQA0TVMmth3_IKSRGO7jcpz9bQQxtBnPmNo33uQ3hWWy2M6QBwaAnj48P8HAQ,*https://www.youtube.com/watch?v=ow60EjEeqdg,N/A,
-3098,Consumer,Kitchen,Tea Ball Infuser (Stainless Steel),"Tea Ball Infuser, Harold Import Co. © Xiaoran Zhu","-Tea Ball Infuser
+richlite",http://www.williams-sonoma.com/products/8564973/?catalogId=5&sku=8564973&cm_ven=Google_PLA&cm_cat=Shopping&cm_pla=default&cm_ite=default&kwid=productads-adid%5E45527542063-device%5Ec-plaid%5E63149791980-sku%5E8564973-adType%5EPLA&gclid=Cj0KEQiA-_HDBRD2lomhoufc1JkBEiQA0TVMmth3_IKSRGO7jcpz9bQQxtBnPmNo33uQ3hWWy2M6QBwaAnj48P8HAQ,*https://www.youtube.com/watch?v=ow60EjEeqdg,
+3098,-3098_1,Consumer,Kitchen,Tea Ball Infuser (Stainless Steel),2L.3,"Tea Ball Infuser, Harold Import Co. © Xiaoran Zhu","-Tea Ball Infuser
 -Packaging","-1_Stainless Steel (1050)
 -2_Low Density Polyethylene (1086)",,"-1_21.2g
--2_0.6g",Harold Import Co.,$2.99,Co-op,1/8/2017,,,4098,N/A,http://www.hickitchen.com,,N/A,
-3099,Consumer,"Arts, Crafts, and Sewing",Knitting Needles (Metal),TURBO Needles,"-Needles
+-2_0.6g",Harold Import Co.,$2.99,Co-op,1/8/2017,,,N/A,http://www.hickitchen.com,,
+3099,N/A,Consumer,"Arts, Crafts, and Sewing",Knitting Needles (Metal),3L.2,TURBO Needles,"-Needles
 -Cord
 -Info Sheet
 -Packaging","-1_Brass (1054)
@@ -1317,7 +1317,7 @@ richlite",http://www.williams-sonoma.com/products/8564973/?catalogId=5&sku=85649
 -4_Low Density Polyethylene (1086)",,"-1_25.0g
 -2_
 -3_3.5g
--4_2.4g","skacel collection, Inc.",$21.50,,,"addi TURBO® needles are the original and most popular needles in the addi line. The perfect needle for most projects, their slightly rounded tips work well with all yarns including boucles and lightly twisted fibers. The extra slick nickel plating allows stiches to quickly slide along, a great asset, whether you are looking for speed, or simply knitting for pleasure.",,,"80cm/ 10mm
+-4_2.4g","skacel collection, Inc.",$21.50,,,"addi TURBO® needles are the original and most popular needles in the addi line. The perfect needle for most projects, their slightly rounded tips work well with all yarns including boucles and lightly twisted fibers. The extra slick nickel plating allows stiches to quickly slide along, a great asset, whether you are looking for speed, or simply knitting for pleasure.",,"80cm/ 10mm
 32in US 15
 Indulge your hands
 skacel
@@ -1335,11 +1335,11 @@ Circular needles
 Straight needles
 Double pointed needles
 Crochet hooks
-NEW! addi click system",http://www.addineedleshop.com,,N/A,
-3100,Consumer,Kitchen,"Measuring Cup (2.5-cup, Greenbrier)",2.5 Cup Measuring Cup © Xiaoran Zhu,-Cup,-1_Polymer (N/A),,-1_83.6g,"Greenbrier International, INC.",$1.00,Dollar Tree,,,,N/A,"2.5 CUP MEASURING CUP
+NEW! addi click system",http://www.addineedleshop.com,,
+3100,N/A,Consumer,Kitchen,"Measuring Cup (2.5-cup, Greenbrier)",,2.5 Cup Measuring Cup © Xiaoran Zhu,-Cup,-1_Polymer (N/A),,-1_83.6g,"Greenbrier International, INC.",$1.00,Dollar Tree,,,,"2.5 CUP MEASURING CUP
 MADE IN CHINA
-NOT RECOMMENDED FOR USE IN MICROWAVE AND DISHWASHER",https://www.dollartree.com/Plastic-Measuring-Cups-2-189-Cups/p147281/index.pro,*https://www.youtube.com/watch?v=8yMWBCCTVu0,N/A,
-3101,Sports and Leisure,Bat-and-ball,Baseball (Markwort),Baseball © Shiqi Li,"-Outer layer
+NOT RECOMMENDED FOR USE IN MICROWAVE AND DISHWASHER",https://www.dollartree.com/Plastic-Measuring-Cups-2-189-Cups/p147281/index.pro,*https://www.youtube.com/watch?v=8yMWBCCTVu0,
+3101,N/A,Sports and Leisure,Bat-and-ball,Baseball (Markwort),,Baseball © Shiqi Li,"-Outer layer
 -Core
 -Yarn lining
 -Stitching","-1_Synthetic Leather (N/A)
@@ -1349,11 +1349,11 @@ NOT RECOMMENDED FOR USE IN MICROWAVE AND DISHWASHER",https://www.dollartree.com/
 -4_Nylon 6 (1083)",,"-1_
 -2_
 -3_
--4_",Markwort,,,,,,N/A,"EST. 1931
+-4_",Markwort,,,,,,"EST. 1931
 Official League
 SYNTHETIC LINING
-CORK & RUBBER CORE",http://www.markwort.com,*https://www.youtube.com/watch?v=t4h1MlBRDgI,N/A,
-3102,Sports and Leisure,Bat-and-ball,Softball,Softball © Shiqi Li,"-Outer layer
+CORK & RUBBER CORE",http://www.markwort.com,*https://www.youtube.com/watch?v=t4h1MlBRDgI,
+3102,N/A,Sports and Leisure,Bat-and-ball,Softball,,Softball © Shiqi Li,"-Outer layer
 -Core
 -Yarn lining
 -Stitching","-1_Synthetic Leather (N/A)
@@ -1362,12 +1362,12 @@ CORK & RUBBER CORE",http://www.markwort.com,*https://www.youtube.com/watch?v=t4h
 -4_Nylon 6 (1083)",,"-1_
 -2_
 -3_
--4_",,,,,,,N/A,"OFFICIAL
+-4_",,,,,,,"OFFICIAL
 CORK CORE
 DURA-HYDE
 Official
-Cork Core",,*https://www.youtube.com/watch?v=t4h1MlBRDgI,N/A,
-3103,Consumer,Entertainment,Photographic Film Roll,Kodak ULTRAMAX 4X24 EXP. POSES © Shiqi Li,"-Film
+Cork Core",,*https://www.youtube.com/watch?v=t4h1MlBRDgI,
+3103,-3103_1,Consumer,Entertainment,Photographic Film Roll,3R.1,Kodak ULTRAMAX 4X24 EXP. POSES © Shiqi Li,"-Film
 -Plastic parts
 -Metal parts
 -Film canister
@@ -1381,7 +1381,7 @@ Cork Core",,*https://www.youtube.com/watch?v=t4h1MlBRDgI,N/A,
 -2_
 -3_
 -4_
--5_",Eastman Kodak Company,,,,"This versatile, 800-speed film picks up where 400-speed films leave off. When used indoors, the faster speed extends your flash distance. Outdoors, it stops fast action and allows a faster shutter speed. ULTRA MAX 800 film reduces blur in fast-action shots and captures subjects in low-light conditions. Whether you're going to the racetrack or an indoor stadium, this is the film to use. ",,4103,"4X24 EXP. POSES
+-5_",Eastman Kodak Company,,,,"This versatile, 800-speed film picks up where 400-speed films leave off. When used indoors, the faster speed extends your flash distance. Outdoors, it stops fast action and allows a faster shutter speed. ULTRA MAX 800 film reduces blur in fast-action shots and captures subjects in low-light conditions. Whether you're going to the racetrack or an indoor stadium, this is the film to use. ",,"4X24 EXP. POSES
 800
 Kodak
 ULTRAMAX
@@ -1394,12 +1394,12 @@ DEVELOP BEFORE 07/2013
 DXN 35mm ISO 800
 24 x 36mm
 www.kodak.com/go/film",http://www.kodak.com/corp/default.htm,"*https://www.youtube.com/watch?v=UJ6w1esVcoY
-*https://www.youtube.com/watch?v=4-d0W6hMxwo",3104,
-3104,Consumer,"Arts, Crafts, and Sewing","Zipper (Cotton, Nylon)",7in Red Talon Zipper,"-Zipper
+*https://www.youtube.com/watch?v=4-d0W6hMxwo",
+3104,-3104_1,Consumer,"Arts, Crafts, and Sewing","Zipper (Cotton, Nylon)",3L.2,7in Red Talon Zipper,"-Zipper
 -Packaging","-1_Nylon 6 (1083)
 -1_
 -2_Paper and cardboard (1040)",,"-1_3.2g
--2_6.9g",Talon,$0.45,,,,,,"Talon® ZIPPER
+-2_6.9g",Talon,$0.45,,,,,"Talon® ZIPPER
 NYLON COIL
 RED
 7 Inches 45¢
@@ -1419,14 +1419,14 @@ Self-healing
 If fabric gets caught simply fold zipper in falf, pull apart at the fold, remove fabric, zip down, then up.
 LAPPED
 CENTERED
-New easy instructions for lapped and centered applications inside.",http://talonzippers.com,*https://www.youtube.com/watch?v=cpxDZPl-FD4,N/A,
-3105,Consumer,Kitchen,Cutlery (Birchwood),Party Partners Design 24-Piece Disposable Natural Birchwood Cutlery Set © Shiqi Li,"-Cutlery
+New easy instructions for lapped and centered applications inside.",http://talonzippers.com,*https://www.youtube.com/watch?v=cpxDZPl-FD4,
+3105,-3105_1,Consumer,Kitchen,Cutlery (Birchwood),3L.1,Party Partners Design 24-Piece Disposable Natural Birchwood Cutlery Set © Shiqi Li,"-Cutlery
 -Packaging (outside)
 -Packaging (inside)","-1_Birchwood (1105)
 -2_Polypropylene (1092)
 -3_Paper and cardboard (1040)",,"-1_95.8g
 -2_30.3g
--3_31.0g",the madison park group,$9.95,,,"Make your entertaining green. Food safe and disposable utensils are a stylish alternative to plastic silverware. Made with sustainable Birchwood, this set of cutlery is completely biodegradable and recyclable. 24 pieces total - 8 each of forks, knives and spoons. Coordinate beautifully with wood grain patterned disposable party plates, napkins and paper straws to lend a natural feel to any event or place setting. Let Party Partners Design do your party a favor. More than a party, it will be the most talked about event of the year! A vintage-inspired collection of time-tested classic party supplies. Party Partners' festive decorations have been regularly featured in magazines such as Good Housekeeping, Cookie, Parents, Country Living, Martha Stewart Kids, Martha Stewart Weddings and Better Homes and Gardens. Kooky old-fashioned party supplies and favors, let the party begin!",,4105,"WOOD CUTLERY
+-3_31.0g",the madison park group,$9.95,,,"Make your entertaining green. Food safe and disposable utensils are a stylish alternative to plastic silverware. Made with sustainable Birchwood, this set of cutlery is completely biodegradable and recyclable. 24 pieces total - 8 each of forks, knives and spoons. Coordinate beautifully with wood grain patterned disposable party plates, napkins and paper straws to lend a natural feel to any event or place setting. Let Party Partners Design do your party a favor. More than a party, it will be the most talked about event of the year! A vintage-inspired collection of time-tested classic party supplies. Party Partners' festive decorations have been regularly featured in magazines such as Good Housekeeping, Cookie, Parents, Country Living, Martha Stewart Kids, Martha Stewart Weddings and Better Homes and Gardens. Kooky old-fashioned party supplies and favors, let the party begin!",,"WOOD CUTLERY
 8 settings
 MADE WITH SUSTAINABLE BIRCHWOOD
 COMPLETELY BIODEGRADABLE
@@ -1442,36 +1442,103 @@ partypartners
 Distributed by The Madison Park Group
 partypartnersdesign.com
 All rights reserved
-Made in China",http://madisonparkgroup.com/product-lines/party-partners/,*https://www.youtube.com/watch?v=sVnHAp1fmTg,N/A,
-3106,Sports and Leisure,Racket-and-ball,Table Tennis Ball (Celluloid),"Table Tennis Tournament Ball, Champion Sports © Shiqi Li",-Ball,-1_Cellulose Nitrate/Celluloid (1081),,-1_,Champion Sports,,,,"These 3 star table tennis balls are certified by the CTTA for competitive table tennis play. Made of celluloid, the white balls are extremely round and durable. Play your best Ping Pong with these balls.",,N/A,"Champion SPORTS
+Made in China",http://madisonparkgroup.com/product-lines/party-partners/,*https://www.youtube.com/watch?v=sVnHAp1fmTg,
+3106,-3106_1,Sports and Leisure,Racket-and-ball,Table Tennis Ball (Celluloid),,"Table Tennis Tournament Ball, Champion Sports © Shiqi Li",-Ball,-1_Cellulose Nitrate/Celluloid (1081),,-1_,Champion Sports,,,,"These 3 star table tennis balls are certified by the CTTA for competitive table tennis play. Made of celluloid, the white balls are extremely round and durable. Play your best Ping Pong with these balls.",,"Champion SPORTS
 CTTA APPROVED
 Tournament Ball
-Made in China",http://www.championsports.com,,N/A,
-3107,Consumer,"Arts, Crafts, and Sewing","Zipper (blue, YKK)",9in Blue Decorative Zipper,"-Textile
+Made in China",http://www.championsports.com,,
+3107,-3107_1,Consumer,"Arts, Crafts, and Sewing","Zipper (blue, YKK)",3L.2,9in Blue Decorative Zipper,"-Textile
 -Packaging","-1_Polycarbonate (1084)
 -2_Zirconia (1021)
 -3_Paper and cardboard (1040)",,"-1_10.7g
--2_<0.1g",YKK (U.S.A.) Inc.,$1.10, ,,,,,"9in.
+-2_<0.1g",YKK (U.S.A.) Inc.,$1.10, ,,,,"9in.
 $1.10
 vislon™ by YKK
 DECORATIVE ZIPPER
 YKK (U.S.A.) Inc. Home Sewing, Div.
 YKK™
-Made in Japan",http://ykk.com,*https://www.youtube.com/watch?v=cpxDZPl-FD4,N/A,
-3108,Consumer,Food,Chocolate,,,,,,,,,,,,,,,"*http://www.sciencechannel.com/tv-shows/how-its-made/videos/how-its-made-assorted-chocolates/
-*http://www.sciencechannel.com/tv-shows/how-its-made/videos/halloween-candy/",N/A,
-3109,Consumer,Food,Maple Syrup,,,,,,,,,,,,,,,*https://www.youtube.com/watch?v=RuuQavF4IRY,N/A,
-3110,Consumer,Food,Ice Cream,,,,,,,,,,,,,,,*http://www.sciencechannel.com/tv-shows/how-its-made/videos/ice-cream-treats/,N/A,
-3111,Consumer,Food,Sugar,,,,,,,,,,,,,,,*http://www.sciencechannel.com/tv-shows/how-its-made/videos/palm-sugar/,N/A,
-3112,Consumer,Clothing,Belt (black),,"-Belt (upper)
+Made in Japan",http://ykk.com,*https://www.youtube.com/watch?v=cpxDZPl-FD4,
+3108,N/A,Consumer,Food,Chocolate,,,,,,,,,,,,,,,"*http://www.sciencechannel.com/tv-shows/how-its-made/videos/how-its-made-assorted-chocolates/
+*http://www.sciencechannel.com/tv-shows/how-its-made/videos/halloween-candy/",
+3109,N/A,Consumer,Food,Maple Syrup,,,,,,,,,,,,,,,*https://www.youtube.com/watch?v=RuuQavF4IRY,
+3110,N/A,Consumer,Food,Ice Cream,,,,,,,,,,,,,,,*http://www.sciencechannel.com/tv-shows/how-its-made/videos/ice-cream-treats/,
+3111,N/A,Consumer,Food,Sugar (Rock),,,,,,,,,,,,,,,*http://www.sciencechannel.com/tv-shows/how-its-made/videos/palm-sugar/,
+3112,,Consumer,Clothing,"Belt (Leather (brown),Dockers)",2L.1,,"-Belt (upper)
 -Belt (lining)
 -Buckle","-1_Leather (1039)
 -2_Bonded leather (1039)
--3_Low carbon steel (1048)",,,,,,,,,,,,,,
-3113,Consumer,Clothing,Belt (brown),,"-Belt
+-3_Low carbon steel (1048)",,,,,,,,,,,,
+3113,,Consumer,Clothing,"Belt (Leather (black), Dockers)",2L.1,,"-Belt
 -Buckle","-1_Leather (1039)
--2_Low carbon steel (1048)",,,,,,,,,,,,,,
-3114,Consumer,Kitchen,Bowl (Ceramic),,"-
+-2_Low carbon steel (1048)",,,,,,,,,,,,
+3114,,Consumer,Kitchen,Bowl (Ceramic),2R.2,,,,,,,,,,,,,,,
+3115,,Consumer,Kitchen,Bowl (Glass Ceramic) ,2R.2,,,,,,,,,,,,,,,
+3116,,Consumer,Kitchen,Bowl (Glass),2L.1,,,,,,,,,,,,,,,
+3117,,Consumer,Kitchen,Crockery Pot (White),,,,,,,,,,,,,,,,
+3118,-3118_1,Consumer,Kitchen,"Cutlery (Aluminum Alloy, Sea to Summit)",2L.4,,,,,,,,,,,,,,,
+3119,-3119_1,Consumer,House & Garden,"Flashlight (LED, L.L. Bean)",2L.4,,,,,,,,,,,,,,,
+3120,,Consumer,Tools,"Hammer (Steel, Rubber handle)",2L.4,,,,,,,,,,,,,,,
+3121,,Consumer,House & Garden,"Lightbulb (Halogen, 50W, 12V, Sylvania)",2L.2,,,,,,,,,,,,,,,
+3122,,Consumer,House & Garden,"Lightbulb (Incandescent, 60W, 120V, Sylvania)",2L.2,,,,,,,,,,,,,,,
+3123,,Sports & Leisure,Outdoor Gear,Magnesium Fire Starter,2R.4,,"-Block
+-Scraper","-1_Magnesium (1061)
+-2_Steel (1049)",,,,,,,,,,,,
+3124,,Sports & Leisure,Outdoor Gear,Flint Stones Fire Starter,,,-Stones,-1_Flint Stones (N/A),,,,,,,,,,,,
+3125,,Sports & Leisure,Sports Equipment,Racquet Balls (3 Penn),,,,,,,,,,,,,,,,
+3126,,Consumer,Automotive,Spark Plug,2L.2,,,,,,,,,,,,,,,
+3127,,Consumer,Kitchen,Spork (Polymer),,,,,,,,,,,,,,,,
+3128,-3128_1,Consumer,Kitchen,Spork (Titanium),2R.2,,,,,,,,,,,,,,,
+3129,-3129_1,Sports & Leisure,Sports Equipment,Tennis Balls (3 Penn),,,,,,,,,,,,,,,,
+3130,,Consumer,Bath,Loofah Bath Brush,3R.3,,,,,,,,,,,,,,,
+3131,,Consumer,General,D4 Batteries (Energizer),2R.4,,,,,,,,,,,,,,,
+3132,,Consumer,Kitchen,Grater,2R.3,,,,,,,,,,,,,,,
+3133,,Consumer,Kitchen,"Muffin Pan (Red, Mrs. Anderson's Baking)",4.1,,,,,,,,,,,,,,,
+3134,,Consumer,Food,Maple Sugar,,,,,,,,,,,,,,,,
+3135,-3135_1,Consumer,Food,"Cocoa Powder (Unsweetened, Natural, Scharffen Berger)",,,,,,,,,,,,,,,,
+3136,,Processing,Casting,Virgin Mold Sand,,,,,,,,,,,,,,,,
+3137,,Experiments,Magnetic Properties,Magnetic Iron Filings (12oz),2R.3,,,,,,,,,,,,,,,
+3138,,Consumer,Kitchen,Ice Cream Scooper (OXO),,,,,,,,,,,,,,,,
+3139,,Consumer,General,Key Ring (Bolt Snap),2L.3,,,,,,,,,,,,,,,
+3140,,Processing,Casting,Mixed Mold Sand,,,,,,,,,,,,,,,,
+3141,,Consumer,Food,Cocoa Butter (Venchi),,,,,,,,,,,,,,,,
+3142,,Sports & Leisure,Sports Equipment,Golf Balls,,,,,,,,,,,,,,,,
+3143,,Consumer,General,Glue Tape,,,,,,,,,,,,,,,,
+3144,,Sports & Leisure,Sports Equipment,"Bicycle Bell (Small, Huffy)",,,,,,,,,,,,,,,,
+3145,,Consumer,House & Garden,"Lightbulbs (Vibration Resistant, 60W, 120V, 650Lumins, GE)",2L.2,,,,,,,,,,,,,,,
+3146,-3146_1,Consumer,Food,Cocoa Nibs,,,,,,,,,,,,,,,,
+3147,,Consumer,Food,Cocoa Beans,,,,,,,,,,,,,,,,
+3148,,Consumer,Food,Milk Powder,,,,,,,,,,,,,,,,
+3149,,Consumer,Kitchen,Baking Cups (CupcakeCreations),,,,,,,,,,,,,,,,
+3150,-3150_1,Consumer,Kitchen,Baking Cups (Mrs. Anderson's Baking,,,,,,,,,,,,,,,,
+3151,,Consumer,House & Garden,LED Fiber Optic Centerpiece Lamp,1.2,,,,,,,,,,,,,,,
+3152,,Consumer,House & Garden,Fiber Optic FingerBeams Finger Ring Lights ,1.2,,,,,,,,,,,,,,,
+3153,,Consumer,Kitchen,Metal Scoop,2L.3,,,,,,,,,,,,,,,
+3154,,Consumer,House & Garden,Spring Clamp,2L.3,,,,,,,,,,,,,,,
+3155,,Consumer,Toys,Legos,3L.1,,,,,,,,,,,,,,,
+3156,,Consumer,House & Garden,"Coat Hanger (Black, cast iron)",2L.3,,,,,,,,,,,,,,,
+3157,,Consumer,Kitchen,French Press,,,,,,,,,,,,,,,,
+3158,,Consumer,House & Garden,Adjustable Wrench (cast aluminum),2R.4,,,,,,,,,,,,,,,
+3159,,Consumer,Kitchen,Nakiri Mini Knife,2R.2,,,,,,,,,,,,,,,
+3160,,Consumer,Kitchen,"Basting Brush (red and white, silicone)",3R.1,,,,,,,,,,,,,,,
+3161,,,,Cotton Cloth,,,,,,,,,,,,,,,,
+3162,,Consumer,Food,Honey,,,,,,,,,,,,,,,,
+3163,,Consumer,Kitchen,Baking Brushes,,,,,,,,,,,,,,,,
+3164,,Consumer,Food,Invert Sugar,,,,,,,,,,,,,,,,
+3165,,Consumer,Kitchen,Reusable Coffee Filter,,,,,,,,,,,,,,,,
+3166,-3166_1,Consumer,Kitchen,Bamboo Cutting Board,,,,,,,,,,,,,,,,
+3167,-3167_1,Sports & Leisure,Sports Equipment,Pinky Bounce Ball,,,,,,,,,,,,,,,,
+3168,,Consumer,Food,Milk Chocolate,,,,,,,,,,,,,,,,
+3169,,Sports & Leisure,Sports Equipment,Badminton Shuttlecocks,,,,,,,,,,,,,,,,
+3170,,,,Pigments Set (Kremer),,,,,,,,,,,,,,,,
+3171,,,,Comb,,,,,,,,,,,,,,,,
+3172,,Consumer,Kitchen,Chopsticks,,,,,,,,,,,,,,,,
+3173,,,,Mystery Density Set (eisco),,,,,,,,,,,,,,,,
+3174,,,,Pottery Tool Kit,,,,,,,,,,,,,,,,
+3175,,,,Bell,,,,,,,,,,,,,,,,
+3176,,,,Record,,,,,,,,,,,,,,,,
+3177,,Consumer,Toys,Rainbow Xylophone,,,,,,,,,,,,,,,,
+3178,,,,Clay Set,,,,,,,,,,,,,,,,
+,,Arts & Crafts,Musical Instrument,* Acoustic Guitar - https://www.youtube.com/watch?v=MCDB301dyoM,,,"-
 -
 -
 -
@@ -1479,8 +1546,8 @@ Made in Japan",http://ykk.com,*https://www.youtube.com/watch?v=cpxDZPl-FD4,N/A,
 -2_
 -3_
 -4_
--5_",,,,,,,,,,,,,,
-3115,Consumer,Kitchen,Bowl (Glass Ceramic) ,,"-
+-5_",,,,,,,,,,* Acoustic Guitar - https://www.youtube.com/watch?v=MCDB301dyoM,,
+,,Sports & Leisure,Sports Equipment,* Aluminum bicycle wheels - https://www.youtube.com/watch?v=rAw7ihWIgAk,,,"-
 -
 -
 -
@@ -1488,8 +1555,8 @@ Made in Japan",http://ykk.com,*https://www.youtube.com/watch?v=cpxDZPl-FD4,N/A,
 -2_
 -3_
 -4_
--5_",,,,,,,,,,,,,,
-3116,Consumer,Kitchen,Bowl (Glass),,"-
+-5_",,,,,,,,,,* Aluminum bicycle wheels - https://www.youtube.com/watch?v=rAw7ihWIgAk,,
+,,Arts & Crafts,Musical Instrument,* Banjo - https://www.youtube.com/watch?v=32zH7zEv6d0,,,"-
 -
 -
 -
@@ -1497,8 +1564,8 @@ Made in Japan",http://ykk.com,*https://www.youtube.com/watch?v=cpxDZPl-FD4,N/A,
 -2_
 -3_
 -4_
--5_",,,,,,,,,,,,,,
-3117,Consumer,Kitchen,Crockery Pot (White),,"-
+-5_",,,,,,,,,,* Banjo - https://www.youtube.com/watch?v=32zH7zEv6d0,,
+,,Sports & Leisure,Sports Equipment,* Baseball bats (aluminum) -,,,"-
 -
 -
 -
@@ -1506,8 +1573,8 @@ Made in Japan",http://ykk.com,*https://www.youtube.com/watch?v=cpxDZPl-FD4,N/A,
 -2_
 -3_
 -4_
--5_",,,,,,,,,,,,,,
-3118,Consumer,Kitchen,"Cutlery (Titanium, )",,"-
+-5_",,,,,,,,,,* Baseball bats (aluminum) -,,
+,,Sports & Leisure,Sports Equipment,* Baseball bats (wooden) - https://www.youtube.com/watch?v=3amQeoAXUeo,,,"-
 -
 -
 -
@@ -1515,8 +1582,8 @@ Made in Japan",http://ykk.com,*https://www.youtube.com/watch?v=cpxDZPl-FD4,N/A,
 -2_
 -3_
 -4_
--5_",,,,,,,,,,,,,,
-3119,Consumer,House & Garden,"Flashlight (LED, L.L. Bean)",,"-
+-5_",,,,,,,,,,* Baseball bats (wooden) - https://www.youtube.com/watch?v=3amQeoAXUeo,,
+,,Sports & Leisure,Sports Equipment,* Baseball gloves - https://www.youtube.com/watch?v=PtySoTctqmk,,,"-
 -
 -
 -
@@ -1524,8 +1591,8 @@ Made in Japan",http://ykk.com,*https://www.youtube.com/watch?v=cpxDZPl-FD4,N/A,
 -2_
 -3_
 -4_
--5_",,,,,,,,,,,,,,
-3120,Consumer,Tools,"Hammer (Steel, Hickory Wood)",,"-
+-5_",,,,,,,,,,* Baseball gloves - https://www.youtube.com/watch?v=PtySoTctqmk,,
+,,Sports & Leisure,Sports Equipment,* Baseballs - https://www.youtube.com/watch?v=98yWCFbPNcQ,,,"-
 -
 -
 -
@@ -1533,8 +1600,8 @@ Made in Japan",http://ykk.com,*https://www.youtube.com/watch?v=cpxDZPl-FD4,N/A,
 -2_
 -3_
 -4_
--5_",,,,,,,,,,,,,,
-3121,Consumer,House & Garden,"Lightbulb (Halogen, 50W, 12V, Sylvania)",,"-
+-5_",,,,,,,,,,* Baseballs - https://www.youtube.com/watch?v=98yWCFbPNcQ,,
+,,Sports & Leisure,Sports Equipment,* Bicycle chains - https://www.youtube.com/watch?v=3a40SthUUWY,,,"-
 -
 -
 -
@@ -1542,8 +1609,8 @@ Made in Japan",http://ykk.com,*https://www.youtube.com/watch?v=cpxDZPl-FD4,N/A,
 -2_
 -3_
 -4_
--5_",,,,,,,,,,,,,,
-3122,Consumer,House & Garden,"Lightbulb (Incandescent, ??W, ??V, Sylvania)",,"-
+-5_",,,,,,,,,,* Bicycle chains - https://www.youtube.com/watch?v=3a40SthUUWY,,
+,,Sports & Leisure,Sports Equipment,* Bicycle helmet - https://www.youtube.com/watch?v=MeZa-LsqEW4&t=1s,,,"-
 -
 -
 -
@@ -1551,11 +1618,8 @@ Made in Japan",http://ykk.com,*https://www.youtube.com/watch?v=cpxDZPl-FD4,N/A,
 -2_
 -3_
 -4_
--5_",,,,,,,,,,,,,,
-3123,Sports & Leisure,Outdoor Gear,Magnesium Fire Starter,,"-Block
--Scraper",-1_Magnesium (),,,,,,,,,,,,,,
-3124,Sports & Leisure,Outdoor Gear,Magnesium Fire Starter,,-Stones,-1_Flint Stones (),,,,,,,,,,,,,,
-3125,Sports & Leisure,Sports Equipment,Racquet Balls (3 Penn),,"-
+-5_",,,,,,,,,,* Bicycle helmet - https://www.youtube.com/watch?v=MeZa-LsqEW4&t=1s,,
+,,Sports & Leisure,Sports Equipment,* Bicycle inner tubes - https://www.youtube.com/watch?v=xyck0QTbodo,,,"-
 -
 -
 -
@@ -1563,9 +1627,8 @@ Made in Japan",http://ykk.com,*https://www.youtube.com/watch?v=cpxDZPl-FD4,N/A,
 -2_
 -3_
 -4_
--5_",,,,,,,,,,,,,,
-3126,,,Spark Plug,,,,,,,,,,,,,,,,,
-3127,Consumer,Kitchen,Spork (Polymer),,"-
+-5_",,,,,,,,,,* Bicycle inner tubes - https://www.youtube.com/watch?v=xyck0QTbodo,,
+,,Sports & Leisure,Sports Equipment,* Bicycle lights - https://www.youtube.com/watch?v=yYn7troYb4E,,,"-
 -
 -
 -
@@ -1573,8 +1636,8 @@ Made in Japan",http://ykk.com,*https://www.youtube.com/watch?v=cpxDZPl-FD4,N/A,
 -2_
 -3_
 -4_
--5_",,,,,,,,,,,,,,
-3128,Consumer,Kitchen,Spork (Titanium),,"-
+-5_",,,,,,,,,,* Bicycle lights - https://www.youtube.com/watch?v=yYn7troYb4E,,
+,,Sports & Leisure,Sports Equipment,* Bicycle seats - https://www.youtube.com/watch?v=EPtubBk_mTg,,,"-
 -
 -
 -
@@ -1582,8 +1645,8 @@ Made in Japan",http://ykk.com,*https://www.youtube.com/watch?v=cpxDZPl-FD4,N/A,
 -2_
 -3_
 -4_
--5_",,,,,,,,,,,,,,
-3129,Sports & Leisure,Sports Equipment,Tennis Balls (3 Penn),,"-
+-5_",,,,,,,,,,* Bicycle seats - https://www.youtube.com/watch?v=EPtubBk_mTg,,
+,,Sports & Leisure,Sports Equipment,* Bicycle tires - https://www.youtube.com/watch?v=gm3JJW9wjA0,,,"-
 -
 -
 -
@@ -1591,9 +1654,8 @@ Made in Japan",http://ykk.com,*https://www.youtube.com/watch?v=cpxDZPl-FD4,N/A,
 -2_
 -3_
 -4_
--5_",,,,,,,,,,,,,,
-3130,,,Loofah Bath Brush,,,,,,,,,,,,,,,,,
-,Arts & Crafts,Musical Instrument,* Acoustic Guitar - https://www.youtube.com/watch?v=MCDB301dyoM,,"-
+-5_",,,,,,,,,,* Bicycle tires - https://www.youtube.com/watch?v=gm3JJW9wjA0,,
+,,Sports & Leisure,Sports Equipment,* Bicycles (bamboo) - https://www.youtube.com/watch?v=SOINI7tfBIQ,,,"-
 -
 -
 -
@@ -1601,8 +1663,8 @@ Made in Japan",http://ykk.com,*https://www.youtube.com/watch?v=cpxDZPl-FD4,N/A,
 -2_
 -3_
 -4_
--5_",,,,,,,,,,,* Acoustic Guitar - https://www.youtube.com/watch?v=MCDB301dyoM,,,
-,Sports & Leisure,Sports Equipment,* Aluminum bicycle wheels - https://www.youtube.com/watch?v=rAw7ihWIgAk,,"-
+-5_",,,,,,,,,,* Bicycles (bamboo) - https://www.youtube.com/watch?v=SOINI7tfBIQ,,
+,,Sports & Leisure,Sports Equipment,* Bicycles (CFRP) - https://www.youtube.com/watch?v=EMm6AMPcq8k,,,"-
 -
 -
 -
@@ -1610,8 +1672,8 @@ Made in Japan",http://ykk.com,*https://www.youtube.com/watch?v=cpxDZPl-FD4,N/A,
 -2_
 -3_
 -4_
--5_",,,,,,,,,,,* Aluminum bicycle wheels - https://www.youtube.com/watch?v=rAw7ihWIgAk,,,
-,Arts & Crafts,Musical Instrument,* Banjo - https://www.youtube.com/watch?v=32zH7zEv6d0,,"-
+-5_",,,,,,,,,,* Bicycles (CFRP) - https://www.youtube.com/watch?v=EMm6AMPcq8k,,
+,,Sports & Leisure,Sports Equipment,* Bicycles (steel) - https://www.youtube.com/watch?v=ATs8zQwPIvc,,,"-
 -
 -
 -
@@ -1619,8 +1681,8 @@ Made in Japan",http://ykk.com,*https://www.youtube.com/watch?v=cpxDZPl-FD4,N/A,
 -2_
 -3_
 -4_
--5_",,,,,,,,,,,* Banjo - https://www.youtube.com/watch?v=32zH7zEv6d0,,,
-,Sports & Leisure,Sports Equipment,* Baseball bats (aluminum) -,,"-
+-5_",,,,,,,,,,* Bicycles (steel) - https://www.youtube.com/watch?v=ATs8zQwPIvc,,
+,,Arts & Crafts,Musical Instrument,* Clarinet - https://www.youtube.com/watch?v=fZQprUXwFs8,,,"-
 -
 -
 -
@@ -1628,8 +1690,8 @@ Made in Japan",http://ykk.com,*https://www.youtube.com/watch?v=cpxDZPl-FD4,N/A,
 -2_
 -3_
 -4_
--5_",,,,,,,,,,,* Baseball bats (aluminum) -,,,
-,Sports & Leisure,Sports Equipment,* Baseball bats (wooden) - https://www.youtube.com/watch?v=3amQeoAXUeo,,"-
+-5_",,,,,,,,,,* Clarinet - https://www.youtube.com/watch?v=fZQprUXwFs8,,
+,,Arts & Crafts,Musical Instrument,* Clarinet Reed - https://www.youtube.com/watch?v=MwOUEsdpuI0,,,"-
 -
 -
 -
@@ -1637,8 +1699,8 @@ Made in Japan",http://ykk.com,*https://www.youtube.com/watch?v=cpxDZPl-FD4,N/A,
 -2_
 -3_
 -4_
--5_",,,,,,,,,,,* Baseball bats (wooden) - https://www.youtube.com/watch?v=3amQeoAXUeo,,,
-,Sports & Leisure,Sports Equipment,* Baseball gloves - https://www.youtube.com/watch?v=PtySoTctqmk,,"-
+-5_",,,,,,,,,,* Clarinet Reed - https://www.youtube.com/watch?v=MwOUEsdpuI0,,
+,,Sports & Leisure,Sports Equipment,* Climbing ropes - https://www.youtube.com/watch?v=SvxIZ91jDJo,,,"-
 -
 -
 -
@@ -1646,8 +1708,8 @@ Made in Japan",http://ykk.com,*https://www.youtube.com/watch?v=cpxDZPl-FD4,N/A,
 -2_
 -3_
 -4_
--5_",,,,,,,,,,,* Baseball gloves - https://www.youtube.com/watch?v=PtySoTctqmk,,,
-,Sports & Leisure,Sports Equipment,* Baseballs - https://www.youtube.com/watch?v=98yWCFbPNcQ,,"-
+-5_",,,,,,,,,,* Climbing ropes - https://www.youtube.com/watch?v=SvxIZ91jDJo,,
+,,Sports & Leisure,Sports Equipment,* Compound bows - https://www.youtube.com/watch?v=bppvfn1o7Cg,,,"-
 -
 -
 -
@@ -1655,8 +1717,8 @@ Made in Japan",http://ykk.com,*https://www.youtube.com/watch?v=cpxDZPl-FD4,N/A,
 -2_
 -3_
 -4_
--5_",,,,,,,,,,,* Baseballs - https://www.youtube.com/watch?v=98yWCFbPNcQ,,,
-,Sports & Leisure,Sports Equipment,* Bicycle chains - https://www.youtube.com/watch?v=3a40SthUUWY,,"-
+-5_",,,,,,,,,,* Compound bows - https://www.youtube.com/watch?v=bppvfn1o7Cg,,
+,,Sports & Leisure,Sports Equipment,* Cricket balls - https://www.youtube.com/watch?v=2EE82vdExhw,,,"-
 -
 -
 -
@@ -1664,8 +1726,8 @@ Made in Japan",http://ykk.com,*https://www.youtube.com/watch?v=cpxDZPl-FD4,N/A,
 -2_
 -3_
 -4_
--5_",,,,,,,,,,,* Bicycle chains - https://www.youtube.com/watch?v=3a40SthUUWY,,,
-,Sports & Leisure,Sports Equipment,* Bicycle helmet - https://www.youtube.com/watch?v=MeZa-LsqEW4&t=1s,,"-
+-5_",,,,,,,,,,* Cricket balls - https://www.youtube.com/watch?v=2EE82vdExhw,,
+,,Sports & Leisure,Sports Equipment,* Cricket bats - https://www.youtube.com/watch?v=rMt6-siK6G0,,,"-
 -
 -
 -
@@ -1673,8 +1735,8 @@ Made in Japan",http://ykk.com,*https://www.youtube.com/watch?v=cpxDZPl-FD4,N/A,
 -2_
 -3_
 -4_
--5_",,,,,,,,,,,* Bicycle helmet - https://www.youtube.com/watch?v=MeZa-LsqEW4&t=1s,,,
-,Sports & Leisure,Sports Equipment,* Bicycle inner tubes - https://www.youtube.com/watch?v=xyck0QTbodo,,"-
+-5_",,,,,,,,,,* Cricket bats - https://www.youtube.com/watch?v=rMt6-siK6G0,,
+,,Arts & Crafts,Musical Instrument,* Electric Guitar - https://www.youtube.com/watch?v=ux_vaTspdBQ,,,"-
 -
 -
 -
@@ -1682,8 +1744,8 @@ Made in Japan",http://ykk.com,*https://www.youtube.com/watch?v=cpxDZPl-FD4,N/A,
 -2_
 -3_
 -4_
--5_",,,,,,,,,,,* Bicycle inner tubes - https://www.youtube.com/watch?v=xyck0QTbodo,,,
-,Sports & Leisure,Sports Equipment,* Bicycle lights - https://www.youtube.com/watch?v=yYn7troYb4E,,"-
+-5_",,,,,,,,,,* Electric Guitar - https://www.youtube.com/watch?v=ux_vaTspdBQ,,
+,,Sports & Leisure,Sports Equipment,* English saddles - https://www.youtube.com/watch?v=onelxEOo_K8,,,"-
 -
 -
 -
@@ -1691,8 +1753,8 @@ Made in Japan",http://ykk.com,*https://www.youtube.com/watch?v=cpxDZPl-FD4,N/A,
 -2_
 -3_
 -4_
--5_",,,,,,,,,,,* Bicycle lights - https://www.youtube.com/watch?v=yYn7troYb4E,,,
-,Sports & Leisure,Sports Equipment,* Bicycle seats - https://www.youtube.com/watch?v=EPtubBk_mTg,,"-
+-5_",,,,,,,,,,* English saddles - https://www.youtube.com/watch?v=onelxEOo_K8,,
+,,Sports & Leisure,Sports Equipment,* Fencing foil - https://www.youtube.com/watch?v=XdGyjhrwevo,,,"-
 -
 -
 -
@@ -1700,8 +1762,8 @@ Made in Japan",http://ykk.com,*https://www.youtube.com/watch?v=cpxDZPl-FD4,N/A,
 -2_
 -3_
 -4_
--5_",,,,,,,,,,,* Bicycle seats - https://www.youtube.com/watch?v=EPtubBk_mTg,,,
-,Sports & Leisure,Sports Equipment,* Bicycle tires - https://www.youtube.com/watch?v=gm3JJW9wjA0,,"-
+-5_",,,,,,,,,,* Fencing foil - https://www.youtube.com/watch?v=XdGyjhrwevo,,
+,,Sports & Leisure,Sports Equipment,* Fencing mask - https://www.youtube.com/watch?v=zyPQHCsHSE0,,,"-
 -
 -
 -
@@ -1709,8 +1771,8 @@ Made in Japan",http://ykk.com,*https://www.youtube.com/watch?v=cpxDZPl-FD4,N/A,
 -2_
 -3_
 -4_
--5_",,,,,,,,,,,* Bicycle tires - https://www.youtube.com/watch?v=gm3JJW9wjA0,,,
-,Sports & Leisure,Sports Equipment,* Bicycles (bamboo) - https://www.youtube.com/watch?v=SOINI7tfBIQ,,"-
+-5_",,,,,,,,,,* Fencing mask - https://www.youtube.com/watch?v=zyPQHCsHSE0,,
+,,Arts & Crafts,Musical Instrument,* Flute -,,,"-
 -
 -
 -
@@ -1718,8 +1780,8 @@ Made in Japan",http://ykk.com,*https://www.youtube.com/watch?v=cpxDZPl-FD4,N/A,
 -2_
 -3_
 -4_
--5_",,,,,,,,,,,* Bicycles (bamboo) - https://www.youtube.com/watch?v=SOINI7tfBIQ,,,
-,Sports & Leisure,Sports Equipment,* Bicycles (CFRP) - https://www.youtube.com/watch?v=EMm6AMPcq8k,,"-
+-5_",,,,,,,,,,,,
+,,Arts & Crafts,Musical Instrument,* Gut Strings - https://www.youtube.com/watch?v=0ywzxkC0NAc,,,"-
 -
 -
 -
@@ -1727,8 +1789,8 @@ Made in Japan",http://ykk.com,*https://www.youtube.com/watch?v=cpxDZPl-FD4,N/A,
 -2_
 -3_
 -4_
--5_",,,,,,,,,,,* Bicycles (CFRP) - https://www.youtube.com/watch?v=EMm6AMPcq8k,,,
-,Sports & Leisure,Sports Equipment,* Bicycles (steel) - https://www.youtube.com/watch?v=ATs8zQwPIvc,,"-
+-5_",,,,,,,,,,* Gut Strings - https://www.youtube.com/watch?v=0ywzxkC0NAc,,
+,,Sports & Leisure,Sports Equipment,* Horse bits - https://www.youtube.com/watch?v=W-ZaSVgRgxE,,,"-
 -
 -
 -
@@ -1736,8 +1798,8 @@ Made in Japan",http://ykk.com,*https://www.youtube.com/watch?v=cpxDZPl-FD4,N/A,
 -2_
 -3_
 -4_
--5_",,,,,,,,,,,* Bicycles (steel) - https://www.youtube.com/watch?v=ATs8zQwPIvc,,,
-,Arts & Crafts,Musical Instrument,* Clarinet - https://www.youtube.com/watch?v=fZQprUXwFs8,,"-
+-5_",,,,,,,,,,* Horse bits - https://www.youtube.com/watch?v=W-ZaSVgRgxE,,
+,,Sports & Leisure,Sports Equipment,* Japanese bamboo bows - https://www.youtube.com/watch?v=J2exAwK8ME0,,,"-
 -
 -
 -
@@ -1745,8 +1807,8 @@ Made in Japan",http://ykk.com,*https://www.youtube.com/watch?v=cpxDZPl-FD4,N/A,
 -2_
 -3_
 -4_
--5_",,,,,,,,,,,* Clarinet - https://www.youtube.com/watch?v=fZQprUXwFs8,,,
-,Arts & Crafts,Musical Instrument,* Clarinet Reed - https://www.youtube.com/watch?v=MwOUEsdpuI0,,"-
+-5_",,,,,,,,,,* Japanese bamboo bows - https://www.youtube.com/watch?v=J2exAwK8ME0,,
+,,Sports & Leisure,Sports Equipment,* Javelines - https://www.youtube.com/watch?v=W6d25aFxnVg,,,"-
 -
 -
 -
@@ -1754,8 +1816,8 @@ Made in Japan",http://ykk.com,*https://www.youtube.com/watch?v=cpxDZPl-FD4,N/A,
 -2_
 -3_
 -4_
--5_",,,,,,,,,,,* Clarinet Reed - https://www.youtube.com/watch?v=MwOUEsdpuI0,,,
-,Sports & Leisure,Sports Equipment,* Climbing ropes - https://www.youtube.com/watch?v=SvxIZ91jDJo,,"-
+-5_",,,,,,,,,,* Javelines - https://www.youtube.com/watch?v=W6d25aFxnVg,,
+,,Sports & Leisure,Sports Equipment,* Metal golf clubs - https://www.youtube.com/watch?v=g6WmtOyzkvo,,,"-
 -
 -
 -
@@ -1763,8 +1825,8 @@ Made in Japan",http://ykk.com,*https://www.youtube.com/watch?v=cpxDZPl-FD4,N/A,
 -2_
 -3_
 -4_
--5_",,,,,,,,,,,* Climbing ropes - https://www.youtube.com/watch?v=SvxIZ91jDJo,,,
-,Sports & Leisure,Sports Equipment,* Compound bows - https://www.youtube.com/watch?v=bppvfn1o7Cg,,"-
+-5_",,,,,,,,,,* Metal golf clubs - https://www.youtube.com/watch?v=g6WmtOyzkvo,,
+,,Sports & Leisure,Sports Equipment,* Mountain bikes - https://www.youtube.com/watch?v=ivPlSYSOBHA,,,"-
 -
 -
 -
@@ -1772,8 +1834,8 @@ Made in Japan",http://ykk.com,*https://www.youtube.com/watch?v=cpxDZPl-FD4,N/A,
 -2_
 -3_
 -4_
--5_",,,,,,,,,,,* Compound bows - https://www.youtube.com/watch?v=bppvfn1o7Cg,,,
-,Sports & Leisure,Sports Equipment,* Cricket balls - https://www.youtube.com/watch?v=2EE82vdExhw,,"-
+-5_",,,,,,,,,,* Mountain bikes - https://www.youtube.com/watch?v=ivPlSYSOBHA,,
+,,Sports & Leisure,Sports Equipment,* Polo mallets - https://www.youtube.com/watch?v=pShOmubCfQo,,,"-
 -
 -
 -
@@ -1781,8 +1843,8 @@ Made in Japan",http://ykk.com,*https://www.youtube.com/watch?v=cpxDZPl-FD4,N/A,
 -2_
 -3_
 -4_
--5_",,,,,,,,,,,* Cricket balls - https://www.youtube.com/watch?v=2EE82vdExhw,,,
-,Sports & Leisure,Sports Equipment,* Cricket bats - https://www.youtube.com/watch?v=rMt6-siK6G0,,"-
+-5_",,,,,,,,,,* Polo mallets - https://www.youtube.com/watch?v=pShOmubCfQo,,
+,,Sports & Leisure,Sports Equipment,* Rock climbing gear - https://www.youtube.com/watch?v=0BMvzLfBvgs,,,"-
 -
 -
 -
@@ -1790,8 +1852,8 @@ Made in Japan",http://ykk.com,*https://www.youtube.com/watch?v=cpxDZPl-FD4,N/A,
 -2_
 -3_
 -4_
--5_",,,,,,,,,,,* Cricket bats - https://www.youtube.com/watch?v=rMt6-siK6G0,,,
-,Arts & Crafts,Musical Instrument,* Electric Guitar - https://www.youtube.com/watch?v=ux_vaTspdBQ,,"-
+-5_",,,,,,,,,,* Rock climbing gear - https://www.youtube.com/watch?v=0BMvzLfBvgs,,
+,,Sports & Leisure,Sports Equipment,* Rowboat racing shells - https://www.youtube.com/watch?v=tckwLt5aze0,,,"-
 -
 -
 -
@@ -1799,8 +1861,8 @@ Made in Japan",http://ykk.com,*https://www.youtube.com/watch?v=cpxDZPl-FD4,N/A,
 -2_
 -3_
 -4_
--5_",,,,,,,,,,,* Electric Guitar - https://www.youtube.com/watch?v=ux_vaTspdBQ,,,
-,Sports & Leisure,Sports Equipment,* English saddles - https://www.youtube.com/watch?v=onelxEOo_K8,,"-
+-5_",,,,,,,,,,* Rowboat racing shells - https://www.youtube.com/watch?v=tckwLt5aze0,,
+,,Sports & Leisure,Sports Equipment,* Rowing oars (CFRP) -,,,"-
 -
 -
 -
@@ -1808,8 +1870,8 @@ Made in Japan",http://ykk.com,*https://www.youtube.com/watch?v=cpxDZPl-FD4,N/A,
 -2_
 -3_
 -4_
--5_",,,,,,,,,,,* English saddles - https://www.youtube.com/watch?v=onelxEOo_K8,,,
-,Sports & Leisure,Sports Equipment,* Fencing foil - https://www.youtube.com/watch?v=XdGyjhrwevo,,"-
+-5_",,,,,,,,,,* Rowing oars (CFRP) -,,
+,,Sports & Leisure,Sports Equipment,* Rowing oars (wooden) - https://www.youtube.com/watch?v=c6haJElXSvQ,,,"-
 -
 -
 -
@@ -1817,8 +1879,8 @@ Made in Japan",http://ykk.com,*https://www.youtube.com/watch?v=cpxDZPl-FD4,N/A,
 -2_
 -3_
 -4_
--5_",,,,,,,,,,,* Fencing foil - https://www.youtube.com/watch?v=XdGyjhrwevo,,,
-,Sports & Leisure,Sports Equipment,* Fencing mask - https://www.youtube.com/watch?v=zyPQHCsHSE0,,"-
+-5_",,,,,,,,,,* Rowing oars (wooden) - https://www.youtube.com/watch?v=c6haJElXSvQ,,
+,,Sports & Leisure,Sports Equipment,* Ski bindings - https://www.youtube.com/watch?v=4xFJIRljFB4,,,"-
 -
 -
 -
@@ -1826,8 +1888,8 @@ Made in Japan",http://ykk.com,*https://www.youtube.com/watch?v=cpxDZPl-FD4,N/A,
 -2_
 -3_
 -4_
--5_",,,,,,,,,,,* Fencing mask - https://www.youtube.com/watch?v=zyPQHCsHSE0,,,
-,Arts & Crafts,Musical Instrument,* Flute -,,"-
+-5_",,,,,,,,,,* Ski bindings - https://www.youtube.com/watch?v=4xFJIRljFB4,,
+,,Sports & Leisure,Sports Equipment,* Skis (handmade) - https://www.youtube.com/watch?v=e603BKtuauc,,,"-
 -
 -
 -
@@ -1835,8 +1897,8 @@ Made in Japan",http://ykk.com,*https://www.youtube.com/watch?v=cpxDZPl-FD4,N/A,
 -2_
 -3_
 -4_
--5_",,,,,,,,,,,,,,
-,Arts & Crafts,Musical Instrument,* Gut Strings - https://www.youtube.com/watch?v=0ywzxkC0NAc,,"-
+-5_",,,,,,,,,,* Skis (handmade) - https://www.youtube.com/watch?v=e603BKtuauc,,
+,,Sports & Leisure,Sports Equipment,* Snowboards - https://www.youtube.com/watch?v=KnWPSWYvjSs,,,"-
 -
 -
 -
@@ -1844,8 +1906,8 @@ Made in Japan",http://ykk.com,*https://www.youtube.com/watch?v=cpxDZPl-FD4,N/A,
 -2_
 -3_
 -4_
--5_",,,,,,,,,,,* Gut Strings - https://www.youtube.com/watch?v=0ywzxkC0NAc,,,
-,Sports & Leisure,Sports Equipment,* Horse bits - https://www.youtube.com/watch?v=W-ZaSVgRgxE,,"-
+-5_",,,,,,,,,,* Snowboards - https://www.youtube.com/watch?v=KnWPSWYvjSs,,
+,,Sports & Leisure,Sports Equipment,* Softball bat (CFRP) - https://www.youtube.com/watch?v=JtbEvjLLFus,,,"-
 -
 -
 -
@@ -1853,8 +1915,8 @@ Made in Japan",http://ykk.com,*https://www.youtube.com/watch?v=cpxDZPl-FD4,N/A,
 -2_
 -3_
 -4_
--5_",,,,,,,,,,,* Horse bits - https://www.youtube.com/watch?v=W-ZaSVgRgxE,,,
-,Sports & Leisure,Sports Equipment,* Japanese bamboo bows - https://www.youtube.com/watch?v=J2exAwK8ME0,,"-
+-5_",,,,,,,,,,* Softball bat (CFRP) - https://www.youtube.com/watch?v=JtbEvjLLFus,,
+,,Sports & Leisure,Sports Equipment,* Traditional snowshoes - https://www.youtube.com/watch?v=WQVp1G5WY1c,,,"-
 -
 -
 -
@@ -1862,8 +1924,8 @@ Made in Japan",http://ykk.com,*https://www.youtube.com/watch?v=cpxDZPl-FD4,N/A,
 -2_
 -3_
 -4_
--5_",,,,,,,,,,,* Japanese bamboo bows - https://www.youtube.com/watch?v=J2exAwK8ME0,,,
-,Sports & Leisure,Sports Equipment,* Javelines - https://www.youtube.com/watch?v=W6d25aFxnVg,,"-
+-5_",,,,,,,,,,* Traditional snowshoes - https://www.youtube.com/watch?v=WQVp1G5WY1c,,
+,,Arts & Crafts,Musical Instrument,* Tuba - https://www.youtube.com/watch?v=VmGoks_DXaA,,,"-
 -
 -
 -
@@ -1871,8 +1933,8 @@ Made in Japan",http://ykk.com,*https://www.youtube.com/watch?v=cpxDZPl-FD4,N/A,
 -2_
 -3_
 -4_
--5_",,,,,,,,,,,* Javelines - https://www.youtube.com/watch?v=W6d25aFxnVg,,,
-,Sports & Leisure,Sports Equipment,* Metal golf clubs - https://www.youtube.com/watch?v=g6WmtOyzkvo,,"-
+-5_",,,,,,,,,,* Tuba - https://www.youtube.com/watch?v=VmGoks_DXaA,,
+,,Sports & Leisure,Sports Equipment,* Vaulting poles - https://www.youtube.com/watch?v=_tPqH3x4d0I,,,"-
 -
 -
 -
@@ -1880,8 +1942,8 @@ Made in Japan",http://ykk.com,*https://www.youtube.com/watch?v=cpxDZPl-FD4,N/A,
 -2_
 -3_
 -4_
--5_",,,,,,,,,,,* Metal golf clubs - https://www.youtube.com/watch?v=g6WmtOyzkvo,,,
-,Sports & Leisure,Sports Equipment,* Mountain bikes - https://www.youtube.com/watch?v=ivPlSYSOBHA,,"-
+-5_",,,,,,,,,,* Vaulting poles - https://www.youtube.com/watch?v=_tPqH3x4d0I,,
+,,Arts & Crafts,Musical Instrument,* Violin - https://www.youtube.com/watch?v=WcJfbjcUDoo,,,"-
 -
 -
 -
@@ -1889,8 +1951,8 @@ Made in Japan",http://ykk.com,*https://www.youtube.com/watch?v=cpxDZPl-FD4,N/A,
 -2_
 -3_
 -4_
--5_",,,,,,,,,,,* Mountain bikes - https://www.youtube.com/watch?v=ivPlSYSOBHA,,,
-,Sports & Leisure,Sports Equipment,* Polo mallets - https://www.youtube.com/watch?v=pShOmubCfQo,,"-
+-5_",,,,,,,,,,* Violin - https://www.youtube.com/watch?v=WcJfbjcUDoo,,
+,,Arts & Crafts,Musical Instrument,* Violin Bows - https://www.youtube.com/watch?v=LFj1ZkuuFKo,,,"-
 -
 -
 -
@@ -1898,8 +1960,8 @@ Made in Japan",http://ykk.com,*https://www.youtube.com/watch?v=cpxDZPl-FD4,N/A,
 -2_
 -3_
 -4_
--5_",,,,,,,,,,,* Polo mallets - https://www.youtube.com/watch?v=pShOmubCfQo,,,
-,Sports & Leisure,Sports Equipment,* Rock climbing gear - https://www.youtube.com/watch?v=0BMvzLfBvgs,,"-
+-5_",,,,,,,,,,* Violin Bows - https://www.youtube.com/watch?v=LFj1ZkuuFKo,,
+,,Sports & Leisure,Sports Equipment,* Western saddles - https://www.youtube.com/watch?v=rZtgfBOzhas,,,"-
 -
 -
 -
@@ -1907,8 +1969,8 @@ Made in Japan",http://ykk.com,*https://www.youtube.com/watch?v=cpxDZPl-FD4,N/A,
 -2_
 -3_
 -4_
--5_",,,,,,,,,,,* Rock climbing gear - https://www.youtube.com/watch?v=0BMvzLfBvgs,,,
-,Sports & Leisure,Sports Equipment,* Rowboat racing shells - https://www.youtube.com/watch?v=tckwLt5aze0,,"-
+-5_",,,,,,,,,,* Western saddles - https://www.youtube.com/watch?v=rZtgfBOzhas,,
+,,Sports & Leisure,Sports Equipment,* Wooden golf clubs - https://www.youtube.com/watch?v=AvOy9ZK8V5A,,,"-
 -
 -
 -
@@ -1916,8 +1978,8 @@ Made in Japan",http://ykk.com,*https://www.youtube.com/watch?v=cpxDZPl-FD4,N/A,
 -2_
 -3_
 -4_
--5_",,,,,,,,,,,* Rowboat racing shells - https://www.youtube.com/watch?v=tckwLt5aze0,,,
-,Sports & Leisure,Sports Equipment,* Rowing oars (CFRP) -,,"-
+-5_",,,,,,,,,,* Wooden golf clubs - https://www.youtube.com/watch?v=AvOy9ZK8V5A,,
+,,Sports & Leisure,Sports Equipment,* Wooden paddles - https://www.youtube.com/watch?v=38OJzihHcm8,,,"-
 -
 -
 -
@@ -1925,121 +1987,4 @@ Made in Japan",http://ykk.com,*https://www.youtube.com/watch?v=cpxDZPl-FD4,N/A,
 -2_
 -3_
 -4_
--5_",,,,,,,,,,,* Rowing oars (CFRP) -,,,
-,Sports & Leisure,Sports Equipment,* Rowing oars (wooden) - https://www.youtube.com/watch?v=c6haJElXSvQ,,"-
--
--
--
--","-1_
--2_
--3_
--4_
--5_",,,,,,,,,,,* Rowing oars (wooden) - https://www.youtube.com/watch?v=c6haJElXSvQ,,,
-,Sports & Leisure,Sports Equipment,* Ski bindings - https://www.youtube.com/watch?v=4xFJIRljFB4,,"-
--
--
--
--","-1_
--2_
--3_
--4_
--5_",,,,,,,,,,,* Ski bindings - https://www.youtube.com/watch?v=4xFJIRljFB4,,,
-,Sports & Leisure,Sports Equipment,* Skis (handmade) - https://www.youtube.com/watch?v=e603BKtuauc,,"-
--
--
--
--","-1_
--2_
--3_
--4_
--5_",,,,,,,,,,,* Skis (handmade) - https://www.youtube.com/watch?v=e603BKtuauc,,,
-,Sports & Leisure,Sports Equipment,* Snowboards - https://www.youtube.com/watch?v=KnWPSWYvjSs,,"-
--
--
--
--","-1_
--2_
--3_
--4_
--5_",,,,,,,,,,,* Snowboards - https://www.youtube.com/watch?v=KnWPSWYvjSs,,,
-,Sports & Leisure,Sports Equipment,* Softball bat (CFRP) - https://www.youtube.com/watch?v=JtbEvjLLFus,,"-
--
--
--
--","-1_
--2_
--3_
--4_
--5_",,,,,,,,,,,* Softball bat (CFRP) - https://www.youtube.com/watch?v=JtbEvjLLFus,,,
-,Sports & Leisure,Sports Equipment,* Traditional snowshoes - https://www.youtube.com/watch?v=WQVp1G5WY1c,,"-
--
--
--
--","-1_
--2_
--3_
--4_
--5_",,,,,,,,,,,* Traditional snowshoes - https://www.youtube.com/watch?v=WQVp1G5WY1c,,,
-,Arts & Crafts,Musical Instrument,* Tuba - https://www.youtube.com/watch?v=VmGoks_DXaA,,"-
--
--
--
--","-1_
--2_
--3_
--4_
--5_",,,,,,,,,,,* Tuba - https://www.youtube.com/watch?v=VmGoks_DXaA,,,
-,Sports & Leisure,Sports Equipment,* Vaulting poles - https://www.youtube.com/watch?v=_tPqH3x4d0I,,"-
--
--
--
--","-1_
--2_
--3_
--4_
--5_",,,,,,,,,,,* Vaulting poles - https://www.youtube.com/watch?v=_tPqH3x4d0I,,,
-,Arts & Crafts,Musical Instrument,* Violin - https://www.youtube.com/watch?v=WcJfbjcUDoo,,"-
--
--
--
--","-1_
--2_
--3_
--4_
--5_",,,,,,,,,,,* Violin - https://www.youtube.com/watch?v=WcJfbjcUDoo,,,
-,Arts & Crafts,Musical Instrument,* Violin Bows - https://www.youtube.com/watch?v=LFj1ZkuuFKo,,"-
--
--
--
--","-1_
--2_
--3_
--4_
--5_",,,,,,,,,,,* Violin Bows - https://www.youtube.com/watch?v=LFj1ZkuuFKo,,,
-,Sports & Leisure,Sports Equipment,* Western saddles - https://www.youtube.com/watch?v=rZtgfBOzhas,,"-
--
--
--
--","-1_
--2_
--3_
--4_
--5_",,,,,,,,,,,* Western saddles - https://www.youtube.com/watch?v=rZtgfBOzhas,,,
-,Sports & Leisure,Sports Equipment,* Wooden golf clubs - https://www.youtube.com/watch?v=AvOy9ZK8V5A,,"-
--
--
--
--","-1_
--2_
--3_
--4_
--5_",,,,,,,,,,,* Wooden golf clubs - https://www.youtube.com/watch?v=AvOy9ZK8V5A,,,
-,Sports & Leisure,Sports Equipment,* Wooden paddles - https://www.youtube.com/watch?v=38OJzihHcm8,,"-
--
--
--
--","-1_
--2_
--3_
--4_
--5_",,,,,,,,,,,* Wooden paddles - https://www.youtube.com/watch?v=38OJzihHcm8,,,
+-5_",,,,,,,,,,* Wooden paddles - https://www.youtube.com/watch?v=38OJzihHcm8,,
