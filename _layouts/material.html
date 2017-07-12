@@ -70,11 +70,17 @@ layout: default
           </div>
 
           {% include relations.html %}
-          
-          <div class="labels">McMaster-Carr</div>
-          <div class="data">
-            <a href="http://www.mcmaster.com/#{{ page.material_name }}" target="_blank">{{ page.material_name }}</a>
-          </div>
+          {% if page.material_subclass == "Hybrids: Natural Materials" %}
+            <div class="labels">Woodcraft</div>
+            <div class="data">
+            <a href="https://www.woodcraft.com/search?q={{ page.material_name }}&button=search" target="_blank">{{ page.material_name }}</a>
+            </div>
+          {% else %}
+            <div class="labels">McMaster-Carr</div>
+            <div class="data">
+              <a href="http://www.mcmaster.com/#{{ page.material_name }}" target="_blank">{{ page.material_name }}</a>
+            </div>
+          {% endif %}
           <div class="labels">General Applications</div>
           <div class="data">
             {{ page.general_applications }}
