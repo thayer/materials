@@ -616,7 +616,7 @@ Diffusion and glaze bonding [Ceramics],Joining,Joining: Thermal Welding',Joining
  
  In DIFFUSION BONDING the surfaces to be joined are cleaned, pressed into close contact and heated in vacuum or a controlled atmosphere. Solid state diffusion creates the bond, which is of high quality, but the process is slow and the temperatures are high. GLAZE BONDING depends on the fact that molten glass wets and bonds to almost anything. To exploit this, the surfaces to be joined are first coated with a thin layer of finely-ground glass slurry, with the composition chosen to melt at a temperature well below that for diffusion bonding, and with maximum compatibility between the two surfaces to be joined. A small pressure is applied across the interface and the assembly is heated, melting the glass and forming a thin, but strong bonding layer."
 Brazing,Joining,Joining: Thermal Welding',Joining: Thermal Welding: Metals',2011_brazing,"-- Jewelry Studio (https://hop.dartmouth.edu/online/jewelry)
- -- Machineshop (http://engineering.dartmouth.edu/mshop/machines.html)","--1001 (Borosilicate glass)
+ -- Machineshop [Oxy-Acetylene Torch] (http://engineering.dartmouth.edu/mshop/machines/oxy-acetylene-welding-apparatus.html)","--1001 (Borosilicate glass)
 --1003 (Silica glass)
 --1004 (Soda-lime glass)
 --1014 (Alumina)
@@ -671,7 +671,7 @@ Diffusion and glaze bonding [Metals],Joining,Joining: Thermal Welding',Joining: 
  GLAZE BONDING depends on the fact that molten glass wets and bonds to almost anything. 
  
  To exploit this, the surfaces to be joined are first coated with a thin layer of finely-ground glass slurry, with the composition chosen to melt at a temperature well below that for diffusion bonding, and with maximum compatibility between the two surfaces to be joined. A small pressure is applied across the interface and the assembly is heated, melting the glass and forming a thin, but strong bonding layer."
-Gas Metal Arc (MIG),Joining,Joining: Thermal Welding',Joining: Thermal Welding: Metals',2013_gas_metal_arc,-- Machineshop (http://engineering.dartmouth.edu/mshop/machines.html),"--1028 (Metal foam)
+Gas Metal Arc (MIG),Joining,Joining: Thermal Welding',Joining: Thermal Welding: Metals',2013_gas_metal_arc,-- Machineshop {MIG Welding} (http://engineering.dartmouth.edu/mshop/machines/mig---millermatic-252.html),"--1028 (Metal foam)
 --1044 (Cast iron, ductile (nodular))
 --1045 (Cast iron, gray)
 --1046 (High carbon steel)
@@ -688,7 +688,7 @@ Gas Metal Arc (MIG),Joining,Joining: Thermal Welding',Joining: Thermal Welding: 
 --1064 (Nickel-chromium alloys)
 --1066 (Tin)
 --1128 (Pewter)",,"Gas metal arc (MIG) welding is a heavy-duty welding processes (together with MMA and TIG). The electrode here is a bare wire, with no flux. The flux is replaced by a stream of inert gas, which surrounds the arc formed between the consumable wire electrode and the component; the wire is advanced from a coil as the electrode is consumed. The real advantages over torch welding are that there is no flux or slag, giving a cleaner weld - and that it can be automated. But there is a penalty: because the process needs gas, it is more expensive and less portable. None the less, MIG is considered to be the most versatile of all arc welding processes, allowing the welding of most ferrous and non-ferrous alloys in a wide range of thicknesses and all welding positions."
-Gas tungsten arc (TIG),Joining,Joining: Thermal Welding',Joining: Thermal Welding: Metals',2014_gas_tungsten_arc,-- Machineshop (http://engineering.dartmouth.edu/mshop/machines.html),"--1046 (High carbon steel)
+Gas tungsten arc (TIG),Joining,Joining: Thermal Welding',Joining: Thermal Welding: Metals',2014_gas_tungsten_arc,-- Machineshop [TIG Welding] (http://engineering.dartmouth.edu/mshop/machines/tig---miller.html),"--1046 (High carbon steel)
 --1047 (Low alloy steel)
 --1048 (Low carbon steel)
 --1049 (Medium carbon steel)
@@ -880,7 +880,8 @@ Hot plate welding,Joining,Joining: Thermal Welding',Joining: Thermal Welding: Po
 --1070 (Commercially pure zinc)
 --1071 (Zinc die-casting alloys)
 --1128 (Pewter)",,"In 3D CERAMIC MOLD PRINTING, a multi-jet print head, like that of a bubble-jet printer, deposits a binder on a bed of fine foundry sand. After each sweep of the print head, a new, thin, layer of sand is spread across the surface of the model, so that on the next sweep of the print head a new layer of bonded sand is created. The final model, after shaking it free of unbonded sand, now becomes the mold for a shell casting, allowing single metal parts with very complex shapes to be fabricated. As with other additive manufacturing processes, a CAD solid model of the part is required."
-3D printing,Shaping,Shaping: Additive Manufacturing',Shaping: Additive Manufacturing: 3D Printing',2024_3D_printing,-- Machineshop (http://engineering.dartmouth.edu/mshop/machines.html),"--1080 (Acrylonitrile butadiene styrene (ABS))
+3D printing,Shaping,Shaping: Additive Manufacturing',Shaping: Additive Manufacturing: 3D Printing',2024_3D_printing,"-- Machineshop [Objet Eden] (http://engineering.dartmouth.edu/mshop/machines/objet-eden-250.html)
+-- Machineshop [Z-Corp z-650] (http://engineering.dartmouth.edu/mshop/machines/z-corp-z-650-3d-printer.html)","--1080 (Acrylonitrile butadiene styrene (ABS))
 --1083 (Polyamides (Nylons, PA))
 --1084 (Polycarbonate (PC))
 --1085 (Polyetheretherketone (PEEK))
@@ -927,7 +928,7 @@ Ballistic particle (obsolete),Shaping,Shaping: Additive Manufacturing',Shaping: 
 --1136 (TORLON PAI)",,"BALLISTIC PARTICLE MANUFACTURE (BPM) is a rapid prototyping technique in which microscopic particles of molten thermoplastic are shot by a piezoelectric jetting system and freeze when they hit the object being created. A wide range of materials can be used. As with other rapid prototyping processes, a CAD solid model of the part is required.
  
  The process is now obsolete, having been superseded by inkjet methods (3D printing)."
-Fused deposition,Shaping,Shaping: Additive Manufacturing',Shaping: Additive Manufacturing: Deposition Methods',2027_fused_deposition,-- Machineshop (http://engineering.dartmouth.edu/mshop/machines.html),"--1080 (Acrylonitrile butadiene styrene (ABS))
+Fused deposition,Shaping,Shaping: Additive Manufacturing',Shaping: Additive Manufacturing: Deposition Methods',2027_fused_deposition,-- Machineshop [Stratasys Titan] (http://engineering.dartmouth.edu/mshop/machines/stratasys-titan.html),"--1080 (Acrylonitrile butadiene styrene (ABS))
 --1081 (Cellulose polymers (CA))
 --1083 (Polyamides (Nylons, PA))
 --1084 (Polycarbonate (PC))
@@ -1305,7 +1306,8 @@ Sheet forming,Shaping,Shaping: Deformation',Shaping: Deformation: Sheet Deformat
 --1070 (Commercially pure zinc)
 --1071 (Zinc die-casting alloys)
 --1128 (Pewter)",,"Many products are made by cutting, pressing, punching, folding or spinning of sheet. Press forming covers a range of sheet forming processes that use a die and a press; these include blanking, shearing, drawing and stretching. They may be performed consecutively to form complex shapes. Tools are dedicated, so tooling costs are high. In roll forming a continuous strip of sheet metal is fed through a series of shaped rolls, gradually forming it to the desired profile. The process is suited for long lengths of constant, sometimes complex, cross sections. Hollow components are possible by incorporating seem welding into the process. High production rates, tooling and capital costs make the process economic only for large production levels. In Spinning a circular blank of sheet metal is formed over a rotating mandrill or forming block, against which it is pressed by a rigid tool or roller as it spins. The tools are very simple, made of wood or metal, and are therefore cheap."
-"Sheet stamping, drawing and blanking",Shaping,Shaping: Deformation',Shaping: Deformation: Sheet Deformation',2060_sheet_stamping_drawing_blanking,-- Jewelry Studio (https://hop.dartmouth.edu/online/jewelry),"--1046 (High carbon steel)
+"Sheet stamping, drawing and blanking",Shaping,Shaping: Deformation',Shaping: Deformation: Sheet Deformation',2060_sheet_stamping_drawing_blanking,"-- Jewelry Studio (https://hop.dartmouth.edu/online/jewelry)
+-- Machineshop [Scotchman Iron Worker] (http://engineering.dartmouth.edu/mshop/machines/scotchman-50514-cm-ironworker.html)","--1046 (High carbon steel)
 --1047 (Low alloy steel)
 --1048 (Low carbon steel)
 --1049 (Medium carbon steel)
@@ -1347,7 +1349,8 @@ Spinning,Shaping,Shaping: Deformation',Shaping: Deformation: Sheet Deformation',
 --1070 (Commercially pure zinc)
 --1071 (Zinc die-casting alloys)",,"SPINNING involves the forming of axisymmetric parts over a rotating mandrel by a rigid tool or roller. The process uses a lathe-type machine in which is mounted a forming block against which the metal sheet is pressed as it and the forming block rotate. The sheet gradually takes the shape of the forming block. The tools, made of wood or steel, are very simple and thus cheap, making the process attractive for small production runs. Most spinning is performed at room temperature though, if required, it can be done hot."
 Band sawing,Shaping,Shaping: Machining',Shaping: Machining: Conventional Machining',2062_band_sawing,"-- Woodshop (https://hop.dartmouth.edu/online/woodworking)
- -- Machineshop (http://engineering.dartmouth.edu/mshop/machines.html)","--1008 (Brick)
+-- Machineshop [Phoenix Bandsaw] (http://engineering.dartmouth.edu/mshop/machines/fmb-phoenix-bandsaw.html)
+-- Machineshop [Vertical Bandsaw] (http://engineering.dartmouth.edu/mshop/machines/msc-vertical-bandsaw.html)","--1008 (Brick)
 --1009 (Granite)
 --1010 (Limestone)
 --1011 (Marble)
@@ -1553,7 +1556,8 @@ Circular sawing,Shaping,Shaping: Machining',Shaping: Machining: Conventional Mac
 --3036 (Bottle (glass))
 --3039 (Knitting Needles (Bamboo))","In CIRCULAR SAWING a rotating cutting blade is fed horizontally, vertically, or at an angle into the workpiece. The rigidity of the machine allows high precision and the cutting blade and can produce burr-free surfaces, reducing the need for further finishing. Circular sawing produces a wider cut than band sawing, although circular saws as thin as 1.5 mm (0.060 in.) are available. Thin blades, however, cannot maintain the tolerances and high cutting forces for which circular sawing is noted."
 Cropping and guillotining,Shaping,Shaping: Machining',Shaping: Machining: Conventional Machining',2064_cropping_guillotining,"-- Jewelry Studio (https://hop.dartmouth.edu/online/jewelry)
- -- Machineshop (http://engineering.dartmouth.edu/mshop/machines.html)","--1039 (Leather)
+ -- Machineshop [Schotchman Iron Worker] (http://engineering.dartmouth.edu/mshop/machines/scotchman-50514-cm-ironworker.html)
+-- Machineshop [Vinyl Cutter] (http://engineering.dartmouth.edu/mshop/machines/gx-24-servo-desktop-vinyl-cutter.html)","--1039 (Leather)
 --1046 (High carbon steel)
 --1047 (Low alloy steel)
 --1048 (Low carbon steel)
@@ -1652,7 +1656,11 @@ Cropping and guillotining,Shaping,Shaping: Machining',Shaping: Machining: Conven
  
  The process is used on many different types of material: metal, plastic, paper. The cut edge is burredandslightlydeformed."
 Drilling,Shaping,Shaping: Machining',Shaping: Machining: Conventional Machining',2065_drilling,"-- Woodshop (https://hop.dartmouth.edu/online/woodworking)
- -- Machineshop (http://engineering.dartmouth.edu/mshop/machines.html)","--1001 (Borosilicate glass)
+ -- Machineshop [Hass Minimill] (http://engineering.dartmouth.edu/mshop/machines/haas-super-minimill.html)
+-- Machineshop [Roland] (http://engineering.dartmouth.edu/mshop/machines/roland-mdx40a.html)
+-- Machineshop [Shopbot Desktop] (http://engineering.dartmouth.edu/mshop/machines/shopbot-desktop.html)
+-- Machineshop [Shopbot Alpha] (http://engineering.dartmouth.edu/mshop/machines/shopbot-prsalpha-sheet-router.html)
+-- Machineshop [Trak Mill] (http://engineering.dartmouth.edu/mshop/machines/trak-dpm-sx3p-bed-mill.html)","--1001 (Borosilicate glass)
 --1002 (Glass ceramic)
 --1003 (Silica glass)
 --1004 (Soda-lime glass)
@@ -1749,7 +1757,7 @@ Drilling,Shaping,Shaping: Machining',Shaping: Machining: Conventional Machining'
 --1099 (Phenolics)
 --1100 (Polyester)
 --1128 (Pewter)",,"DRILLING uses a rotary end cutting tool with one or more cutting lips and usually one or more flutes for the passage of chips and the admission of cutting fluid. Drilling is the fastest and most economical method of cutting a hole in solid metal. Shaped drills allow stepped holes and countersinking. Almost any material can be drilled; glass, stone and ceramic require drills with tungsten carbide or diamond tips."
-Flame cutting,Shaping,Shaping: Machining',Shaping: Machining: Conventional Machining',2066_flame_cutting,-- Machineshop (http://engineering.dartmouth.edu/mshop/machines.html),"--1044 (Cast iron, ductile (nodular))
+Flame cutting,Shaping,Shaping: Machining',Shaping: Machining: Conventional Machining',2066_flame_cutting,-- Machineshop [Torchmate] (http://engineering.dartmouth.edu/mshop/machines/torchmate.html),"--1044 (Cast iron, ductile (nodular))
 --1045 (Cast iron, gray)
 --1046 (High carbon steel)
 --1047 (Low alloy steel)
@@ -1846,7 +1854,11 @@ Grinding,Shaping,Shaping: Machining',Shaping: Machining: Conventional Machining'
 --1137 (Walnut (longitudinal))
 --1138 (Wlanut (transverse))",,"GRINDING includes a group of processes that are used to shape materials that are too hard to be machined by conventional methods, and to improve precision and surface finish. The workpiece is held by a mechanical or magnetic grip that can be tracked or rotated beneath the grinding wheel (if small) or held stationary beneath the moving wheel (if large) while unwanted material is removed using an abrasive grinding wheel. Grinding works best on hard surfaces; soft metals smear and contaminate (""glaze"") the wheel. Grinding processes are expensive and should be used only when absolutely necessary."
 Milling,Shaping,Shaping: Machining',Shaping: Machining: Conventional Machining',2068_milling,"-- Woodshop (https://hop.dartmouth.edu/online/woodworking)
- -- Machineshop (http://engineering.dartmouth.edu/mshop/machines.html)","--1022 (Aluminum/Silicon carbide composite)
+-- Machineshop [Hass Minimill] (http://engineering.dartmouth.edu/mshop/machines/haas-super-minimill.html)
+-- Machineshop [Roland] (http://engineering.dartmouth.edu/mshop/machines/roland-mdx40a.html)
+-- Machineshop [Shopbot Desktop] (http://engineering.dartmouth.edu/mshop/machines/shopbot-desktop.html)
+-- Machineshop [Shopbot Alpha] (http://engineering.dartmouth.edu/mshop/machines/shopbot-prsalpha-sheet-router.html)
+-- Machineshop [Trak Mill] (http://engineering.dartmouth.edu/mshop/machines/trak-dpm-sx3p-bed-mill.html)","--1022 (Aluminum/Silicon carbide composite)
 --1023 (CFRP, epoxy matrix (isotropic))
 --1024 (Dough (Bulk) molding compound, DMC (BMC), polyester matrix)
 --1025 (GFRP, epoxy matrix (isotropic))
@@ -2007,7 +2019,8 @@ Punching/Perforating/Planking/Nibbling,Shaping,Shaping: Machining',Shaping: Mach
 --1071 (Zinc die-casting alloys)","--3020 (Hammer (Hickory Wood Handle, Workforce))
 --3036 (Bottle (glass))","Sheet metal is perforated and profiled by a number of specific processes. All rely on shear-fracture of the sheet. In PUNCHING a circular or shaped hole is punched through the sheet by a hardened die. In PERFORATING an array of punches operate as one unit, creating a pattern of holes in one operation. In BLANKING a shaped disk is createdbypunchingfromasheetbyapunchwiththedesiredshapematingwithadiewiththeinverseshape. In NIBBLING a sheet, supported on an anvil, is cut or trimmed to a desired profile by successive bites from a small, hardened punch, with an action much like that of a sewing machine."
 Turning/Boring/Parting,Shaping,Shaping: Machining',Shaping: Machining: Conventional Machining',2071_turning_boring_parting,"-- Woodshop (https://hop.dartmouth.edu/online/woodworking)
- -- Machineshop (http://engineering.dartmouth.edu/mshop/machines.html)","--1023 (CFRP, epoxy matrix (isotropic))
+-- Machineshop [Track Lathe] (http://engineering.dartmouth.edu/mshop/machines/trak-trl-1630sx.html)
+-- Machineshop [Track High Speed Lathe] (http://engineering.dartmouth.edu/mshop/machines/trak-trl-1630hssx.html)","--1023 (CFRP, epoxy matrix (isotropic))
 --1024 (Dough (Bulk) molding compound, DMC (BMC), polyester matrix)
 --1025 (GFRP, epoxy matrix (isotropic))
 --1026 (Sheet molding compound, SMC, polyester matrix)
@@ -2189,7 +2202,7 @@ Electric discharge wire cutting,Shaping,Shaping: Machining',Shaping: Machining: 
 --1129 (Polysulfone)
 --1134 (Nitrile Rubber (Buna-N))
 --1136 (TORLON PAI)",,"ELECTRICAL DISCHARGE WIRE CUTTING (EDWC) uses a continuously spooled conductive wire (usually brass) as an electrode. A power supply generates rapid electric pulses that create a discharge between the workpiece and wire electrode. The discharge causes the melting, and probably the vaporization, of a minute piece of material, slowly eating into the work piece. Any electrical conductive material can be machined irrespective of hardness. The wire is positioned relative to the workpiece by numerical control. On some machines the wire can be tilted to create tapered parts. An advantage of this process is that no mechanical stresses are created in the workpiece because the wire does not make contact with it."
-Electro-discharge machining,Shaping,Shaping: Machining',Shaping: Machining: Non-Conventional Machining',2074_electro_discharge_machining,,"--1022 (Aluminum/Silicon carbide composite)
+Electro-discharge machining,Shaping,Shaping: Machining',Shaping: Machining: Non-Conventional Machining',2074_electro_discharge_machining,-- Machineshop [EDM] (http://engineering.dartmouth.edu/mshop/machines/agie-charmilles-electrical-spark.html),"--1022 (Aluminum/Silicon carbide composite)
 --1028 (Metal foam)
 --1044 (Cast iron, ductile (nodular))
 --1045 (Cast iron, gray)
@@ -2216,7 +2229,7 @@ Electro-discharge machining,Shaping,Shaping: Machining',Shaping: Machining: Non-
 --1069 (Tungsten alloys)
 --1070 (Commercially pure zinc)
 --1071 (Zinc die-casting alloys)",,"In ELECTRO-DISCHARGE MACHINING (EDM) the work-piece is held in a jig submerged in a dielectric fluid such as kerosene. A power supply generates rapid electric pulses that create a discharge between the work piece and an electrode (a shaped graphite form) at the point of which the two are closest. The discharge creates a plasma causing the melting (and probably the vaporization) of a minute bite of material, slowly eating into the work piece; the debris is swept away by the dielectric fluid. EDM is remarkable for its ability to shape difficult materials, provided they are conductors, and do so with great precision."
-Laser cutting,Shaping,Shaping: Machining',Shaping: Machining: Non-Conventional Machining',2075_laser_cutting,-- Machineshop (http://engineering.dartmouth.edu/mshop/machines.html),"--1001 (Borosilicate glass)
+Laser cutting,Shaping,Shaping: Machining',Shaping: Machining: Non-Conventional Machining',2075_laser_cutting,-- Machineshop [Laser Cutter] (http://engineering.dartmouth.edu/mshop/machines/laser-pro-spirit-gls.html),"--1001 (Borosilicate glass)
 --1002 (Glass ceramic)
 --1003 (Silica glass)
 --1004 (Soda-lime glass)
@@ -2478,7 +2491,7 @@ Expanded foam molding,Shaping,Shaping: Molding',Shaping: Molding: Thermoplastic 
 --1092 (Polypropylene (PP))
 --1093 (Polystyrene (PS))
 --1096 (Polyvinylchloride (tpPVC))",,"The snow-white, crisp, light protective packaging in which your computer arrived, and which you discarded, oblivious of its visual aesthetics, was made by EXPANDED FOAM MOLDING of polystyrene. It is a low temperature, low pressure, process using cheap mold materials, with uses far beyond those of throwaway packaging. There are two stages in its operation. Solid polymer granules, colored, if desired, containing a foaming agent that releases CO2 on heating (a commodity product, widely available) are first softened and expanded by steam-heating under a small pressure. The softened particles are transferred to aluminum molds (to give good heat transfer) and steam-heated at 3 atmospheres, causing them to expand to 20 or more times their original volume and fuse together, filling the mold and taking up its shape."
-"Injection molding, thermoplastics",Shaping,Shaping: Molding',Shaping: Molding: Thermoplastic Molding',2080_injection_molding_thermoplastics,-- Machineshop (http://engineering.dartmouth.edu/mshop/machines.html),"--1029 (Flexible Polymer Foam (LD))
+"Injection molding, thermoplastics",Shaping,Shaping: Molding',Shaping: Molding: Thermoplastic Molding',2080_injection_molding_thermoplastics,-- Machineshop [Morgan Injection Molding] (http://engineering.dartmouth.edu/mshop/machines/morgan-injection-molding-press-md.html),"--1029 (Flexible Polymer Foam (LD))
 --1030 (Flexible Polymer Foam (MD))
 --1031 (Flexible Polymer Foam (VLD))
 --1032 (Rigid Polymer Foam (HD))
@@ -2563,7 +2576,7 @@ Rotational molding,Shaping,Shaping: Molding',Shaping: Molding: Thermoplastic Mol
 --1129 (Polysulfone)
 --1134 (Nitrile Rubber (Buna-N))
 --1136 (TORLON PAI)",,"The chunky, brightly-colored chairs for children are examples of what can be done with ROTATIONAL MOLDING. First a pre-measured quantity of polymer powder is fed into a cold die, which is then heated in a large oven while it is rotated about two axes simultaneously. This tumbles and melts the powder, coating the inside walls of the mold to a thickness set by the initial load of powder, creating a hollow shell. The component then cools in a dwell cycle, the mold chilled by air or water spray. The process is best suited for components that are large, hollow and closed; although small, thin-walled components can be made and open shapes can be created by subsequent machining."
-Thermoforming,Shaping,Shaping: Molding',Shaping: Molding: Thermoplastic Molding',2083_thermoforming,-- Machineshop (http://engineering.dartmouth.edu/mshop/machines.html),"--1029 (Flexible Polymer Foam (LD))
+Thermoforming,Shaping,Shaping: Molding',Shaping: Molding: Thermoplastic Molding',2083_thermoforming,-- Machineshop [Formech Thermo-Forming] (http://engineering.dartmouth.edu/mshop/machines/formech-660.html),"--1029 (Flexible Polymer Foam (LD))
 --1030 (Flexible Polymer Foam (MD))
 --1031 (Flexible Polymer Foam (VLD))
 --1032 (Rigid Polymer Foam (HD))
@@ -2588,7 +2601,7 @@ Thermoforming,Shaping,Shaping: Molding',Shaping: Molding: Thermoplastic Molding'
 --1127 (PVDF)
 --1129 (Polysulfone)
 --1136 (TORLON PAI)",,"Large thermoplastic sheet moldings are economically made by THERMOFORMING. In vacuum thermoforming a thermoplastic sheet, heated to its softening point, is sucked against the contours of a mold, taking up its profile; it is then cooled, solidifying against the mold. Drape thermoforming relies partly on vacuum and partly on the natural sag of the hot polymer to form the shape. Plug-assisted thermoforming augments the vacuum with a compression plug. Pressure thermoforming uses a pressure of several atmospheres to force the hot polymer sheet onto the mold. Male or female molds are possible and - for vacuum thermoforming - can be machined from wood, polymer foam, or from aluminum (for larger batch sizes)."
-"Injection molding, thermosets",Shaping,Shaping: Molding',Shaping: Molding: Thermoset Molding',2084_injection_molding_thermosets,,"--1005 (Cement)
+"Injection molding, thermosets",Shaping,Shaping: Molding',Shaping: Molding: Thermoset Molding',2084_injection_molding_thermosets,-- Machineshop [Morgan Injection Molding] (http://engineering.dartmouth.edu/mshop/machines/morgan-injection-molding-press-md.html),"--1005 (Cement)
 --1029 (Flexible Polymer Foam (LD))
 --1030 (Flexible Polymer Foam (MD))
 --1031 (Flexible Polymer Foam (VLD))
@@ -2703,7 +2716,7 @@ Carburizing and carbonitriding,Surface Treatment,Surface Treatment: Heat Treatme
  
  
  Both processes give components with hard, wear resistant surfaces on a tough, ductile core. Carburizing gives better impact resistance than carbo-nitriding, but it causes more distortion and is slower, making it more expensive."
-Induction and flame hardening,Surface Treatment,Surface Treatment: Heat Treatment',',2092_induction_flame_hardening,,"--1046 (High carbon steel)
+Induction and flame hardening,Surface Treatment,Surface Treatment: Heat Treatment',',2092_induction_flame_hardening, -- Machineshop [Oxy-Acetylene Torch] (http://engineering.dartmouth.edu/mshop/machines/oxy-acetylene-welding-apparatus.html),"--1046 (High carbon steel)
 --1047 (Low alloy steel)
 --1049 (Medium carbon steel)
 --1050 (Stainless steel)","--3020 (Hammer (Hickory Wood Handle, Workforce))","The idea here is this: take a medium or high carbon steel -- cheap, easily formed and machined -- and flash its surface temperature up into the austenitic phase-region, from which it is rapidly cooled from a gas or liquid jet, giving a martensitic surface layer. The result is a tough body with a hard, wear and fatigue resistant, surface skin. Both processes allow the surface of carbon steels to be hardened with minimum distortion or oxidation. In INDUCTION HARDENING, a high frequency (up to 50kHz) electromagnetic field induces eddy-currents in the surface of the work-piece, locally heating it; the depth of hardening depends on the frequency. In FLAME HARDENING, heat is applied instead by high-temperature gas burners, followed, as before, by rapid cooling. Both processes are versatile and can be applied to work pieces that cannot readily be furnace treated or case hardened in the normal way."
