@@ -2,11 +2,8 @@
             <div class="labels">Relations:</div>
             <table style="width:100%">
             {% unless page.relations[0].materials == nil %}
+            <div><p><bold>Materials:</bold></p></div>
             <tr>
-              <th align="center" valign="top">
-                <p><strong>Materials</strong></p>
-              </th>
-
               {% for class in site.material_classes %}
               <td valign="top">
                 <p align="center"><strong>{{ class }}</strong></p>
@@ -27,11 +24,8 @@
 
 
             {% unless page.relations[1].processes == nil %}
+            <div><p><bold>Processes:</bold></p></div>
             <tr>
-              <th align="center" valign="top">
-                <p><strong>Processes</strong></p>
-              </th>
-
               {% for class in site.process_classes %}
               <td valign="top">
                 <p align="center"><strong>{{ class }}</strong></p>
@@ -41,7 +35,7 @@
                     {% assign linkpath =  (rel_p | prepend: "_processes/" | append:".md") %}
                     {% assign item = site.processes | where_exp:"item", "item.path ==  linkpath" | where_exp:"item", "item.process_class == class "|  first %}
                       {% unless item == nil %}
-                        <li><a href="{{ site.baseurl }}/processes/{{ rel_p }}.html">{{ item.process_name | truncate: 25 }}</a></li>
+                        <li><a href="{{ site.baseurl }}/processes/{{ rel_p }}.html">{{ item.process_name | truncate: 20 }}</a></li>
                       {% endunless %}
                   {% endfor %}
                 </ul>
@@ -51,17 +45,15 @@
             {% endunless %}
 
             {% unless page.relations[2].products == nil %}
+            <div><p><bold>Products:</bold></p></div>
             <tr>
-              <th align="center" valign="top">
-                <p><strong>Products</strong></p>
-              </th>
               <td valign="top">
                 <ul>
                   {% assign rel_prods= page.relations[2].products %}
                   {% for rel_prod in rel_prods %}
                     {% assign linkpath =  (rel_prod | prepend: "_products/" | append:".md") %}
                     {% assign item = site.products | where_exp:"item", "item.path ==  linkpath " | first %}
-                        <li><a href="{{ site.baseurl }}/products/{{ rel_prod }}.html">{{ item.product_name | truncate: 40 }}</a></li>
+                        <li><a href="{{ site.baseurl }}/products/{{ rel_prod }}.html">{{ item.product_name | truncate: 20 }}</a></li>
                   {% endfor %}
                 </ul>
               </td>
