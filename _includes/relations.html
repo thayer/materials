@@ -2,8 +2,10 @@
             <div class="labels">Relations:</div>
             <table style="width:100%">
             {% unless page.relations[0].materials == nil %}
-            <div><p><bold>Materials:</bold></p></div>
             <tr>
+              <th align="center" valign="top">
+                <p><strong>Materials</strong></p>
+              </th>
               {% for class in site.material_classes %}
               <td valign="top">
                 <p align="center"><strong>{{ class }}</strong></p>
@@ -24,8 +26,10 @@
 
 
             {% unless page.relations[1].processes == nil %}
-            <div><p><bold>Processes:</bold></p></div>
             <tr>
+              <th align="center" valign="top">
+                <p><strong>Processes</strong></p>
+              </th>
               {% for class in site.process_classes %}
               <td valign="top">
                 <p align="center"><strong>{{ class }}</strong></p>
@@ -45,8 +49,10 @@
             {% endunless %}
 
             {% unless page.relations[2].products == nil %}
-            <div><p><bold>Products:</bold></p></div>
             <tr>
+              <th align="center" valign="top">
+                <p><strong>Products</strong></p>
+              </th>
               <td valign="top">
                 <ul>
                   {% assign rel_prods= page.relations[2].products %}
