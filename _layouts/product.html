@@ -79,7 +79,11 @@ layout: default
         <div class="data">{{ page.subclass }}</div>
 
         <div class="labels">Manufacturer</div>
-        <div class="data"><a href="{{ page.link_to_manufacturer_website }}">{{ page.manufacturer }}</a></div>
+        {% if page.link_to_manufacturer_website == "" %}
+          <div class="data">{{ page.manufacturer }}</div>
+        {% else %}
+          <div class="data"><a href="{{ page.link_to_manufacturer_website }}">{{ page.manufacturer }}</a></div>
+        {% endif %}
 
         <div class="labels">Product Description</div>
         <div class="data">{{ page.product_description }}</div>
